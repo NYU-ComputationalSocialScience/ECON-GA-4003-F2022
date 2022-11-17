@@ -1,0 +1,6271 @@
+attribute,start,min,max,name
+HP,40,190,284,mr-mime
+HP,50,210,304,cleffa
+Attack,25,49,163,cleffa
+Defense,28,54,170,cleffa
+Sp. Atk,45,85,207,cleffa
+Sp. Def,55,103,229,cleffa
+Speed,15,31,141,cleffa
+HP,65,240,334,weezing
+HP,115,340,434,jigglypuff
+Attack,45,85,207,jigglypuff
+Defense,20,40,152,jigglypuff
+Sp. Atk,45,85,207,jigglypuff
+Sp. Def,25,49,163,jigglypuff
+Speed,20,40,152,jigglypuff
+HP,140,390,484,wigglytuff
+Attack,70,130,262,wigglytuff
+Defense,45,85,207,wigglytuff
+Sp. Atk,85,157,295,wigglytuff
+Sp. Def,50,94,218,wigglytuff
+Speed,45,85,207,wigglytuff
+HP,65,240,334,rapidash
+Attack,100,184,328,rapidash
+Defense,70,130,262,rapidash
+Attack,45,85,207,mr-mime
+Defense,65,121,251,mr-mime
+Sp. Atk,100,184,328,mr-mime
+Sp. Def,120,220,372,mr-mime
+Speed,90,166,306,mr-mime
+HP,50,210,304,mr-mime
+Attack,65,121,251,mr-mime
+Defense,65,121,251,mr-mime
+Sp. Atk,90,166,306,mr-mime
+Sp. Def,90,166,306,mr-mime
+Speed,100,184,328,mr-mime
+Attack,90,166,306,weezing
+Defense,120,220,372,weezing
+Sp. Atk,85,157,295,weezing
+Sp. Def,70,130,262,weezing
+Speed,60,112,240,weezing
+HP,65,240,334,weezing
+Attack,90,166,306,weezing
+Defense,120,220,372,weezing
+Sp. Atk,85,157,295,weezing
+Sp. Def,70,130,262,weezing
+Speed,60,112,240,weezing
+Sp. Atk,80,148,284,rapidash
+Sp. Def,80,148,284,rapidash
+Speed,105,193,339,rapidash
+HP,65,240,334,rapidash
+Attack,100,184,328,rapidash
+Defense,70,130,262,rapidash
+Sp. Atk,80,148,284,rapidash
+Sp. Def,80,148,284,rapidash
+Speed,105,193,339,rapidash
+HP,70,250,344,clefairy
+Attack,45,85,207,clefairy
+Defense,48,90,214,clefairy
+Sp. Atk,60,112,240,clefairy
+Sp. Def,65,121,251,clefairy
+Speed,35,67,185,clefairy
+HP,55,220,314,mimikyu
+Attack,90,166,306,mimikyu
+Defense,80,148,284,mimikyu
+Sp. Atk,50,94,218,mimikyu
+Sp. Def,105,193,339,mimikyu
+Speed,96,177,320,mimikyu
+HP,51,212,306,comfey
+Attack,52,98,223,comfey
+Defense,90,166,306,comfey
+Sp. Atk,82,152,289,comfey
+Sp. Def,110,202,350,comfey
+Speed,100,184,328,comfey
+HP,95,300,394,clefable
+Attack,70,130,262,clefable
+Defense,73,135,269,clefable
+Sp. Atk,95,175,317,clefable
+Sp. Def,90,166,306,clefable
+HP,73,256,350,ninetales
+HP,60,230,324,shiinotic
+Attack,45,85,207,shiinotic
+Defense,80,148,284,shiinotic
+Sp. Atk,90,166,306,shiinotic
+Sp. Def,100,184,328,shiinotic
+Speed,30,58,174,shiinotic
+HP,40,190,284,morelull
+Attack,35,67,185,morelull
+Defense,55,103,229,morelull
+Sp. Atk,65,121,251,morelull
+Sp. Def,75,139,273,morelull
+Speed,15,31,141,morelull
+HP,60,230,324,ribombee
+Attack,55,103,229,ribombee
+Defense,60,112,240,ribombee
+Sp. Atk,95,175,317,ribombee
+Sp. Def,70,130,262,ribombee
+Speed,124,227,381,ribombee
+Speed,60,112,240,clefable
+Attack,76,141,276,ninetales
+Defense,75,139,273,ninetales
+Sp. Atk,81,150,287,ninetales
+Sp. Def,100,184,328,ninetales
+Speed,100,184,328,ninetales
+HP,73,256,350,ninetales
+Attack,67,125,256,ninetales
+Defense,75,139,273,ninetales
+Sp. Atk,81,150,287,ninetales
+Sp. Def,100,184,328,ninetales
+Speed,109,200,348,ninetales
+HP,40,190,284,cutiefly
+Attack,45,85,207,cutiefly
+HP,45,200,294,pawniard
+HP,95,300,394,slowbro
+HP,90,290,384,slowpoke
+Defense,40,76,196,cutiefly
+Sp. Atk,55,103,229,cutiefly
+Sp. Def,40,76,196,cutiefly
+Speed,84,155,293,cutiefly
+Attack,85,157,295,pawniard
+Defense,70,130,262,pawniard
+Sp. Atk,40,76,196,pawniard
+Sp. Def,40,76,196,pawniard
+Speed,60,112,240,pawniard
+Attack,75,139,273,slowbro
+Defense,110,202,350,slowbro
+Sp. Atk,100,184,328,slowbro
+Sp. Def,80,148,284,slowbro
+Speed,30,58,174,slowbro
+HP,95,300,394,slowbro
+Attack,75,139,273,slowbro
+Defense,180,328,504,slowbro
+Sp. Atk,130,238,394,slowbro
+Sp. Def,80,148,284,slowbro
+Speed,30,58,174,slowbro
+HP,95,300,394,slowbro
+Attack,100,184,328,slowbro
+Defense,95,175,317,slowbro
+Sp. Atk,100,184,328,slowbro
+Sp. Def,70,130,262,slowbro
+Speed,30,58,174,slowbro
+Attack,65,121,251,slowpoke
+Defense,65,121,251,slowpoke
+Sp. Atk,40,76,196,slowpoke
+Sp. Def,40,76,196,slowpoke
+Speed,15,31,141,slowpoke
+HP,90,290,384,slowpoke
+Attack,65,121,251,slowpoke
+Defense,65,121,251,slowpoke
+Sp. Atk,40,76,196,slowpoke
+Sp. Def,40,76,196,slowpoke
+Speed,15,31,141,slowpoke
+HP,80,270,364,tentacruel
+Attack,70,130,262,tentacruel
+Defense,65,121,251,tentacruel
+Sp. Atk,80,148,284,tentacruel
+Sp. Def,120,220,372,tentacruel
+Speed,100,184,328,tentacruel
+HP,40,190,284,tentacool
+Attack,40,76,196,tentacool
+Defense,35,67,185,tentacool
+Sp. Atk,50,94,218,tentacool
+Sp. Def,100,184,328,tentacool
+Speed,70,130,262,tentacool
+HP,80,270,364,victreebel
+Attack,105,193,339,victreebel
+Defense,65,121,251,victreebel
+Sp. Atk,100,184,328,victreebel
+Sp. Def,70,130,262,victreebel
+Speed,70,130,262,victreebel
+HP,50,210,304,ponyta
+Attack,85,157,295,ponyta
+Defense,55,103,229,ponyta
+Sp. Atk,65,121,251,ponyta
+Sp. Def,65,121,251,ponyta
+Speed,90,166,306,ponyta
+HP,50,210,304,ponyta
+Attack,85,157,295,ponyta
+Defense,55,103,229,ponyta
+Sp. Atk,65,121,251,ponyta
+Sp. Def,65,121,251,ponyta
+Speed,90,166,306,ponyta
+HP,65,240,334,seel
+Attack,45,85,207,seel
+Defense,55,103,229,seel
+Sp. Atk,45,85,207,seel
+Sp. Def,70,130,262,seel
+Speed,45,85,207,seel
+HP,49,208,302,finneon
+Attack,49,92,216,finneon
+Defense,56,105,232,finneon
+Sp. Atk,49,92,216,finneon
+Sp. Def,61,114,243,finneon
+Speed,66,123,254,finneon
+HP,76,262,356,shellos
+Attack,48,90,214,shellos
+Defense,48,90,214,shellos
+Sp. Atk,57,107,234,shellos
+Sp. Def,62,116,245,shellos
+Speed,34,65,183,shellos
+HP,30,170,264,krabby
+Attack,105,193,339,krabby
+Defense,90,166,306,krabby
+Sp. Atk,25,49,163,krabby
+Sp. Def,25,49,163,krabby
+Speed,50,94,218,krabby
+HP,55,220,314,kingler
+Attack,130,238,394,kingler
+Defense,115,211,361,kingler
+Sp. Atk,50,94,218,kingler
+Sp. Def,50,94,218,kingler
+Speed,75,139,273,kingler
+HP,30,170,264,shellder
+Attack,65,121,251,shellder
+Defense,100,184,328,shellder
+Sp. Atk,45,85,207,shellder
+Sp. Def,25,49,163,shellder
+Speed,40,76,196,shellder
+HP,30,170,264,horsea
+Attack,40,76,196,horsea
+Defense,70,130,262,horsea
+Sp. Atk,70,130,262,horsea
+Sp. Def,25,49,163,horsea
+Speed,60,112,240,horsea
+HP,69,248,342,lumineon
+Attack,69,128,260,lumineon
+Defense,76,141,276,lumineon
+Sp. Atk,69,128,260,lumineon
+Sp. Def,86,159,298,lumineon
+Speed,91,168,309,lumineon
+HP,70,250,344,inteleon
+Attack,85,157,295,inteleon
+Defense,65,121,251,inteleon
+Sp. Atk,125,229,383,inteleon
+Sp. Def,65,121,251,inteleon
+Speed,120,220,372,inteleon
+HP,50,210,304,sobble
+Attack,40,76,196,sobble
+Defense,40,76,196,sobble
+Sp. Atk,70,130,262,sobble
+Sp. Def,40,76,196,sobble
+Speed,70,130,262,sobble
+HP,55,220,314,pyukumuku
+Attack,60,112,240,pyukumuku
+Defense,130,238,394,pyukumuku
+Sp. Atk,30,58,174,pyukumuku
+Sp. Def,130,238,394,pyukumuku
+Speed,5,13,119,pyukumuku
+HP,65,240,334,drizzile
+Attack,60,112,240,drizzile
+Defense,55,103,229,drizzile
+Sp. Atk,95,175,317,drizzile
+Sp. Def,55,103,229,drizzile
+Speed,90,166,306,drizzile
+HP,61,232,326,barraskewda
+Attack,123,225,379,barraskewda
+Defense,60,112,240,barraskewda
+Sp. Atk,60,112,240,barraskewda
+Sp. Def,50,94,218,barraskewda
+Speed,136,249,408,barraskewda
+HP,50,210,304,chewtle
+Attack,64,119,249,chewtle
+Defense,50,94,218,chewtle
+Sp. Atk,38,72,192,chewtle
+Sp. Def,38,72,192,chewtle
+Speed,44,83,205,chewtle
+HP,71,252,346,clawitzer
+Attack,73,135,269,clawitzer
+Defense,88,162,302,clawitzer
+Sp. Atk,120,220,372,clawitzer
+Sp. Def,89,164,304,clawitzer
+Speed,59,110,238,clawitzer
+HP,41,192,286,arrokuda
+Attack,63,117,247,arrokuda
+Defense,40,76,196,arrokuda
+Sp. Atk,40,76,196,arrokuda
+Sp. Def,30,58,174,arrokuda
+Speed,66,123,254,arrokuda
+HP,54,218,312,frogadier
+Attack,63,117,247,frogadier
+Defense,52,98,223,frogadier
+Sp. Atk,83,153,291,frogadier
+Sp. Def,56,105,232,frogadier
+Speed,97,179,322,frogadier
+HP,50,210,304,popplio
+Attack,54,101,227,popplio
+Defense,54,101,227,popplio
+Sp. Atk,66,123,254,popplio
+Sp. Def,56,105,232,popplio
+Speed,40,76,196,popplio
+HP,41,192,286,froakie
+Attack,56,105,232,froakie
+Defense,40,76,196,froakie
+Sp. Atk,62,116,245,froakie
+Sp. Def,44,83,205,froakie
+Speed,71,132,265,froakie
+HP,60,230,324,brionne
+Attack,69,128,260,brionne
+Defense,69,128,260,brionne
+Sp. Atk,91,168,309,brionne
+Sp. Def,81,150,287,brionne
+Speed,50,94,218,brionne
+HP,45,200,294,wishiwashi
+Attack,20,40,152,wishiwashi
+Defense,20,40,152,wishiwashi
+Sp. Atk,25,49,163,wishiwashi
+Sp. Def,25,49,163,wishiwashi
+Speed,40,76,196,wishiwashi
+HP,45,200,294,wishiwashi
+Attack,140,256,416,wishiwashi
+Defense,130,238,394,wishiwashi
+Sp. Atk,140,256,416,wishiwashi
+Sp. Def,135,247,405,wishiwashi
+Speed,30,58,174,wishiwashi
+HP,70,250,344,basculin
+Attack,92,170,311,basculin
+Defense,65,121,251,basculin
+Sp. Atk,80,148,284,basculin
+Sp. Def,55,103,229,basculin
+Speed,98,180,324,basculin
+HP,70,250,344,basculin
+Attack,92,170,311,basculin
+Defense,65,121,251,basculin
+Sp. Atk,80,148,284,basculin
+Sp. Def,55,103,229,basculin
+Speed,98,180,324,basculin
+HP,50,210,304,tympole
+Attack,50,94,218,tympole
+Defense,40,76,196,tympole
+Sp. Atk,50,94,218,tympole
+Sp. Def,40,76,196,tympole
+Speed,64,119,249,tympole
+HP,95,300,394,samurott
+Attack,100,184,328,samurott
+Defense,85,157,295,samurott
+Sp. Atk,108,198,346,samurott
+Sp. Def,70,130,262,samurott
+Speed,70,130,262,samurott
+HP,50,210,304,clauncher
+Attack,53,99,225,clauncher
+Defense,62,116,245,clauncher
+Sp. Atk,58,108,236,clauncher
+Sp. Def,63,117,247,clauncher
+Speed,44,83,205,clauncher
+HP,75,260,354,dewott
+Attack,75,139,273,dewott
+Defense,60,112,240,dewott
+Sp. Atk,83,153,291,dewott
+Sp. Def,60,112,240,dewott
+Speed,60,112,240,dewott
+HP,50,210,304,panpour
+Attack,53,99,225,panpour
+Defense,48,90,214,panpour
+Sp. Atk,53,99,225,panpour
+Sp. Def,48,90,214,panpour
+Speed,64,119,249,panpour
+HP,165,440,534,alomomola
+Attack,75,139,273,alomomola
+Defense,80,148,284,alomomola
+Sp. Atk,40,76,196,alomomola
+Sp. Def,45,85,207,alomomola
+Speed,65,121,251,alomomola
+HP,55,220,314,oshawott
+Attack,55,103,229,oshawott
+Defense,45,85,207,oshawott
+Sp. Atk,63,117,247,oshawott
+Sp. Def,45,85,207,oshawott
+Speed,45,85,207,oshawott
+HP,80,270,364,phione
+Attack,80,148,284,phione
+Defense,80,148,284,phione
+Sp. Atk,80,148,284,phione
+Sp. Def,80,148,284,phione
+Speed,80,148,284,phione
+HP,100,310,404,manaphy
+Attack,100,184,328,manaphy
+Defense,100,184,328,manaphy
+Sp. Atk,100,184,328,manaphy
+Sp. Def,100,184,328,manaphy
+Speed,100,184,328,manaphy
+HP,75,260,354,simipour
+Attack,98,180,324,simipour
+Defense,63,117,247,simipour
+Sp. Atk,98,180,324,simipour
+Sp. Def,63,117,247,simipour
+Speed,101,186,331,simipour
+HP,42,194,288,wooloo
+Attack,40,76,196,wooloo
+Defense,55,103,229,wooloo
+Sp. Atk,40,76,196,wooloo
+Sp. Def,45,85,207,wooloo
+Speed,48,90,214,wooloo
+HP,72,254,348,dubwool
+Attack,80,148,284,dubwool
+Defense,100,184,328,dubwool
+Sp. Atk,60,112,240,dubwool
+Sp. Def,90,166,306,dubwool
+Speed,88,162,302,dubwool
+HP,95,300,394,type-null
+Attack,95,175,317,type-null
+Defense,95,175,317,type-null
+Sp. Atk,95,175,317,type-null
+Sp. Def,95,175,317,type-null
+Speed,59,110,238,type-null
+HP,75,260,354,furfrou
+Attack,80,148,284,furfrou
+Defense,60,112,240,furfrou
+Sp. Atk,65,121,251,furfrou
+Sp. Def,90,166,306,furfrou
+Speed,102,188,333,furfrou
+HP,70,250,344,skwovet
+Attack,55,103,229,skwovet
+Defense,55,103,229,skwovet
+Sp. Atk,35,67,185,skwovet
+Sp. Def,35,67,185,skwovet
+Speed,25,49,163,skwovet
+HP,95,300,394,silvally
+Attack,95,175,317,silvally
+Defense,95,175,317,silvally
+Sp. Atk,95,175,317,silvally
+Sp. Def,95,175,317,silvally
+Speed,95,175,317,silvally
+HP,65,240,334,komala
+Attack,115,211,361,komala
+Defense,65,121,251,komala
+Sp. Atk,75,139,273,komala
+Sp. Def,95,175,317,komala
+Speed,65,121,251,komala
+HP,88,286,380,gumshoos
+Attack,110,202,350,gumshoos
+Defense,60,112,240,gumshoos
+Sp. Atk,55,103,229,gumshoos
+Sp. Def,60,112,240,gumshoos
+Speed,45,85,207,gumshoos
+HP,120,350,444,greedent
+Attack,95,175,317,greedent
+Defense,95,175,317,greedent
+Sp. Atk,55,103,229,greedent
+Sp. Def,75,139,273,greedent
+Speed,20,40,152,greedent
+HP,80,270,364,regieleki
+Attack,100,184,328,regieleki
+Defense,50,94,218,regieleki
+Sp. Atk,100,184,328,regieleki
+Sp. Def,50,94,218,regieleki
+Speed,200,364,548,regieleki
+HP,48,206,300,yungoos
+Attack,70,130,262,yungoos
+Defense,30,58,174,yungoos
+Sp. Atk,30,58,174,yungoos
+Sp. Def,30,58,174,yungoos
+Speed,45,85,207,yungoos
+HP,88,286,380,zeraora
+Attack,112,206,355,zeraora
+Defense,75,139,273,zeraora
+Sp. Atk,102,188,333,zeraora
+Sp. Def,80,148,284,zeraora
+Speed,143,261,423,zeraora
+HP,48,206,300,pincurchin
+Attack,101,186,331,pincurchin
+Defense,95,175,317,pincurchin
+Sp. Atk,91,168,309,pincurchin
+Sp. Def,85,157,295,pincurchin
+Speed,15,31,141,pincurchin
+HP,59,228,322,yamper
+Attack,45,85,207,yamper
+Defense,50,94,218,yamper
+Sp. Atk,40,76,196,yamper
+Sp. Def,50,94,218,yamper
+Speed,26,51,166,yamper
+HP,83,276,370,xurkitree
+Attack,89,164,304,xurkitree
+Defense,71,132,265,xurkitree
+Sp. Atk,173,315,489,xurkitree
+Sp. Def,71,132,265,xurkitree
+Speed,83,153,291,xurkitree
+HP,62,234,328,heliolisk
+Attack,55,103,229,heliolisk
+Defense,52,98,223,heliolisk
+Sp. Atk,109,200,348,heliolisk
+Sp. Def,94,173,315,heliolisk
+Speed,109,200,348,heliolisk
+HP,44,198,292,helioptile
+Attack,38,72,192,helioptile
+Defense,33,63,181,helioptile
+Sp. Atk,61,114,243,helioptile
+Sp. Def,43,81,203,helioptile
+Speed,70,130,262,helioptile
+HP,69,248,342,boltund
+Attack,90,166,306,boltund
+Defense,60,112,240,boltund
+Sp. Atk,90,166,306,boltund
+Sp. Def,60,112,240,boltund
+Speed,121,222,375,boltund
+HP,85,280,374,eelektross
+Attack,115,211,361,eelektross
+Defense,80,148,284,eelektross
+Sp. Atk,105,193,339,eelektross
+Sp. Def,80,148,284,eelektross
+Speed,50,94,218,eelektross
+HP,65,240,334,eelektrik
+Attack,85,157,295,eelektrik
+Defense,70,130,262,eelektrik
+Sp. Atk,75,139,273,eelektrik
+Sp. Def,70,130,262,eelektrik
+Speed,40,76,196,eelektrik
+HP,35,180,274,tynamo
+Attack,55,103,229,tynamo
+Defense,40,76,196,tynamo
+Sp. Atk,45,85,207,tynamo
+Sp. Def,40,76,196,tynamo
+Speed,60,112,240,tynamo
+HP,40,190,284,gossifleur
+Attack,40,76,196,gossifleur
+Defense,60,112,240,gossifleur
+Sp. Atk,40,76,196,gossifleur
+Sp. Def,60,112,240,gossifleur
+Speed,10,22,130,gossifleur
+HP,100,310,404,rillaboom
+Attack,125,229,383,rillaboom
+Defense,90,166,306,rillaboom
+Sp. Atk,60,112,240,rillaboom
+Sp. Def,70,130,262,rillaboom
+Speed,85,157,295,rillaboom
+HP,70,250,344,thwackey
+Attack,85,157,295,thwackey
+Defense,70,130,262,thwackey
+Sp. Atk,55,103,229,thwackey
+Sp. Def,60,112,240,thwackey
+Speed,80,148,284,thwackey
+HP,60,230,324,eldegoss
+Attack,50,94,218,eldegoss
+Defense,90,166,306,eldegoss
+Sp. Atk,80,148,284,eldegoss
+Sp. Def,120,220,372,eldegoss
+Speed,60,112,240,eldegoss
+HP,80,270,364,cinderace
+Attack,116,213,364,cinderace
+Defense,75,139,273,cinderace
+Sp. Atk,65,121,251,cinderace
+Sp. Def,75,139,273,cinderace
+Speed,119,218,370,cinderace
+HP,40,190,284,fennekin
+Attack,45,85,207,fennekin
+Defense,40,76,196,fennekin
+Sp. Atk,62,116,245,fennekin
+Sp. Def,60,112,240,fennekin
+Speed,60,112,240,fennekin
+HP,59,228,322,braixen
+Attack,59,110,238,braixen
+Defense,58,108,236,braixen
+Sp. Atk,90,166,306,braixen
+Sp. Def,70,130,262,braixen
+Speed,73,135,269,braixen
+HP,65,240,334,torracat
+Attack,85,157,295,torracat
+Defense,50,94,218,torracat
+Sp. Atk,80,148,284,torracat
+Sp. Def,50,94,218,torracat
+Speed,90,166,306,torracat
+HP,45,200,294,litten
+Attack,65,121,251,litten
+Defense,40,76,196,litten
+Sp. Atk,60,112,240,litten
+Sp. Def,40,76,196,litten
+Speed,70,130,262,litten
+HP,85,280,374,heatmor
+Attack,97,179,322,heatmor
+Defense,66,123,254,heatmor
+Sp. Atk,105,193,339,heatmor
+Sp. Def,66,123,254,heatmor
+Speed,65,121,251,heatmor
+HP,75,260,354,simisear
+Attack,98,180,324,simisear
+Defense,63,117,247,simisear
+Sp. Atk,98,180,324,simisear
+Sp. Def,63,117,247,simisear
+Speed,101,186,331,simisear
+HP,50,210,304,scorbunny
+Attack,71,132,265,scorbunny
+Defense,40,76,196,scorbunny
+Sp. Atk,40,76,196,scorbunny
+Sp. Def,40,76,196,scorbunny
+Speed,69,128,260,scorbunny
+HP,65,240,334,raboot
+Attack,86,159,298,raboot
+Defense,60,112,240,raboot
+Sp. Atk,55,103,229,raboot
+Sp. Def,60,112,240,raboot
+Speed,94,173,315,raboot
+HP,80,270,364,volcanion
+Attack,110,202,350,volcanion
+Defense,120,220,372,volcanion
+Sp. Atk,130,238,394,volcanion
+Sp. Def,90,166,306,volcanion
+Speed,70,130,262,volcanion
+HP,50,210,304,pansear
+Attack,53,99,225,pansear
+Defense,48,90,214,pansear
+Sp. Atk,53,99,225,pansear
+Sp. Def,48,90,214,pansear
+Speed,64,119,249,pansear
+HP,75,260,354,magmortar
+Attack,95,175,317,magmortar
+Defense,67,125,256,magmortar
+Sp. Atk,125,229,383,magmortar
+Sp. Def,95,175,317,magmortar
+Speed,83,153,291,magmortar
+HP,70,250,344,torkoal
+Attack,85,157,295,torkoal
+Defense,140,256,416,torkoal
+Sp. Atk,85,157,295,torkoal
+Sp. Def,70,130,262,torkoal
+Speed,20,40,152,torkoal
+HP,44,198,292,chimchar
+Attack,58,108,236,chimchar
+Defense,44,83,205,chimchar
+Sp. Atk,58,108,236,chimchar
+Sp. Def,44,83,205,chimchar
+Speed,61,114,243,chimchar
+HP,85,280,374,floatzel
+Attack,105,193,339,floatzel
+Defense,55,103,229,floatzel
+Sp. Atk,85,157,295,floatzel
+Sp. Def,50,94,218,floatzel
+Speed,115,211,361,floatzel
+HP,55,220,314,buizel
+Attack,65,121,251,buizel
+Defense,35,67,185,buizel
+Sp. Atk,60,112,240,buizel
+Sp. Def,30,58,174,buizel
+Speed,85,157,295,buizel
+HP,65,240,334,tepig
+Attack,63,117,247,tepig
+Defense,45,85,207,tepig
+Sp. Atk,45,85,207,tepig
+Sp. Def,45,85,207,tepig
+Speed,45,85,207,tepig
+HP,53,216,310,piplup
+Attack,51,96,221,piplup
+Defense,53,99,225,piplup
+Sp. Atk,61,114,243,piplup
+Sp. Def,56,105,232,piplup
+Speed,40,76,196,piplup
+HP,64,238,332,prinplup
+Attack,66,123,254,prinplup
+Defense,68,126,258,prinplup
+Sp. Atk,81,150,287,prinplup
+Sp. Def,76,141,276,prinplup
+Speed,50,94,218,prinplup
+HP,43,196,290,luvdisc
+Attack,30,58,174,luvdisc
+Defense,55,103,229,luvdisc
+Sp. Atk,40,76,196,luvdisc
+Sp. Def,65,121,251,luvdisc
+Speed,97,179,322,luvdisc
+HP,100,310,404,kyogre
+Attack,100,184,328,kyogre
+Defense,90,166,306,kyogre
+Sp. Atk,150,274,438,kyogre
+Sp. Def,140,256,416,kyogre
+Speed,90,166,306,kyogre
+HP,100,310,404,kyogre
+Attack,150,274,438,kyogre
+Defense,90,166,306,kyogre
+Sp. Atk,180,328,504,kyogre
+Sp. Def,160,292,460,kyogre
+Speed,90,166,306,kyogre
+HP,55,220,314,huntail
+Attack,104,191,337,huntail
+Defense,105,193,339,huntail
+Sp. Atk,94,173,315,huntail
+Sp. Def,75,139,273,huntail
+Speed,52,98,223,huntail
+HP,20,150,244,feebas
+Attack,15,31,141,feebas
+Defense,20,40,152,feebas
+Sp. Atk,10,22,130,feebas
+Sp. Def,55,103,229,feebas
+Speed,80,148,284,feebas
+HP,35,180,274,clamperl
+Attack,64,119,249,clamperl
+Defense,85,157,295,clamperl
+Sp. Atk,74,137,271,clamperl
+Sp. Def,55,103,229,clamperl
+Speed,32,62,179,clamperl
+HP,95,300,394,milotic
+Attack,60,112,240,milotic
+Defense,79,146,282,milotic
+Sp. Atk,100,184,328,milotic
+Sp. Def,125,229,383,milotic
+Speed,81,150,287,milotic
+HP,43,196,290,corphish
+Attack,80,148,284,corphish
+Defense,65,121,251,corphish
+Sp. Atk,50,94,218,corphish
+Sp. Def,35,67,185,corphish
+Speed,35,67,185,corphish
+HP,130,370,464,wailmer
+Attack,70,130,262,wailmer
+Defense,35,67,185,wailmer
+Sp. Atk,70,130,262,wailmer
+Sp. Def,35,67,185,wailmer
+Speed,60,112,240,wailmer
+HP,170,450,544,wailord
+Attack,90,166,306,wailord
+Defense,45,85,207,wailord
+Sp. Atk,90,166,306,wailord
+Sp. Def,45,85,207,wailord
+Speed,60,112,240,wailord
+HP,55,220,314,gorebyss
+Attack,84,155,293,gorebyss
+Defense,105,193,339,gorebyss
+Sp. Atk,114,209,359,gorebyss
+Sp. Def,75,139,273,gorebyss
+Speed,52,98,223,gorebyss
+HP,50,210,304,mudkip
+Attack,70,130,262,mudkip
+Defense,50,94,218,mudkip
+Sp. Atk,50,94,218,mudkip
+Sp. Def,50,94,218,mudkip
+Speed,40,76,196,mudkip
+HP,90,290,384,politoed
+Attack,75,139,273,politoed
+Defense,75,139,273,politoed
+Sp. Atk,90,166,306,politoed
+Sp. Def,100,184,328,politoed
+Speed,70,130,262,politoed
+HP,85,280,374,feraligatr
+Attack,105,193,339,feraligatr
+Defense,100,184,328,feraligatr
+Sp. Atk,79,146,282,feraligatr
+Sp. Def,83,153,291,feraligatr
+Speed,78,144,280,feraligatr
+HP,65,240,334,croconaw
+Attack,80,148,284,croconaw
+Defense,80,148,284,croconaw
+Sp. Atk,59,110,238,croconaw
+Sp. Def,63,117,247,croconaw
+Speed,58,108,236,croconaw
+HP,50,210,304,totodile
+Attack,65,121,251,totodile
+Defense,64,119,249,totodile
+Sp. Atk,44,83,205,totodile
+Sp. Def,48,90,214,totodile
+Speed,43,81,203,totodile
+HP,130,370,464,vaporeon
+Attack,65,121,251,vaporeon
+Defense,60,112,240,vaporeon
+Sp. Atk,110,202,350,vaporeon
+Sp. Def,95,175,317,vaporeon
+Speed,65,121,251,vaporeon
+HP,100,310,404,suicune
+Attack,75,139,273,suicune
+Defense,115,211,361,suicune
+Sp. Atk,90,166,306,suicune
+Sp. Def,115,211,361,suicune
+Speed,85,157,295,suicune
+HP,35,180,274,remoraid
+Attack,65,121,251,remoraid
+Defense,35,67,185,remoraid
+Sp. Atk,65,121,251,remoraid
+Sp. Def,35,67,185,remoraid
+Speed,65,121,251,remoraid
+HP,75,260,354,octillery
+Attack,105,193,339,octillery
+Defense,75,139,273,octillery
+Sp. Atk,105,193,339,octillery
+Sp. Def,75,139,273,octillery
+Speed,45,85,207,octillery
+HP,86,282,376,pyroar
+Attack,68,126,258,pyroar
+Defense,72,134,267,pyroar
+Sp. Atk,109,200,348,pyroar
+Sp. Def,66,123,254,pyroar
+Speed,106,195,342,pyroar
+HP,55,220,314,seadra
+Attack,65,121,251,seadra
+Defense,95,175,317,seadra
+Sp. Atk,95,175,317,seadra
+Sp. Def,45,85,207,seadra
+Speed,85,157,295,seadra
+HP,20,150,244,magikarp
+Attack,10,22,130,magikarp
+Defense,55,103,229,magikarp
+Sp. Atk,15,31,141,magikarp
+Sp. Def,20,40,152,magikarp
+Speed,80,148,284,magikarp
+HP,95,300,394,bouffalant
+Attack,110,202,350,bouffalant
+Defense,95,175,317,bouffalant
+Sp. Atk,40,76,196,bouffalant
+Sp. Def,95,175,317,bouffalant
+Speed,55,103,229,bouffalant
+HP,75,260,354,cinccino
+Attack,95,175,317,cinccino
+Defense,60,112,240,cinccino
+Sp. Atk,65,121,251,cinccino
+Sp. Def,60,112,240,cinccino
+Speed,115,211,361,cinccino
+HP,62,234,328,litleo
+Attack,50,94,218,litleo
+Defense,58,108,236,litleo
+Sp. Atk,73,135,269,litleo
+Sp. Def,54,101,227,litleo
+Speed,72,134,267,litleo
+HP,38,186,280,bunnelby
+Attack,36,69,188,bunnelby
+Defense,38,72,192,bunnelby
+Sp. Atk,32,62,179,bunnelby
+Sp. Def,36,69,188,bunnelby
+Speed,57,107,234,bunnelby
+HP,80,270,364,seaking
+Attack,92,170,311,seaking
+Defense,65,121,251,seaking
+Sp. Atk,65,121,251,seaking
+Sp. Def,80,148,284,seaking
+Speed,68,126,258,seaking
+HP,30,170,264,staryu
+Attack,45,85,207,staryu
+Defense,55,103,229,staryu
+Sp. Atk,70,130,262,staryu
+Sp. Def,55,103,229,staryu
+Speed,85,157,295,staryu
+HP,55,220,314,minccino
+Attack,50,94,218,minccino
+Defense,40,76,196,minccino
+Sp. Atk,40,76,196,minccino
+Sp. Def,40,76,196,minccino
+Speed,75,139,273,minccino
+HP,45,200,294,goldeen
+Attack,67,125,256,goldeen
+Defense,60,112,240,goldeen
+Sp. Atk,35,67,185,goldeen
+Sp. Def,50,94,218,goldeen
+Speed,63,117,247,goldeen
+HP,85,280,374,stoutland
+Attack,110,202,350,stoutland
+Defense,90,166,306,stoutland
+Sp. Atk,45,85,207,stoutland
+Sp. Def,90,166,306,stoutland
+Speed,80,148,284,stoutland
+HP,45,200,294,lillipup
+Attack,60,112,240,lillipup
+Defense,45,85,207,lillipup
+Sp. Atk,25,49,163,lillipup
+Sp. Def,45,85,207,lillipup
+Speed,55,103,229,lillipup
+HP,120,350,444,arceus
+Attack,120,220,372,arceus
+Defense,120,220,372,arceus
+Sp. Atk,120,220,372,arceus
+Sp. Def,120,220,372,arceus
+Speed,120,220,372,arceus
+HP,110,330,424,regigigas
+Attack,160,292,460,regigigas
+Defense,110,202,350,regigigas
+Sp. Atk,80,148,284,regigigas
+Sp. Def,110,202,350,regigigas
+Speed,100,184,328,regigigas
+HP,85,280,374,porygon-z
+Attack,80,148,284,porygon-z
+Defense,70,130,262,porygon-z
+Sp. Atk,135,247,405,porygon-z
+Sp. Def,75,139,273,porygon-z
+Speed,90,166,306,porygon-z
+HP,60,230,324,watchog
+Attack,85,157,295,watchog
+Defense,69,128,260,watchog
+Sp. Atk,60,112,240,watchog
+Sp. Def,69,128,260,watchog
+Speed,77,143,278,watchog
+HP,45,200,294,patrat
+Attack,55,103,229,patrat
+Defense,39,74,194,patrat
+Sp. Atk,35,67,185,patrat
+Sp. Def,39,74,194,patrat
+Speed,42,80,201,patrat
+HP,65,240,334,herdier
+Attack,80,148,284,herdier
+Defense,65,121,251,herdier
+Sp. Atk,35,67,185,herdier
+Sp. Def,65,121,251,herdier
+Speed,60,112,240,herdier
+HP,110,330,424,lickilicky
+Attack,85,157,295,lickilicky
+Defense,95,175,317,lickilicky
+Sp. Atk,80,148,284,lickilicky
+Sp. Def,95,175,317,lickilicky
+Speed,50,94,218,lickilicky
+HP,79,268,362,bibarel
+Attack,85,157,295,bibarel
+Defense,60,112,240,bibarel
+Sp. Atk,55,103,229,bibarel
+Sp. Def,60,112,240,bibarel
+Speed,71,132,265,bibarel
+HP,75,260,354,ambipom
+Attack,100,184,328,ambipom
+Defense,66,123,254,ambipom
+Sp. Atk,60,112,240,ambipom
+Sp. Def,66,123,254,ambipom
+Speed,115,211,361,ambipom
+HP,135,380,474,munchlax
+Attack,85,157,295,munchlax
+Defense,40,76,196,munchlax
+Sp. Atk,40,76,196,munchlax
+Sp. Def,85,157,295,munchlax
+Speed,5,13,119,munchlax
+HP,49,208,302,glameow
+Attack,55,103,229,glameow
+Defense,42,80,201,glameow
+Sp. Atk,42,80,201,glameow
+Sp. Def,37,71,190,glameow
+Speed,85,157,295,glameow
+HP,100,310,404,happiny
+Attack,5,13,119,happiny
+Defense,5,13,119,happiny
+Sp. Atk,15,31,141,happiny
+Sp. Def,65,121,251,happiny
+Speed,30,58,174,happiny
+HP,71,252,346,purugly
+Attack,82,152,289,purugly
+Defense,64,119,249,purugly
+Sp. Atk,64,119,249,purugly
+Sp. Def,59,110,238,purugly
+Speed,112,206,355,purugly
+HP,59,228,322,bidoof
+Attack,45,85,207,bidoof
+Defense,40,76,196,bidoof
+Sp. Atk,35,67,185,bidoof
+Sp. Def,40,76,196,bidoof
+Speed,31,60,177,bidoof
+HP,70,250,344,delcatty
+Attack,65,121,251,delcatty
+Defense,65,121,251,delcatty
+Sp. Atk,55,103,229,delcatty
+Sp. Def,55,103,229,delcatty
+Speed,90,166,306,delcatty
+HP,73,256,350,zangoose
+Attack,115,211,361,zangoose
+Defense,60,112,240,zangoose
+Sp. Atk,60,112,240,zangoose
+Sp. Def,60,112,240,zangoose
+Speed,90,166,306,zangoose
+HP,60,230,324,spinda
+Attack,60,112,240,spinda
+Defense,60,112,240,spinda
+Sp. Atk,60,112,240,spinda
+Sp. Def,60,112,240,spinda
+Speed,60,112,240,spinda
+HP,60,230,324,kecleon
+Attack,90,166,306,kecleon
+Defense,70,130,262,kecleon
+Sp. Atk,60,112,240,kecleon
+Sp. Def,120,220,372,kecleon
+Speed,40,76,196,kecleon
+HP,50,210,304,skitty
+Attack,45,85,207,skitty
+Defense,45,85,207,skitty
+Sp. Atk,35,67,185,skitty
+Sp. Def,35,67,185,skitty
+Speed,50,94,218,skitty
+HP,104,318,412,exploud
+Attack,91,168,309,exploud
+Defense,63,117,247,exploud
+Sp. Atk,91,168,309,exploud
+Sp. Def,73,135,269,exploud
+Speed,68,126,258,exploud
+HP,55,220,314,buneary
+Attack,66,123,254,buneary
+Defense,44,83,205,buneary
+Sp. Atk,44,83,205,buneary
+Sp. Def,56,105,232,buneary
+Speed,85,157,295,buneary
+HP,84,278,372,loudred
+Attack,71,132,265,loudred
+Defense,43,81,203,loudred
+Sp. Atk,71,132,265,loudred
+Sp. Def,43,81,203,loudred
+Speed,48,90,214,loudred
+HP,150,410,504,slaking
+Attack,160,292,460,slaking
+Defense,100,184,328,slaking
+Sp. Atk,95,175,317,slaking
+Sp. Def,65,121,251,slaking
+Speed,100,184,328,slaking
+HP,255,620,714,blissey
+Attack,10,22,130,blissey
+Defense,10,22,130,blissey
+Sp. Atk,75,139,273,blissey
+Sp. Def,135,247,405,blissey
+Speed,55,103,229,blissey
+HP,60,230,324,slakoth
+Attack,60,112,240,slakoth
+Defense,60,112,240,slakoth
+Sp. Atk,35,67,185,slakoth
+Sp. Def,35,67,185,slakoth
+HP,80,270,364,vigoroth
+Attack,80,148,284,vigoroth
+Defense,80,148,284,vigoroth
+Sp. Atk,55,103,229,vigoroth
+Sp. Def,55,103,229,vigoroth
+Speed,90,166,306,vigoroth
+HP,55,220,314,smeargle
+Attack,20,40,152,smeargle
+Defense,35,67,185,smeargle
+Sp. Atk,20,40,152,smeargle
+Sp. Def,45,85,207,smeargle
+Speed,75,139,273,smeargle
+Speed,30,58,174,slakoth
+HP,64,238,332,whismur
+Attack,51,96,221,whismur
+Defense,23,45,159,whismur
+Sp. Atk,51,96,221,whismur
+Sp. Def,23,45,159,whismur
+Speed,28,54,170,whismur
+HP,95,300,394,miltank
+Attack,80,148,284,miltank
+Defense,105,193,339,miltank
+Sp. Atk,40,76,196,miltank
+Sp. Def,70,130,262,miltank
+Speed,100,184,328,miltank
+HP,85,280,374,porygon2
+Attack,80,148,284,porygon2
+Defense,90,166,306,porygon2
+Sp. Atk,105,193,339,porygon2
+Sp. Def,95,175,317,porygon2
+Speed,60,112,240,porygon2
+HP,73,256,350,stantler
+Attack,95,175,317,stantler
+Defense,62,116,245,stantler
+Sp. Atk,85,157,295,stantler
+Sp. Def,65,121,251,stantler
+Speed,85,157,295,stantler
+HP,60,230,324,kubfu
+Attack,90,166,306,kubfu
+Defense,60,112,240,kubfu
+Sp. Atk,53,99,225,kubfu
+Sp. Def,50,94,218,kubfu
+Speed,72,134,267,kubfu
+HP,65,240,334,falinks
+Attack,100,184,328,falinks
+Defense,100,184,328,falinks
+Sp. Atk,70,130,262,falinks
+Sp. Def,60,112,240,falinks
+Speed,75,139,273,falinks
+HP,90,290,384,ursaring
+Attack,130,238,394,ursaring
+Defense,75,139,273,ursaring
+Sp. Atk,75,139,273,ursaring
+Sp. Def,75,139,273,ursaring
+Speed,55,103,229,ursaring
+HP,55,220,314,aipom
+Attack,70,130,262,aipom
+Defense,55,103,229,aipom
+Sp. Atk,40,76,196,aipom
+Sp. Def,55,103,229,aipom
+Speed,85,157,295,aipom
+HP,100,310,404,dunsparce
+HP,60,230,324,teddiursa
+Attack,70,130,262,dunsparce
+Defense,70,130,262,dunsparce
+Sp. Atk,65,121,251,dunsparce
+Sp. Def,65,121,251,dunsparce
+Speed,45,85,207,dunsparce
+Attack,80,148,284,teddiursa
+Defense,50,94,218,teddiursa
+Sp. Atk,50,94,218,teddiursa
+Sp. Def,50,94,218,teddiursa
+Speed,40,76,196,teddiursa
+HP,120,350,444,bewear
+Attack,125,229,383,bewear
+Defense,80,148,284,bewear
+Sp. Atk,55,103,229,bewear
+Sp. Def,60,112,240,bewear
+Speed,60,112,240,bewear
+HP,80,270,364,grapploct
+Attack,118,216,368,grapploct
+Defense,90,166,306,grapploct
+Sp. Atk,70,130,262,grapploct
+Sp. Def,80,148,284,grapploct
+Speed,42,80,201,grapploct
+HP,62,234,328,sirfetchd
+Attack,135,247,405,sirfetchd
+Defense,95,175,317,sirfetchd
+Sp. Atk,68,126,258,sirfetchd
+Sp. Def,82,152,289,sirfetchd
+Speed,65,121,251,sirfetchd
+HP,47,204,298,crabrawler
+Attack,82,152,289,crabrawler
+Defense,57,107,234,crabrawler
+Sp. Atk,42,80,201,crabrawler
+Sp. Def,47,89,212,crabrawler
+Speed,63,117,247,crabrawler
+HP,50,210,304,clobbopus
+Attack,68,126,258,clobbopus
+Defense,60,112,240,clobbopus
+Sp. Atk,50,94,218,clobbopus
+Sp. Def,50,94,218,clobbopus
+Speed,32,62,179,clobbopus
+HP,70,250,344,stufful
+Attack,75,139,273,stufful
+Defense,50,94,218,stufful
+Sp. Atk,45,85,207,stufful
+Sp. Def,50,94,218,stufful
+Speed,50,94,218,stufful
+HP,67,244,338,pancham
+Attack,82,152,289,pancham
+Defense,62,116,245,pancham
+Sp. Atk,46,87,210,pancham
+Sp. Def,48,90,214,pancham
+Speed,43,81,203,pancham
+HP,100,310,404,passimian
+Attack,120,220,372,passimian
+Defense,90,166,306,passimian
+Sp. Atk,40,76,196,passimian
+Sp. Def,60,112,240,passimian
+Speed,80,148,284,passimian
+HP,65,240,334,mienshao
+Attack,125,229,383,mienshao
+Defense,60,112,240,mienshao
+Sp. Atk,95,175,317,mienshao
+Sp. Def,60,112,240,mienshao
+Speed,105,193,339,mienshao
+HP,45,200,294,mienfoo
+Attack,85,157,295,mienfoo
+Defense,50,94,218,mienfoo
+Sp. Atk,55,103,229,mienfoo
+Sp. Def,50,94,218,mienfoo
+Speed,65,121,251,mienfoo
+HP,91,292,386,keldeo
+Attack,72,134,267,keldeo
+Defense,90,166,306,keldeo
+Sp. Atk,129,236,392,keldeo
+Sp. Def,90,166,306,keldeo
+Speed,108,198,346,keldeo
+HP,91,292,386,keldeo
+Attack,72,134,267,keldeo
+Defense,90,166,306,keldeo
+Sp. Atk,129,236,392,keldeo
+Sp. Def,90,166,306,keldeo
+Speed,108,198,346,keldeo
+HP,60,230,324,pachirisu
+Attack,45,85,207,pachirisu
+Defense,70,130,262,pachirisu
+Sp. Atk,45,85,207,pachirisu
+Sp. Def,90,166,306,pachirisu
+Speed,95,175,317,pachirisu
+HP,75,260,354,zebstrika
+Attack,100,184,328,zebstrika
+Defense,63,117,247,zebstrika
+Sp. Atk,80,148,284,zebstrika
+Sp. Def,63,117,247,zebstrika
+Speed,116,213,364,zebstrika
+HP,60,230,324,luxio
+Attack,85,157,295,luxio
+Defense,49,92,216,luxio
+Sp. Atk,60,112,240,luxio
+Sp. Def,49,92,216,luxio
+Speed,60,112,240,luxio
+HP,45,200,294,shinx
+Attack,65,121,251,shinx
+Defense,34,65,183,shinx
+Sp. Atk,40,76,196,shinx
+Sp. Def,34,65,183,shinx
+Speed,45,85,207,shinx
+HP,60,230,324,minun
+Attack,40,76,196,minun
+Defense,50,94,218,minun
+Sp. Atk,75,139,273,minun
+Sp. Def,85,157,295,minun
+Speed,95,175,317,minun
+HP,75,260,354,electivire
+Attack,123,225,379,electivire
+Defense,67,125,256,electivire
+Sp. Atk,95,175,317,electivire
+Sp. Def,85,157,295,electivire
+Speed,95,175,317,electivire
+HP,80,270,364,luxray
+Attack,120,220,372,luxray
+Defense,79,146,282,luxray
+Sp. Atk,95,175,317,luxray
+Sp. Def,79,146,282,luxray
+Speed,70,130,262,luxray
+HP,45,200,294,blitzle
+Attack,60,112,240,blitzle
+Defense,32,62,179,blitzle
+Sp. Atk,50,94,218,blitzle
+Sp. Def,32,62,179,blitzle
+Speed,76,141,276,blitzle
+HP,60,230,324,plusle
+Attack,50,94,218,plusle
+Defense,40,76,196,plusle
+Sp. Atk,85,157,295,plusle
+Sp. Def,75,139,273,plusle
+Speed,95,175,317,plusle
+HP,40,190,284,electrike
+Attack,45,85,207,electrike
+Defense,40,76,196,electrike
+Sp. Atk,65,121,251,electrike
+Sp. Def,40,76,196,electrike
+Speed,65,121,251,electrike
+HP,90,290,384,raikou
+Attack,85,157,295,raikou
+Defense,75,139,273,raikou
+Sp. Atk,115,211,361,raikou
+Sp. Def,100,184,328,raikou
+Speed,115,211,361,raikou
+HP,55,220,314,mareep
+Attack,40,76,196,mareep
+Defense,40,76,196,mareep
+Sp. Atk,65,121,251,mareep
+Sp. Def,45,85,207,mareep
+Speed,35,67,185,mareep
+HP,70,250,344,manectric
+Attack,75,139,273,manectric
+Defense,60,112,240,manectric
+Sp. Atk,105,193,339,manectric
+Sp. Def,60,112,240,manectric
+Speed,105,193,339,manectric
+HP,70,250,344,manectric
+Attack,75,139,273,manectric
+Defense,80,148,284,manectric
+Sp. Atk,135,247,405,manectric
+Sp. Def,80,148,284,manectric
+Speed,135,247,405,manectric
+HP,70,250,344,flaaffy
+HP,20,150,244,pichu
+Attack,40,76,196,pichu
+Defense,15,31,141,pichu
+Sp. Atk,35,67,185,pichu
+Sp. Def,35,67,185,pichu
+Speed,60,112,240,pichu
+Attack,55,103,229,flaaffy
+Defense,55,103,229,flaaffy
+Sp. Atk,80,148,284,flaaffy
+Sp. Def,60,112,240,flaaffy
+Speed,45,85,207,flaaffy
+HP,65,240,334,electabuzz
+Attack,83,153,291,electabuzz
+Defense,57,107,234,electabuzz
+Sp. Atk,95,175,317,electabuzz
+Sp. Def,85,157,295,electabuzz
+Speed,105,193,339,electabuzz
+HP,45,200,294,elekid
+Attack,63,117,247,elekid
+Defense,37,71,190,elekid
+Sp. Atk,65,121,251,elekid
+Sp. Def,55,103,229,elekid
+Speed,95,175,317,elekid
+HP,125,360,454,lanturn
+Attack,58,108,236,lanturn
+Defense,58,108,236,lanturn
+Sp. Atk,76,141,276,lanturn
+Sp. Def,76,141,276,lanturn
+Speed,67,125,256,lanturn
+HP,65,240,334,jolteon
+Attack,65,121,251,jolteon
+Defense,60,112,240,jolteon
+Sp. Atk,110,202,350,jolteon
+Sp. Def,95,175,317,jolteon
+Speed,130,238,394,jolteon
+HP,60,230,324,electrode
+Attack,50,94,218,electrode
+Defense,70,130,262,electrode
+Sp. Atk,80,148,284,electrode
+Sp. Def,80,148,284,electrode
+Speed,150,274,438,electrode
+HP,75,260,354,chinchou
+Attack,38,72,192,chinchou
+Defense,38,72,192,chinchou
+Sp. Atk,56,105,232,chinchou
+Sp. Def,56,105,232,chinchou
+HP,72,254,348,tsareena
+HP,35,180,274,pikachu
+Speed,67,125,256,chinchou
+Attack,120,220,372,tsareena
+Defense,98,180,324,tsareena
+Sp. Atk,50,94,218,tsareena
+Sp. Def,98,180,324,tsareena
+Speed,72,134,267,tsareena
+Attack,55,103,229,pikachu
+Defense,40,76,196,pikachu
+Sp. Atk,50,94,218,pikachu
+Sp. Def,50,94,218,pikachu
+Speed,90,166,306,pikachu
+HP,45,200,294,pikachu
+Attack,80,148,284,pikachu
+Defense,50,94,218,pikachu
+Sp. Atk,75,139,273,pikachu
+Sp. Def,60,112,240,pikachu
+Speed,120,220,372,pikachu
+HP,50,210,304,grookey
+Attack,65,121,251,grookey
+Defense,50,94,218,grookey
+Sp. Atk,40,76,196,grookey
+Sp. Def,40,76,196,grookey
+Speed,65,121,251,grookey
+HP,52,214,308,steenee
+Attack,40,76,196,steenee
+Defense,48,90,214,steenee
+Sp. Atk,40,76,196,steenee
+Sp. Def,48,90,214,steenee
+Speed,62,116,245,steenee
+HP,70,250,344,lurantis
+Attack,105,193,339,lurantis
+Defense,90,166,306,lurantis
+Sp. Atk,80,148,284,lurantis
+Sp. Def,90,166,306,lurantis
+Speed,45,85,207,lurantis
+HP,40,190,284,fomantis
+Attack,55,103,229,fomantis
+Defense,35,67,185,fomantis
+Sp. Atk,50,94,218,fomantis
+Sp. Def,35,67,185,fomantis
+Speed,35,67,185,fomantis
+HP,123,356,450,gogoat
+HP,40,190,284,voltorb
+Attack,30,58,174,voltorb
+HP,42,194,288,bounsweet
+Attack,30,58,174,bounsweet
+Defense,38,72,192,bounsweet
+Sp. Atk,30,58,174,bounsweet
+Sp. Def,38,72,192,bounsweet
+Speed,32,62,179,bounsweet
+Attack,100,184,328,gogoat
+Defense,62,116,245,gogoat
+Sp. Atk,97,179,322,gogoat
+Sp. Def,81,150,287,gogoat
+Speed,68,126,258,gogoat
+Defense,50,94,218,voltorb
+Sp. Atk,55,103,229,voltorb
+Sp. Def,55,103,229,voltorb
+Speed,100,184,328,voltorb
+HP,66,242,336,skiddo
+Attack,65,121,251,skiddo
+Defense,48,90,214,skiddo
+Sp. Atk,62,116,245,skiddo
+Sp. Def,57,107,234,skiddo
+Speed,52,98,223,skiddo
+HP,88,286,380,chesnaught
+HP,61,232,326,quilladin
+HP,56,222,316,chespin
+HP,75,260,354,maractus
+Attack,86,159,298,maractus
+Defense,67,125,256,maractus
+Sp. Atk,106,195,342,maractus
+Sp. Def,67,125,256,maractus
+Speed,60,112,240,maractus
+HP,60,230,324,deerling
+Attack,60,112,240,deerling
+Defense,50,94,218,deerling
+Sp. Atk,40,76,196,deerling
+Sp. Def,50,94,218,deerling
+Speed,75,139,273,deerling
+HP,91,292,386,virizion
+Attack,90,166,306,virizion
+Defense,72,134,267,virizion
+Sp. Atk,90,166,306,virizion
+Sp. Def,129,236,392,virizion
+Speed,108,198,346,virizion
+Attack,107,197,344,chesnaught
+Defense,122,224,377,chesnaught
+Sp. Atk,74,137,271,chesnaught
+Sp. Def,75,139,273,chesnaught
+Speed,64,119,249,chesnaught
+Attack,78,144,280,quilladin
+Defense,95,175,317,quilladin
+Sp. Atk,56,105,232,quilladin
+Sp. Def,58,108,236,quilladin
+Speed,57,107,234,quilladin
+Attack,61,114,243,chespin
+Defense,65,121,251,chespin
+Sp. Atk,48,90,214,chespin
+Sp. Def,45,85,207,chespin
+Speed,38,72,192,chespin
+HP,60,230,324,servine
+Attack,60,112,240,servine
+Defense,75,139,273,servine
+Sp. Atk,60,112,240,servine
+Sp. Def,75,139,273,servine
+Speed,83,153,291,servine
+HP,80,270,364,sawsbuck
+HP,75,260,354,simisage
+HP,70,250,344,lilligant
+Attack,60,112,240,lilligant
+Defense,75,139,273,lilligant
+Sp. Atk,110,202,350,lilligant
+Sp. Def,75,139,273,lilligant
+Speed,90,166,306,lilligant
+HP,45,200,294,petilil
+Attack,35,67,185,petilil
+Defense,50,94,218,petilil
+Sp. Atk,70,130,262,petilil
+Sp. Def,50,94,218,petilil
+Speed,30,58,174,petilil
+HP,50,210,304,pansage
+Attack,53,99,225,pansage
+Defense,48,90,214,pansage
+Sp. Atk,53,99,225,pansage
+Sp. Def,48,90,214,pansage
+Speed,64,119,249,pansage
+Attack,100,184,328,sawsbuck
+Defense,70,130,262,sawsbuck
+Sp. Atk,60,112,240,sawsbuck
+Sp. Def,70,130,262,sawsbuck
+Speed,95,175,317,sawsbuck
+Attack,98,180,324,simisage
+Defense,63,117,247,simisage
+Sp. Atk,98,180,324,simisage
+Sp. Def,63,117,247,simisage
+Speed,101,186,331,simisage
+HP,75,260,354,serperior
+Attack,75,139,273,serperior
+Defense,95,175,317,serperior
+Sp. Atk,75,139,273,serperior
+Sp. Def,95,175,317,serperior
+Speed,113,207,357,serperior
+HP,45,200,294,snivy
+Attack,45,85,207,snivy
+Defense,55,103,229,snivy
+Sp. Atk,45,85,207,snivy
+Sp. Def,55,103,229,snivy
+Speed,63,117,247,snivy
+HP,65,240,334,leafeon
+Attack,110,202,350,leafeon
+Defense,130,238,394,leafeon
+Sp. Atk,60,112,240,leafeon
+Sp. Def,65,121,251,leafeon
+Speed,95,175,317,leafeon
+HP,100,310,404,tangrowth
+Attack,100,184,328,tangrowth
+Defense,125,229,383,tangrowth
+Sp. Atk,110,202,350,tangrowth
+Sp. Def,50,94,218,tangrowth
+Speed,50,94,218,tangrowth
+HP,74,258,352,carnivine
+Attack,100,184,328,carnivine
+Defense,72,134,267,carnivine
+Sp. Atk,90,166,306,carnivine
+Sp. Def,72,134,267,carnivine
+Speed,46,87,210,carnivine
+HP,70,250,344,cherrim
+Attack,60,112,240,cherrim
+Defense,70,130,262,cherrim
+Sp. Atk,87,161,300,cherrim
+Sp. Def,78,144,280,cherrim
+Speed,85,157,295,cherrim
+HP,45,200,294,cherubi
+Attack,35,67,185,cherubi
+Defense,45,85,207,cherubi
+Sp. Atk,62,116,245,cherubi
+HP,75,260,354,grotle
+Attack,89,164,304,grotle
+Defense,85,157,295,grotle
+Sp. Atk,55,103,229,grotle
+Sp. Def,65,121,251,grotle
+Speed,36,69,188,grotle
+Sp. Def,53,99,225,cherubi
+Speed,35,67,185,cherubi
+HP,55,220,314,turtwig
+Attack,68,126,258,turtwig
+Defense,64,119,249,turtwig
+Sp. Atk,45,85,207,turtwig
+Sp. Def,55,103,229,turtwig
+Speed,31,60,177,turtwig
+HP,50,210,304,cacnea
+Attack,85,157,295,cacnea
+Defense,40,76,196,cacnea
+Sp. Atk,85,157,295,cacnea
+Sp. Def,40,76,196,cacnea
+Speed,35,67,185,cacnea
+HP,40,190,284,seedot
+Attack,40,76,196,seedot
+Defense,50,94,218,seedot
+Sp. Atk,30,58,174,seedot
+Sp. Def,30,58,174,seedot
+Speed,30,58,174,seedot
+HP,100,310,404,glastrier
+Attack,145,265,427,glastrier
+Defense,130,238,394,glastrier
+Sp. Atk,65,121,251,glastrier
+Sp. Def,110,202,350,glastrier
+Speed,30,58,174,glastrier
+HP,60,230,324,shroomish
+Attack,40,76,196,shroomish
+Defense,60,112,240,shroomish
+Sp. Atk,40,76,196,shroomish
+Sp. Def,60,112,240,shroomish
+Speed,35,67,185,shroomish
+HP,80,270,364,ludicolo
+Attack,70,130,262,ludicolo
+Defense,70,130,262,ludicolo
+Sp. Atk,90,166,306,ludicolo
+Sp. Def,100,184,328,ludicolo
+Speed,70,130,262,ludicolo
+HP,40,190,284,lotad
+Attack,30,58,174,lotad
+Defense,30,58,174,lotad
+Sp. Atk,40,76,196,lotad
+Sp. Def,50,94,218,lotad
+Speed,30,58,174,lotad
+HP,60,230,324,lombre
+Attack,50,94,218,lombre
+Defense,50,94,218,lombre
+Sp. Atk,60,112,240,lombre
+Sp. Def,70,130,262,lombre
+Speed,50,94,218,lombre
+HP,75,260,354,eiscue
+Attack,80,148,284,eiscue
+Defense,110,202,350,eiscue
+Sp. Atk,65,121,251,eiscue
+Sp. Def,90,166,306,eiscue
+Speed,50,94,218,eiscue
+HP,75,260,354,eiscue
+Attack,80,148,284,eiscue
+Defense,70,130,262,eiscue
+Sp. Atk,65,121,251,eiscue
+Sp. Def,50,94,218,eiscue
+Speed,130,238,394,eiscue
+HP,90,290,384,arctovish
+Attack,90,166,306,arctovish
+Defense,100,184,328,arctovish
+Sp. Atk,80,148,284,arctovish
+Sp. Def,90,166,306,arctovish
+Speed,55,103,229,arctovish
+HP,95,300,394,avalugg
+Attack,117,215,366,avalugg
+Defense,184,335,513,avalugg
+Sp. Atk,44,83,205,avalugg
+Sp. Def,46,87,210,avalugg
+Speed,28,54,170,avalugg
+HP,45,200,294,magby
+Attack,75,139,273,magby
+Defense,37,71,190,magby
+Sp. Atk,70,130,262,magby
+Sp. Def,55,103,229,magby
+Speed,83,153,291,magby
+HP,40,190,284,slugma
+Attack,40,76,196,slugma
+Defense,40,76,196,slugma
+Sp. Atk,70,130,262,slugma
+Sp. Def,40,76,196,slugma
+Speed,20,40,152,slugma
+HP,45,200,294,torchic
+Attack,60,112,240,torchic
+Defense,40,76,196,torchic
+Sp. Atk,70,130,262,torchic
+Sp. Def,50,94,218,torchic
+Speed,45,85,207,torchic
+HP,97,304,398,crabominable
+Attack,132,242,399,crabominable
+Defense,77,143,278,crabominable
+Sp. Atk,62,116,245,crabominable
+Sp. Def,67,125,256,crabominable
+Speed,43,81,203,crabominable
+HP,90,290,384,arctozolt
+Attack,100,184,328,arctozolt
+Defense,90,166,306,arctozolt
+Sp. Atk,90,166,306,arctozolt
+Sp. Def,80,148,284,arctozolt
+Speed,55,103,229,arctozolt
+HP,55,220,314,bergmite
+Attack,69,128,260,bergmite
+Defense,85,157,295,bergmite
+Sp. Atk,32,62,179,bergmite
+Sp. Def,35,67,185,bergmite
+Speed,28,54,170,bergmite
+HP,115,340,434,entei
+Attack,115,211,361,entei
+Defense,85,157,295,entei
+Sp. Atk,90,166,306,entei
+Sp. Def,75,139,273,entei
+Speed,100,184,328,entei
+HP,90,290,384,arcanine
+Attack,110,202,350,arcanine
+Defense,80,148,284,arcanine
+Sp. Atk,100,184,328,arcanine
+Sp. Def,80,148,284,arcanine
+Speed,95,175,317,arcanine
+HP,78,266,360,typhlosion
+Attack,84,155,293,typhlosion
+Defense,78,144,280,typhlosion
+Sp. Atk,109,200,348,typhlosion
+Sp. Def,85,157,295,typhlosion
+Speed,100,184,328,typhlosion
+HP,58,226,320,quilava
+Attack,64,119,249,quilava
+Defense,58,108,236,quilava
+Sp. Atk,80,148,284,quilava
+Sp. Def,65,121,251,quilava
+Speed,80,148,284,quilava
+HP,65,240,334,magmar
+Attack,95,175,317,magmar
+Defense,57,107,234,magmar
+Sp. Atk,100,184,328,magmar
+Sp. Def,85,157,295,magmar
+Speed,93,171,313,magmar
+HP,39,188,282,cyndaquil
+Attack,52,98,223,cyndaquil
+Defense,43,81,203,cyndaquil
+Sp. Atk,60,112,240,cyndaquil
+Sp. Def,50,94,218,cyndaquil
+Speed,65,121,251,cyndaquil
+HP,65,240,334,flareon
+Attack,130,238,394,flareon
+Defense,60,112,240,flareon
+Sp. Atk,95,175,317,flareon
+Sp. Def,110,202,350,flareon
+Speed,65,121,251,flareon
+HP,65,240,334,poliwhirl
+Attack,65,121,251,poliwhirl
+Defense,65,121,251,poliwhirl
+Sp. Atk,50,94,218,poliwhirl
+Sp. Def,50,94,218,poliwhirl
+Speed,90,166,306,poliwhirl
+HP,80,270,364,golduck
+Attack,82,152,289,golduck
+Defense,78,144,280,golduck
+Sp. Atk,95,175,317,golduck
+Sp. Def,80,148,284,golduck
+Speed,85,157,295,golduck
+HP,40,190,284,poliwag
+Attack,50,94,218,poliwag
+Defense,40,76,196,poliwag
+Sp. Atk,40,76,196,poliwag
+Sp. Def,40,76,196,poliwag
+Speed,90,166,306,poliwag
+HP,79,268,362,blastoise
+Attack,83,153,291,blastoise
+Defense,100,184,328,blastoise
+Sp. Atk,85,157,295,blastoise
+Sp. Def,105,193,339,blastoise
+Speed,78,144,280,blastoise
+HP,79,268,362,blastoise
+Attack,103,189,335,blastoise
+Defense,120,220,372,blastoise
+Sp. Atk,135,247,405,blastoise
+Sp. Def,115,211,361,blastoise
+HP,50,210,304,psyduck
+Attack,52,98,223,psyduck
+Defense,48,90,214,psyduck
+Sp. Atk,65,121,251,psyduck
+Sp. Def,50,94,218,psyduck
+Speed,55,103,229,psyduck
+HP,39,188,282,charmander
+Attack,52,98,223,charmander
+Defense,43,81,203,charmander
+Sp. Atk,60,112,240,charmander
+Sp. Def,50,94,218,charmander
+Speed,65,121,251,charmander
+HP,58,226,320,charmeleon
+Attack,64,119,249,charmeleon
+Defense,58,108,236,charmeleon
+Sp. Atk,80,148,284,charmeleon
+Sp. Def,65,121,251,charmeleon
+Speed,80,148,284,charmeleon
+Speed,78,144,280,blastoise
+HP,65,240,334,porygon
+Attack,60,112,240,porygon
+Defense,70,130,262,porygon
+Sp. Atk,85,157,295,porygon
+Sp. Def,75,139,273,porygon
+Speed,40,76,196,porygon
+HP,48,206,300,ditto
+Attack,48,90,214,ditto
+Defense,48,90,214,ditto
+Sp. Atk,48,90,214,ditto
+Sp. Def,48,90,214,ditto
+Speed,48,90,214,ditto
+HP,85,280,374,furret
+Attack,76,141,276,furret
+Defense,64,119,249,furret
+Sp. Atk,45,85,207,furret
+Sp. Def,55,103,229,furret
+Speed,90,166,306,furret
+HP,59,228,322,wartortle
+HP,55,220,314,eevee
+Attack,55,103,229,eevee
+Defense,50,94,218,eevee
+HP,35,180,274,sentret
+Attack,46,87,210,sentret
+Defense,34,65,183,sentret
+Sp. Atk,35,67,185,sentret
+Sp. Def,45,85,207,sentret
+Speed,20,40,152,sentret
+Attack,63,117,247,wartortle
+Defense,80,148,284,wartortle
+Sp. Atk,65,121,251,wartortle
+Sp. Def,80,148,284,wartortle
+Speed,58,108,236,wartortle
+HP,44,198,292,squirtle
+Attack,48,90,214,squirtle
+Defense,65,121,251,squirtle
+Sp. Atk,50,94,218,squirtle
+Sp. Def,64,119,249,squirtle
+Speed,43,81,203,squirtle
+Sp. Atk,45,85,207,eevee
+Sp. Def,65,121,251,eevee
+Speed,55,103,229,eevee
+HP,65,240,334,eevee
+Attack,75,139,273,eevee
+Defense,70,130,262,eevee
+Sp. Atk,65,121,251,eevee
+Sp. Def,85,157,295,eevee
+Speed,75,139,273,eevee
+HP,160,430,524,snorlax
+Attack,110,202,350,snorlax
+Defense,65,121,251,snorlax
+Sp. Atk,65,121,251,snorlax
+Sp. Def,110,202,350,snorlax
+Speed,30,58,174,snorlax
+HP,75,260,354,tauros
+Attack,100,184,328,tauros
+Defense,95,175,317,tauros
+Sp. Atk,40,76,196,tauros
+Sp. Def,70,130,262,tauros
+Speed,110,202,350,tauros
+HP,68,246,340,salazzle
+Attack,64,119,249,salazzle
+Defense,60,112,240,salazzle
+Sp. Atk,111,204,353,salazzle
+Sp. Def,60,112,240,salazzle
+Speed,117,215,366,salazzle
+HP,250,610,704,chansey
+Attack,5,13,119,chansey
+Defense,5,13,119,chansey
+Sp. Atk,35,67,185,chansey
+Sp. Def,105,193,339,chansey
+Speed,50,94,218,chansey
+HP,67,244,338,poipole
+Attack,73,135,269,poipole
+Defense,67,125,256,poipole
+Sp. Atk,73,135,269,poipole
+Sp. Def,67,125,256,poipole
+Speed,73,135,269,poipole
+HP,75,260,354,toxtricity
+Attack,98,180,324,toxtricity
+Defense,70,130,262,toxtricity
+Sp. Atk,114,209,359,toxtricity
+Sp. Def,70,130,262,toxtricity
+Speed,75,139,273,toxtricity
+HP,75,260,354,toxtricity
+Attack,98,180,324,toxtricity
+Defense,70,130,262,toxtricity
+Sp. Atk,114,209,359,toxtricity
+Sp. Def,70,130,262,toxtricity
+Speed,75,139,273,toxtricity
+HP,105,320,414,kangaskhan
+Attack,95,175,317,kangaskhan
+Defense,80,148,284,kangaskhan
+Sp. Atk,40,76,196,kangaskhan
+Sp. Def,80,148,284,kangaskhan
+Speed,90,166,306,kangaskhan
+HP,105,320,414,kangaskhan
+Attack,125,229,383,kangaskhan
+Defense,100,184,328,kangaskhan
+Sp. Atk,60,112,240,kangaskhan
+Sp. Def,100,184,328,kangaskhan
+Speed,100,184,328,kangaskhan
+HP,40,190,284,toxel
+Attack,38,72,192,toxel
+Defense,35,67,185,toxel
+Sp. Atk,54,101,227,toxel
+Sp. Def,35,67,185,toxel
+Speed,40,76,196,toxel
+HP,90,290,384,lickitung
+Attack,55,103,229,lickitung
+Defense,75,139,273,lickitung
+Sp. Atk,60,112,240,lickitung
+Sp. Def,75,139,273,lickitung
+Speed,30,58,174,lickitung
+HP,48,206,300,salandit
+Attack,44,83,205,salandit
+Defense,40,76,196,salandit
+Sp. Atk,71,132,265,salandit
+Sp. Def,40,76,196,salandit
+Speed,77,143,278,salandit
+HP,50,210,304,toxapex
+Attack,63,117,247,toxapex
+Defense,152,278,443,toxapex
+Sp. Atk,53,99,225,toxapex
+Sp. Def,142,260,421,toxapex
+Speed,35,67,185,toxapex
+HP,50,210,304,skrelp
+Attack,60,112,240,skrelp
+Defense,60,112,240,skrelp
+Sp. Atk,60,112,240,skrelp
+Sp. Def,60,112,240,skrelp
+Speed,30,58,174,skrelp
+HP,50,210,304,mareanie
+Attack,53,99,225,mareanie
+Defense,62,116,245,mareanie
+Sp. Atk,43,81,203,mareanie
+Sp. Def,52,98,223,mareanie
+Speed,45,85,207,mareanie
+HP,114,338,432,amoonguss
+Attack,85,157,295,amoonguss
+Defense,70,130,262,amoonguss
+Sp. Atk,85,157,295,amoonguss
+Sp. Def,80,148,284,amoonguss
+Speed,30,58,174,amoonguss
+HP,69,248,342,foongus
+Attack,55,103,229,foongus
+Defense,45,85,207,foongus
+Sp. Atk,55,103,229,foongus
+Sp. Def,55,103,229,foongus
+Speed,15,31,141,foongus
+HP,60,230,324,roserade
+Attack,70,130,262,roserade
+Defense,65,121,251,roserade
+Sp. Atk,125,229,383,roserade
+Sp. Def,105,193,339,roserade
+Speed,90,166,306,roserade
+HP,40,190,284,budew
+Attack,30,58,174,budew
+Defense,35,67,185,budew
+Sp. Atk,50,94,218,budew
+Sp. Def,70,130,262,budew
+Speed,55,103,229,budew
+HP,80,270,364,garbodor
+Attack,95,175,317,garbodor
+Defense,82,152,289,garbodor
+Sp. Atk,60,112,240,garbodor
+Sp. Def,82,152,289,garbodor
+Speed,75,139,273,garbodor
+HP,73,256,350,seviper
+Attack,100,184,328,seviper
+Defense,60,112,240,seviper
+Sp. Atk,100,184,328,seviper
+Sp. Def,60,112,240,seviper
+Speed,65,121,251,seviper
+HP,50,210,304,trubbish
+Attack,50,94,218,trubbish
+Defense,62,116,245,trubbish
+Sp. Atk,40,76,196,trubbish
+Sp. Def,62,116,245,trubbish
+Speed,65,121,251,trubbish
+HP,100,310,404,swalot
+Attack,73,135,269,swalot
+Defense,83,153,291,swalot
+Sp. Atk,73,135,269,swalot
+Sp. Def,83,153,291,swalot
+Speed,55,103,229,swalot
+HP,70,250,344,gulpin
+Attack,43,81,203,gulpin
+Defense,53,99,225,gulpin
+Sp. Atk,43,81,203,gulpin
+Sp. Def,53,99,225,gulpin
+Speed,40,76,196,gulpin
+HP,100,310,404,spectrier
+Attack,65,121,251,spectrier
+Defense,60,112,240,spectrier
+Sp. Atk,145,265,427,spectrier
+Sp. Def,80,148,284,spectrier
+Speed,130,238,394,spectrier
+HP,60,230,324,cursola
+Attack,95,175,317,cursola
+Defense,50,94,218,cursola
+Sp. Atk,145,265,427,cursola
+Sp. Def,130,238,394,cursola
+Speed,30,58,174,cursola
+HP,65,240,334,qwilfish
+Attack,95,175,317,qwilfish
+Defense,85,157,295,qwilfish
+Sp. Atk,55,103,229,qwilfish
+Sp. Def,55,103,229,qwilfish
+Speed,85,157,295,qwilfish
+HP,50,210,304,roselia
+Attack,60,112,240,roselia
+Defense,45,85,207,roselia
+Sp. Atk,100,184,328,roselia
+Sp. Def,80,148,284,roselia
+Speed,65,121,251,roselia
+HP,40,190,284,sinistea
+Attack,45,85,207,sinistea
+Defense,45,85,207,sinistea
+Sp. Atk,74,137,271,sinistea
+Sp. Def,54,101,227,sinistea
+Speed,50,94,218,sinistea
+HP,53,216,310,blacephalon
+Attack,127,233,388,blacephalon
+Defense,53,99,225,blacephalon
+Sp. Atk,151,276,441,blacephalon
+Sp. Def,79,146,282,blacephalon
+Speed,107,197,344,blacephalon
+HP,78,266,360,decidueye
+Attack,107,197,344,decidueye
+Defense,75,139,273,decidueye
+Sp. Atk,100,184,328,decidueye
+Sp. Def,100,184,328,decidueye
+Speed,70,130,262,decidueye
+HP,70,250,344,dhelmise
+Attack,131,240,397,dhelmise
+Defense,100,184,328,dhelmise
+Sp. Atk,86,159,298,dhelmise
+Sp. Def,90,166,306,dhelmise
+Speed,40,76,196,dhelmise
+HP,40,190,284,koffing
+Attack,65,121,251,koffing
+Defense,95,175,317,koffing
+Sp. Atk,60,112,240,koffing
+Sp. Def,45,85,207,koffing
+Speed,35,67,185,koffing
+HP,90,290,384,marshadow
+Attack,125,229,383,marshadow
+Defense,80,148,284,marshadow
+Sp. Atk,90,166,306,marshadow
+Sp. Def,90,166,306,marshadow
+Speed,125,229,383,marshadow
+HP,105,320,414,zarude
+Attack,120,220,372,zarude
+Defense,105,193,339,zarude
+Sp. Atk,70,130,262,zarude
+Sp. Def,95,175,317,zarude
+Speed,105,193,339,zarude
+HP,65,240,334,gourgeist
+Attack,90,166,306,gourgeist
+Defense,122,224,377,gourgeist
+Sp. Atk,58,108,236,gourgeist
+Sp. Def,75,139,273,gourgeist
+Speed,84,155,293,gourgeist
+HP,55,220,314,gourgeist
+Attack,85,157,295,gourgeist
+Defense,122,224,377,gourgeist
+HP,100,310,404,urshifu
+Attack,130,238,394,urshifu
+Defense,100,184,328,urshifu
+Sp. Atk,63,117,247,urshifu
+Sp. Def,60,112,240,urshifu
+Speed,97,179,322,urshifu
+HP,100,310,404,urshifu
+Attack,130,238,394,urshifu
+Defense,100,184,328,urshifu
+Sp. Atk,63,117,247,urshifu
+Sp. Def,60,112,240,urshifu
+Speed,97,179,322,urshifu
+HP,70,250,344,thievul
+Attack,58,108,236,thievul
+Defense,58,108,236,thievul
+Sp. Atk,87,161,300,thievul
+Sp. Def,92,170,311,thievul
+Speed,90,166,306,thievul
+HP,93,296,390,obstagoon
+Attack,90,166,306,obstagoon
+Defense,101,186,331,obstagoon
+Sp. Atk,60,112,240,obstagoon
+Sp. Def,81,150,287,obstagoon
+Speed,95,175,317,obstagoon
+HP,60,230,324,polteageist
+Attack,65,121,251,polteageist
+Defense,65,121,251,polteageist
+Sp. Atk,134,245,403,polteageist
+Sp. Def,114,209,359,polteageist
+Speed,70,130,262,polteageist
+HP,40,190,284,nickit
+Attack,28,54,170,nickit
+Defense,28,54,170,nickit
+Sp. Atk,47,89,212,nickit
+Sp. Def,52,98,223,nickit
+Speed,50,94,218,nickit
+HP,95,300,394,incineroar
+Attack,115,211,361,incineroar
+Defense,90,166,306,incineroar
+Sp. Atk,80,148,284,incineroar
+Sp. Def,90,166,306,incineroar
+Speed,60,112,240,incineroar
+HP,95,300,394,pangoro
+Attack,124,227,381,pangoro
+Defense,78,144,280,pangoro
+Sp. Atk,69,128,260,pangoro
+Sp. Def,71,132,265,pangoro
+Speed,58,108,236,pangoro
+HP,72,254,348,greninja
+Attack,95,175,317,greninja
+Defense,67,125,256,greninja
+Sp. Atk,103,189,335,greninja
+Sp. Def,71,132,265,greninja
+Speed,122,224,377,greninja
+HP,72,254,348,greninja
+Attack,145,265,427,greninja
+Defense,67,125,256,greninja
+HP,65,240,334,scrafty
+Attack,90,166,306,scrafty
+Defense,115,211,361,scrafty
+Sp. Atk,45,85,207,scrafty
+Sp. Def,115,211,361,scrafty
+Speed,58,108,236,scrafty
+HP,64,238,332,liepard
+Attack,88,162,302,liepard
+Defense,50,94,218,liepard
+Sp. Atk,88,162,302,liepard
+Sp. Def,50,94,218,liepard
+Speed,106,195,342,liepard
+HP,58,226,320,morpeko
+Attack,95,175,317,morpeko
+Defense,58,108,236,morpeko
+Sp. Atk,70,130,262,morpeko
+Sp. Def,58,108,236,morpeko
+Speed,97,179,322,morpeko
+HP,58,226,320,morpeko
+Attack,95,175,317,morpeko
+Defense,58,108,236,morpeko
+Sp. Atk,70,130,262,morpeko
+Sp. Def,58,108,236,morpeko
+Speed,97,179,322,morpeko
+Sp. Atk,58,108,236,gourgeist
+Sp. Def,75,139,273,gourgeist
+Speed,99,182,326,gourgeist
+HP,75,260,354,gourgeist
+Attack,95,175,317,gourgeist
+Defense,122,224,377,gourgeist
+Sp. Atk,58,108,236,gourgeist
+Sp. Def,75,139,273,gourgeist
+Speed,69,128,260,gourgeist
+HP,85,280,374,gourgeist
+Attack,100,184,328,gourgeist
+Defense,122,224,377,gourgeist
+Sp. Atk,58,108,236,gourgeist
+Sp. Def,75,139,273,gourgeist
+Speed,54,101,227,gourgeist
+Sp. Atk,153,279,445,greninja
+Sp. Def,71,132,265,greninja
+Speed,132,242,399,greninja
+HP,50,210,304,scraggy
+Attack,75,139,273,scraggy
+Defense,70,130,262,scraggy
+Sp. Atk,35,67,185,scraggy
+Sp. Def,70,130,262,scraggy
+Speed,48,90,214,scraggy
+HP,41,192,286,purrloin
+Attack,50,94,218,purrloin
+Defense,37,71,190,purrloin
+Sp. Atk,50,94,218,purrloin
+Sp. Def,37,71,190,purrloin
+Speed,66,123,254,purrloin
+HP,100,310,404,calyrex
+HP,60,230,324,indeedee
+Attack,65,121,251,indeedee
+Defense,55,103,229,indeedee
+Sp. Atk,105,193,339,indeedee
+Sp. Def,95,175,317,indeedee
+Speed,95,175,317,indeedee
+HP,70,250,344,indeedee
+Attack,55,103,229,indeedee
+Defense,65,121,251,indeedee
+Sp. Atk,95,175,317,indeedee
+Sp. Def,105,193,339,indeedee
+Speed,85,157,295,indeedee
+Attack,80,148,284,calyrex
+Defense,80,148,284,calyrex
+Sp. Atk,80,148,284,calyrex
+Sp. Def,80,148,284,calyrex
+Speed,80,148,284,calyrex
+HP,100,310,404,calyrex
+Attack,165,301,471,calyrex
+Defense,150,274,438,calyrex
+Sp. Atk,85,157,295,calyrex
+Sp. Def,130,238,394,calyrex
+Speed,50,94,218,calyrex
+HP,100,310,404,calyrex
+Attack,85,157,295,calyrex
+Defense,80,148,284,calyrex
+Sp. Atk,165,301,471,calyrex
+Sp. Def,100,184,328,calyrex
+Speed,150,274,438,calyrex
+HP,43,196,290,cosmog
+Attack,29,56,172,cosmog
+Defense,31,60,177,cosmog
+Sp. Atk,29,56,172,cosmog
+Sp. Def,31,60,177,cosmog
+Speed,37,71,190,cosmog
+HP,68,246,340,bruxish
+Attack,105,193,339,bruxish
+Defense,70,130,262,bruxish
+Sp. Atk,70,130,262,bruxish
+Sp. Def,70,130,262,bruxish
+Speed,92,170,311,bruxish
+HP,42,194,288,hatenna
+Attack,30,58,174,hatenna
+Defense,45,85,207,hatenna
+Sp. Atk,56,105,232,hatenna
+Sp. Def,53,99,225,hatenna
+Speed,39,74,194,hatenna
+HP,57,224,318,hattrem
+Attack,40,76,196,hattrem
+Defense,65,121,251,hattrem
+Sp. Atk,86,159,298,hattrem
+Sp. Def,73,135,269,hattrem
+Speed,49,92,216,hattrem
+HP,137,384,478,lunala
+Attack,113,207,357,lunala
+Defense,89,164,304,lunala
+Sp. Atk,137,251,410,lunala
+Sp. Def,107,197,344,lunala
+Speed,97,179,322,lunala
+HP,80,270,364,mr-rime
+Attack,85,157,295,mr-rime
+Defense,75,139,273,mr-rime
+Sp. Atk,110,202,350,mr-rime
+Sp. Def,100,184,328,mr-rime
+Speed,70,130,262,mr-rime
+HP,90,290,384,oranguru
+Attack,60,112,240,oranguru
+Defense,80,148,284,oranguru
+Sp. Atk,90,166,306,oranguru
+Sp. Def,110,202,350,oranguru
+Speed,60,112,240,oranguru
+HP,43,196,290,cosmoem
+Attack,29,56,172,cosmoem
+Defense,131,240,397,cosmoem
+Sp. Atk,29,56,172,cosmoem
+Sp. Def,131,240,397,cosmoem
+Speed,37,71,190,cosmoem
+HP,75,260,354,sawk
+Attack,125,229,383,sawk
+Defense,75,139,273,sawk
+Sp. Atk,30,58,174,sawk
+Sp. Def,75,139,273,sawk
+Speed,85,157,295,sawk
+HP,53,216,310,inkay
+Attack,54,101,227,inkay
+Defense,53,99,225,inkay
+Sp. Atk,37,71,190,inkay
+Sp. Def,46,87,210,inkay
+Speed,45,85,207,inkay
+HP,62,234,328,espurr
+Attack,48,90,214,espurr
+Defense,54,101,227,espurr
+Sp. Atk,63,117,247,espurr
+Sp. Def,60,112,240,espurr
+Speed,68,126,258,espurr
+HP,80,270,364,hoopa
+Attack,110,202,350,hoopa
+Defense,60,112,240,hoopa
+Sp. Atk,150,274,438,hoopa
+Sp. Def,130,238,394,hoopa
+Speed,70,130,262,hoopa
+HP,80,270,364,hoopa
+Attack,160,292,460,hoopa
+Defense,60,112,240,hoopa
+Sp. Atk,170,310,482,hoopa
+Sp. Def,130,238,394,hoopa
+Speed,80,148,284,hoopa
+HP,74,258,352,meowstic
+HP,86,282,376,malamar
+Attack,92,170,311,malamar
+Defense,88,162,302,malamar
+Sp. Atk,68,126,258,malamar
+Sp. Def,75,139,273,malamar
+Speed,73,135,269,malamar
+Attack,48,90,214,meowstic
+Defense,76,141,276,meowstic
+Sp. Atk,83,153,291,meowstic
+Sp. Def,81,150,287,meowstic
+Speed,104,191,337,meowstic
+HP,74,258,352,meowstic
+Attack,48,90,214,meowstic
+Defense,76,141,276,meowstic
+Sp. Atk,83,153,291,meowstic
+Sp. Def,81,150,287,meowstic
+Speed,104,191,337,meowstic
+HP,75,260,354,timburr
+Attack,80,148,284,timburr
+Defense,55,103,229,timburr
+Sp. Atk,25,49,163,timburr
+Sp. Def,35,67,185,timburr
+Speed,35,67,185,timburr
+HP,85,280,374,gurdurr
+Attack,105,193,339,gurdurr
+Defense,85,157,295,gurdurr
+Sp. Atk,40,76,196,gurdurr
+Sp. Def,50,94,218,gurdurr
+Speed,40,76,196,gurdurr
+HP,120,350,444,throh
+Attack,100,184,328,throh
+Defense,85,157,295,throh
+Sp. Atk,30,58,174,throh
+Sp. Def,85,157,295,throh
+Speed,45,85,207,throh
+HP,83,276,370,toxicroak
+Attack,106,195,342,toxicroak
+Defense,65,121,251,toxicroak
+Sp. Atk,86,159,298,toxicroak
+Sp. Def,65,121,251,toxicroak
+Speed,85,157,295,toxicroak
+HP,110,330,424,emboar
+Attack,123,225,379,emboar
+Defense,65,121,251,emboar
+Sp. Atk,100,184,328,emboar
+Sp. Def,65,121,251,emboar
+Speed,65,121,251,emboar
+HP,90,290,384,pignite
+Attack,93,171,313,pignite
+Defense,55,103,229,pignite
+Sp. Atk,70,130,262,pignite
+Sp. Def,55,103,229,pignite
+Speed,55,103,229,pignite
+HP,105,320,414,conkeldurr
+Attack,140,256,416,conkeldurr
+Defense,95,175,317,conkeldurr
+Sp. Atk,55,103,229,conkeldurr
+Sp. Def,65,121,251,conkeldurr
+HP,48,206,300,croagunk
+Attack,61,114,243,croagunk
+Defense,40,76,196,croagunk
+Sp. Atk,61,114,243,croagunk
+Sp. Def,40,76,196,croagunk
+Speed,50,94,218,croagunk
+Speed,45,85,207,conkeldurr
+HP,144,398,492,hariyama
+HP,40,190,284,riolu
+Attack,70,130,262,riolu
+Defense,40,76,196,riolu
+Sp. Atk,35,67,185,riolu
+Sp. Def,40,76,196,riolu
+Speed,60,112,240,riolu
+HP,64,238,332,monferno
+Attack,78,144,280,monferno
+Defense,52,98,223,monferno
+Sp. Atk,78,144,280,monferno
+Sp. Def,52,98,223,monferno
+Speed,81,150,287,monferno
+HP,80,270,364,blaziken
+Attack,120,220,372,blaziken
+Defense,70,130,262,blaziken
+Sp. Atk,110,202,350,blaziken
+Sp. Def,70,130,262,blaziken
+Speed,80,148,284,blaziken
+HP,80,270,364,blaziken
+Attack,160,292,460,blaziken
+Defense,80,148,284,blaziken
+Sp. Atk,130,238,394,blaziken
+Sp. Def,80,148,284,blaziken
+Speed,100,184,328,blaziken
+HP,60,230,324,breloom
+Attack,130,238,394,breloom
+Defense,80,148,284,breloom
+Sp. Atk,60,112,240,breloom
+Sp. Def,60,112,240,breloom
+Speed,70,130,262,breloom
+Attack,120,220,372,hariyama
+Defense,60,112,240,hariyama
+Sp. Atk,40,76,196,hariyama
+Sp. Def,60,112,240,hariyama
+Speed,50,94,218,hariyama
+HP,65,240,334,lopunny
+Attack,76,141,276,lopunny
+Defense,84,155,293,lopunny
+Sp. Atk,54,101,227,lopunny
+Sp. Def,96,177,320,lopunny
+Speed,105,193,339,lopunny
+HP,65,240,334,lopunny
+Attack,136,249,408,lopunny
+Defense,94,173,315,lopunny
+Sp. Atk,54,101,227,lopunny
+Sp. Def,96,177,320,lopunny
+Speed,135,247,405,lopunny
+HP,72,254,348,makuhita
+Attack,60,112,240,makuhita
+Defense,30,58,174,makuhita
+Sp. Atk,20,40,152,makuhita
+Sp. Def,30,58,174,makuhita
+Speed,25,49,163,makuhita
+HP,76,262,356,infernape
+Attack,104,191,337,infernape
+Defense,71,132,265,infernape
+Sp. Atk,104,191,337,infernape
+Sp. Def,71,132,265,infernape
+Speed,108,198,346,infernape
+HP,35,180,274,tyrogue
+Attack,35,67,185,tyrogue
+Defense,35,67,185,tyrogue
+Sp. Atk,35,67,185,tyrogue
+Sp. Def,35,67,185,tyrogue
+Speed,35,67,185,tyrogue
+HP,60,230,324,combusken
+Attack,85,157,295,combusken
+Defense,60,112,240,combusken
+Sp. Atk,85,157,295,combusken
+Sp. Def,60,112,240,combusken
+Speed,55,103,229,combusken
+HP,50,210,304,hitmonchan
+Attack,105,193,339,hitmonchan
+Defense,79,146,282,hitmonchan
+Sp. Atk,35,67,185,hitmonchan
+Sp. Def,110,202,350,hitmonchan
+Speed,76,141,276,hitmonchan
+HP,50,210,304,hitmonlee
+Attack,120,220,372,hitmonlee
+Defense,53,99,225,hitmonlee
+Sp. Atk,35,67,185,hitmonlee
+Sp. Def,110,202,350,hitmonlee
+Speed,87,161,300,hitmonlee
+HP,50,210,304,hitmontop
+Attack,95,175,317,hitmontop
+Defense,95,175,317,hitmontop
+Sp. Atk,35,67,185,hitmontop
+Sp. Def,110,202,350,hitmontop
+Speed,70,130,262,hitmontop
+HP,90,290,384,machamp
+Attack,130,238,394,machamp
+Defense,80,148,284,machamp
+Sp. Atk,65,121,251,machamp
+Sp. Def,85,157,295,machamp
+Speed,55,103,229,machamp
+HP,80,270,364,machoke
+Attack,100,184,328,machoke
+Defense,70,130,262,machoke
+Sp. Atk,50,94,218,machoke
+Sp. Def,60,112,240,machoke
+Speed,45,85,207,machoke
+HP,85,280,374,palossand
+Attack,75,139,273,palossand
+Defense,110,202,350,palossand
+Sp. Atk,100,184,328,palossand
+Sp. Def,75,139,273,palossand
+Speed,35,67,185,palossand
+HP,70,250,344,machop
+Attack,80,148,284,machop
+Defense,50,94,218,machop
+Sp. Atk,35,67,185,machop
+Sp. Def,35,67,185,machop
+Speed,35,67,185,machop
+HP,90,290,384,poliwrath
+Attack,95,175,317,poliwrath
+Defense,95,175,317,poliwrath
+Sp. Atk,70,130,262,poliwrath
+Sp. Def,90,166,306,poliwrath
+Speed,70,130,262,poliwrath
+HP,65,240,334,primeape
+Attack,105,193,339,primeape
+Defense,60,112,240,primeape
+Sp. Atk,60,112,240,primeape
+Sp. Def,70,130,262,primeape
+Speed,95,175,317,primeape
+HP,58,226,320,runerigus
+Attack,95,175,317,runerigus
+Defense,145,265,427,runerigus
+Sp. Atk,50,94,218,runerigus
+Sp. Def,105,193,339,runerigus
+Speed,30,58,174,runerigus
+HP,52,214,308,silicobra
+Attack,57,107,234,silicobra
+Defense,75,139,273,silicobra
+Sp. Atk,35,67,185,silicobra
+Sp. Def,50,94,218,silicobra
+Speed,46,87,210,silicobra
+HP,40,190,284,mankey
+Attack,80,148,284,mankey
+Defense,35,67,185,mankey
+Sp. Atk,35,67,185,mankey
+Sp. Def,45,85,207,mankey
+Speed,70,130,262,mankey
+HP,72,254,348,sandaconda
+Attack,107,197,344,sandaconda
+Defense,125,229,383,sandaconda
+Sp. Atk,65,121,251,sandaconda
+Sp. Def,70,130,262,sandaconda
+Speed,71,132,265,sandaconda
+HP,100,310,404,mudsdale
+Attack,125,229,383,mudsdale
+Defense,100,184,328,mudsdale
+Sp. Atk,55,103,229,mudsdale
+Sp. Def,85,157,295,mudsdale
+Speed,35,67,185,mudsdale
+HP,70,250,344,mudbray
+Attack,100,184,328,mudbray
+Defense,70,130,262,mudbray
+Sp. Atk,45,85,207,mudbray
+Sp. Def,55,103,229,mudbray
+Speed,45,85,207,mudbray
+HP,55,220,314,sandygast
+Attack,55,103,229,sandygast
+Defense,80,148,284,sandygast
+Sp. Atk,70,130,262,sandygast
+Sp. Def,45,85,207,sandygast
+Speed,15,31,141,sandygast
+HP,85,280,374,diggersby
+Attack,56,105,232,diggersby
+Defense,77,143,278,diggersby
+Sp. Atk,50,94,218,diggersby
+Sp. Def,77,143,278,diggersby
+Speed,78,144,280,diggersby
+HP,105,320,414,seismitoad
+Attack,95,175,317,seismitoad
+Defense,75,139,273,seismitoad
+Sp. Atk,85,157,295,seismitoad
+Sp. Def,75,139,273,seismitoad
+Speed,74,137,271,seismitoad
+HP,60,230,324,krokorok
+HP,60,230,324,drilbur
+Attack,85,157,295,drilbur
+Defense,40,76,196,drilbur
+Sp. Atk,30,58,174,drilbur
+Sp. Def,45,85,207,drilbur
+Speed,68,126,258,drilbur
+HP,75,260,354,palpitoad
+Attack,65,121,251,palpitoad
+Defense,55,103,229,palpitoad
+Sp. Atk,65,121,251,palpitoad
+Sp. Def,55,103,229,palpitoad
+Speed,69,128,260,palpitoad
+HP,50,210,304,sandile
+Attack,72,134,267,sandile
+Defense,35,67,185,sandile
+Sp. Atk,35,67,185,sandile
+Sp. Def,35,67,185,sandile
+Speed,65,121,251,sandile
+HP,95,300,394,krookodile
+Attack,117,215,366,krookodile
+Defense,80,148,284,krookodile
+Sp. Atk,65,121,251,krookodile
+Sp. Def,70,130,262,krookodile
+Speed,92,170,311,krookodile
+Attack,82,152,289,krokorok
+Defense,45,85,207,krokorok
+Sp. Atk,45,85,207,krokorok
+Sp. Def,45,85,207,krokorok
+Speed,74,137,271,krokorok
+HP,68,246,340,hippopotas
+Attack,72,134,267,hippopotas
+Defense,78,144,280,hippopotas
+Sp. Atk,38,72,192,hippopotas
+Sp. Def,42,80,201,hippopotas
+Speed,32,62,179,hippopotas
+HP,108,326,420,hippowdon
+Attack,112,206,355,hippowdon
+Defense,118,216,368,hippowdon
+Sp. Atk,68,126,258,hippowdon
+Sp. Def,72,134,267,hippowdon
+Speed,47,89,212,hippowdon
+HP,110,330,424,whiscash
+Attack,78,144,280,whiscash
+Defense,73,135,269,whiscash
+Sp. Atk,76,141,276,whiscash
+Sp. Def,71,132,265,whiscash
+Speed,60,112,240,whiscash
+HP,95,300,394,torterra
+Attack,109,200,348,torterra
+Defense,105,193,339,torterra
+Sp. Atk,75,139,273,torterra
+Sp. Def,85,157,295,torterra
+Speed,56,105,232,torterra
+HP,100,310,404,groudon
+Attack,150,274,438,groudon
+HP,110,330,424,coalossal
+Attack,80,148,284,coalossal
+Defense,120,220,372,coalossal
+Sp. Atk,80,148,284,coalossal
+Sp. Def,90,166,306,coalossal
+Speed,30,58,174,coalossal
+HP,100,310,404,stonjourner
+Attack,125,229,383,stonjourner
+Defense,135,247,405,stonjourner
+Sp. Atk,20,40,152,stonjourner
+Sp. Def,20,40,152,stonjourner
+Speed,70,130,262,stonjourner
+Defense,140,256,416,groudon
+Sp. Atk,100,184,328,groudon
+Sp. Def,90,166,306,groudon
+Speed,90,166,306,groudon
+HP,100,310,404,groudon
+Attack,180,328,504,groudon
+Defense,160,292,460,groudon
+Sp. Atk,150,274,438,groudon
+Sp. Def,90,166,306,groudon
+Speed,90,166,306,groudon
+HP,111,332,426,gastrodon
+Attack,83,153,291,gastrodon
+Defense,68,126,258,gastrodon
+Sp. Atk,92,170,311,gastrodon
+Sp. Def,82,152,289,gastrodon
+Speed,39,74,194,gastrodon
+HP,80,270,364,carkol
+Attack,60,112,240,carkol
+Defense,90,166,306,carkol
+Sp. Atk,60,112,240,carkol
+Sp. Def,70,130,262,carkol
+Speed,50,94,218,carkol
+HP,30,170,264,rolycoly
+Attack,40,76,196,rolycoly
+Defense,50,94,218,rolycoly
+Sp. Atk,40,76,196,rolycoly
+Sp. Def,50,94,218,rolycoly
+Speed,30,58,174,rolycoly
+HP,75,260,354,lycanroc
+HP,109,328,422,nihilego
+Attack,53,99,225,nihilego
+Defense,47,89,212,nihilego
+Sp. Atk,127,233,388,nihilego
+Sp. Def,131,240,397,nihilego
+Speed,103,189,335,nihilego
+Attack,115,211,361,lycanroc
+Defense,65,121,251,lycanroc
+Sp. Atk,55,103,229,lycanroc
+Sp. Def,65,121,251,lycanroc
+Speed,112,206,355,lycanroc
+HP,85,280,374,lycanroc
+Attack,115,211,361,lycanroc
+Defense,75,139,273,lycanroc
+Sp. Atk,55,103,229,lycanroc
+Sp. Def,75,139,273,lycanroc
+Speed,82,152,289,lycanroc
+HP,75,260,354,lycanroc
+Attack,117,215,366,lycanroc
+Defense,65,121,251,lycanroc
+Sp. Atk,55,103,229,lycanroc
+Sp. Def,65,121,251,lycanroc
+Speed,110,202,350,lycanroc
+HP,42,194,288,binacle
+Attack,52,98,223,binacle
+Defense,67,125,256,binacle
+Sp. Atk,39,74,194,binacle
+Sp. Def,56,105,232,binacle
+Speed,50,94,218,binacle
+HP,77,264,358,amaura
+Attack,59,110,238,amaura
+Defense,50,94,218,amaura
+Sp. Atk,67,125,256,amaura
+Sp. Def,63,117,247,amaura
+Speed,46,87,210,amaura
+HP,72,254,348,barbaracle
+Attack,105,193,339,barbaracle
+Defense,115,211,361,barbaracle
+Sp. Atk,54,101,227,barbaracle
+Sp. Def,86,159,298,barbaracle
+Speed,68,126,258,barbaracle
+HP,91,292,386,terrakion
+Attack,129,236,392,terrakion
+Defense,90,166,306,terrakion
+Sp. Atk,72,134,267,terrakion
+Sp. Def,90,166,306,terrakion
+Speed,108,198,346,terrakion
+HP,90,290,384,drednaw
+Attack,115,211,361,drednaw
+Defense,90,166,306,drednaw
+Sp. Atk,48,90,214,drednaw
+Sp. Def,68,126,258,drednaw
+Speed,74,137,271,drednaw
+HP,123,356,450,aurorus
+Attack,77,143,278,aurorus
+Defense,72,134,267,aurorus
+Sp. Atk,99,182,326,aurorus
+Sp. Def,92,170,311,aurorus
+Speed,58,108,236,aurorus
+HP,45,200,294,rockruff
+Attack,65,121,251,rockruff
+Defense,40,76,196,rockruff
+Sp. Atk,30,58,174,rockruff
+Sp. Def,40,76,196,rockruff
+Speed,60,112,240,rockruff
+HP,45,200,294,rockruff
+Attack,65,121,251,rockruff
+Defense,40,76,196,rockruff
+Sp. Atk,30,58,174,rockruff
+Sp. Def,40,76,196,rockruff
+Speed,60,112,240,rockruff
+HP,74,258,352,carracosta
+Attack,108,198,346,carracosta
+Defense,133,243,401,carracosta
+Sp. Atk,83,153,291,carracosta
+Sp. Def,65,121,251,carracosta
+Speed,32,62,179,carracosta
+HP,54,218,312,tirtouga
+Attack,78,144,280,tirtouga
+Defense,103,189,335,tirtouga
+Sp. Atk,53,99,225,tirtouga
+Sp. Def,45,85,207,tirtouga
+HP,85,280,374,gigalith
+Attack,135,247,405,gigalith
+Defense,130,238,394,gigalith
+Sp. Atk,60,112,240,gigalith
+Sp. Def,80,148,284,gigalith
+Speed,25,49,163,gigalith
+HP,115,340,434,rhyperior
+Attack,140,256,416,rhyperior
+Defense,130,238,394,rhyperior
+Sp. Atk,55,103,229,rhyperior
+Sp. Def,55,103,229,rhyperior
+Speed,40,76,196,rhyperior
+Speed,22,44,157,tirtouga
+HP,97,304,398,rampardos
+Attack,165,301,471,rampardos
+Defense,60,112,240,rampardos
+Sp. Atk,65,121,251,rampardos
+Sp. Def,50,94,218,rampardos
+Speed,58,108,236,rampardos
+HP,70,250,344,boldore
+Attack,105,193,339,boldore
+Defense,105,193,339,boldore
+Sp. Atk,50,94,218,boldore
+Sp. Def,40,76,196,boldore
+Speed,20,40,152,boldore
+HP,55,220,314,roggenrola
+Attack,75,139,273,roggenrola
+Defense,85,157,295,roggenrola
+Sp. Atk,25,49,163,roggenrola
+Sp. Def,25,49,163,roggenrola
+Speed,15,31,141,roggenrola
+HP,67,244,338,cranidos
+Attack,125,229,383,cranidos
+Defense,40,76,196,cranidos
+Sp. Atk,30,58,174,cranidos
+Sp. Def,30,58,174,cranidos
+Speed,58,108,236,cranidos
+HP,75,260,354,sunflora
+Attack,75,139,273,sunflora
+Defense,55,103,229,sunflora
+Sp. Atk,105,193,339,sunflora
+Sp. Def,85,157,295,sunflora
+Speed,30,58,174,sunflora
+HP,50,210,304,bonsly
+Attack,80,148,284,bonsly
+Defense,95,175,317,bonsly
+Sp. Atk,10,22,130,bonsly
+Sp. Def,45,85,207,bonsly
+Speed,10,22,130,bonsly
+HP,40,190,284,treecko
+Attack,45,85,207,treecko
+Defense,35,67,185,treecko
+Sp. Atk,65,121,251,treecko
+Sp. Def,55,103,229,treecko
+Speed,70,130,262,treecko
+HP,50,210,304,grovyle
+Attack,65,121,251,grovyle
+Defense,45,85,207,grovyle
+Sp. Atk,85,157,295,grovyle
+Sp. Def,65,121,251,grovyle
+Speed,95,175,317,grovyle
+HP,75,260,354,bellossom
+Attack,80,148,284,bellossom
+Defense,95,175,317,bellossom
+Sp. Atk,90,166,306,bellossom
+Sp. Def,100,184,328,bellossom
+Speed,50,94,218,bellossom
+HP,80,270,364,meganium
+Attack,82,152,289,meganium
+Defense,100,184,328,meganium
+Sp. Atk,83,153,291,meganium
+Sp. Def,100,184,328,meganium
+Speed,80,148,284,meganium
+HP,60,230,324,bayleef
+Attack,62,116,245,bayleef
+Defense,80,148,284,bayleef
+Sp. Atk,63,117,247,bayleef
+Sp. Def,80,148,284,bayleef
+Speed,60,112,240,bayleef
+HP,95,300,394,beartic
+Attack,130,238,394,beartic
+Defense,80,148,284,beartic
+Sp. Atk,70,130,262,beartic
+Sp. Def,80,148,284,beartic
+Speed,50,94,218,beartic
+HP,45,200,294,chikorita
+Attack,49,92,216,chikorita
+Defense,65,121,251,chikorita
+Sp. Atk,49,92,216,chikorita
+Sp. Def,65,121,251,chikorita
+Speed,45,85,207,chikorita
+HP,65,240,334,tangela
+Attack,55,103,229,tangela
+Defense,115,211,361,tangela
+Sp. Atk,100,184,328,tangela
+Sp. Def,40,76,196,tangela
+Speed,60,112,240,tangela
+HP,30,170,264,sunkern
+Attack,30,58,174,sunkern
+Defense,30,58,174,sunkern
+Sp. Atk,30,58,174,sunkern
+Sp. Def,30,58,174,sunkern
+Speed,30,58,174,sunkern
+HP,80,270,364,cryogonal
+Attack,50,94,218,cryogonal
+Defense,50,94,218,cryogonal
+Sp. Atk,95,175,317,cryogonal
+Sp. Def,135,247,405,cryogonal
+Speed,105,193,339,cryogonal
+HP,71,252,346,vanilluxe
+Attack,95,175,317,vanilluxe
+Defense,85,157,295,vanilluxe
+Sp. Atk,110,202,350,vanilluxe
+Sp. Def,95,175,317,vanilluxe
+Speed,79,146,282,vanilluxe
+HP,55,220,314,cubchoo
+Attack,70,130,262,cubchoo
+HP,36,182,276,vanillite
+Attack,50,94,218,vanillite
+Defense,50,94,218,vanillite
+Sp. Atk,65,121,251,vanillite
+Sp. Def,60,112,240,vanillite
+HP,70,250,344,darumaka
+HP,110,330,424,mamoswine
+Attack,130,238,394,mamoswine
+Defense,80,148,284,mamoswine
+Sp. Atk,70,130,262,mamoswine
+Sp. Def,60,112,240,mamoswine
+Speed,80,148,284,mamoswine
+HP,65,240,334,glaceon
+Attack,60,112,240,glaceon
+Defense,110,202,350,glaceon
+Sp. Atk,130,238,394,glaceon
+Sp. Def,95,175,317,glaceon
+Speed,65,121,251,glaceon
+Defense,40,76,196,cubchoo
+Sp. Atk,60,112,240,cubchoo
+Sp. Def,40,76,196,cubchoo
+Speed,40,76,196,cubchoo
+Speed,44,83,205,vanillite
+Attack,90,166,306,darumaka
+Defense,45,85,207,darumaka
+Sp. Atk,15,31,141,darumaka
+Sp. Def,45,85,207,darumaka
+Speed,50,94,218,darumaka
+HP,70,250,344,darumaka
+Attack,90,166,306,darumaka
+Defense,45,85,207,darumaka
+Sp. Atk,15,31,141,darumaka
+Sp. Def,45,85,207,darumaka
+Speed,50,94,218,darumaka
+HP,90,290,384,abomasnow
+Attack,92,170,311,abomasnow
+Defense,75,139,273,abomasnow
+Sp. Atk,92,170,311,abomasnow
+Sp. Def,85,157,295,abomasnow
+Speed,60,112,240,abomasnow
+HP,90,290,384,abomasnow
+Attack,132,242,399,abomasnow
+Defense,105,193,339,abomasnow
+Sp. Atk,132,242,399,abomasnow
+Sp. Def,105,193,339,abomasnow
+Speed,30,58,174,abomasnow
+HP,80,270,364,regice
+Attack,50,94,218,regice
+Defense,100,184,328,regice
+Sp. Atk,100,184,328,regice
+Sp. Def,200,364,548,regice
+Speed,50,94,218,regice
+HP,70,250,344,spheal
+Attack,40,76,196,spheal
+Defense,50,94,218,spheal
+Sp. Atk,55,103,229,spheal
+Sp. Def,50,94,218,spheal
+Speed,25,49,163,spheal
+HP,80,270,364,glalie
+Attack,80,148,284,glalie
+Defense,80,148,284,glalie
+Sp. Atk,80,148,284,glalie
+Sp. Def,80,148,284,glalie
+Speed,80,148,284,glalie
+HP,80,270,364,glalie
+Attack,120,220,372,glalie
+Defense,80,148,284,glalie
+Sp. Atk,120,220,372,glalie
+Sp. Def,80,148,284,glalie
+Speed,100,184,328,glalie
+HP,51,212,306,vanillish
+Attack,65,121,251,vanillish
+Defense,65,121,251,vanillish
+Sp. Atk,80,148,284,vanillish
+Sp. Def,75,139,273,vanillish
+Speed,59,110,238,vanillish
+HP,60,230,324,snover
+Attack,62,116,245,snover
+Defense,50,94,218,snover
+Sp. Atk,62,116,245,snover
+Sp. Def,60,112,240,snover
+Speed,40,76,196,snover
+HP,110,330,424,walrein
+Attack,80,148,284,walrein
+Defense,90,166,306,walrein
+Sp. Atk,95,175,317,walrein
+Sp. Def,90,166,306,walrein
+Speed,65,121,251,walrein
+HP,50,210,304,snorunt
+Attack,50,94,218,snorunt
+Defense,50,94,218,snorunt
+Sp. Atk,50,94,218,snorunt
+Sp. Def,50,94,218,snorunt
+Speed,50,94,218,snorunt
+HP,70,250,344,castform
+Attack,70,130,262,castform
+Defense,70,130,262,castform
+Sp. Atk,70,130,262,castform
+Sp. Def,70,130,262,castform
+Speed,70,130,262,castform
+HP,70,250,344,castform
+Attack,70,130,262,castform
+Defense,70,130,262,castform
+Sp. Atk,70,130,262,castform
+HP,90,290,384,sealeo
+Attack,60,112,240,sealeo
+Defense,70,130,262,sealeo
+Sp. Atk,75,139,273,sealeo
+Sp. Def,70,130,262,sealeo
+Speed,45,85,207,sealeo
+HP,200,510,604,regidrago
+Attack,100,184,328,regidrago
+Defense,50,94,218,regidrago
+Sp. Atk,100,184,328,regidrago
+Sp. Def,50,94,218,regidrago
+Speed,80,148,284,regidrago
+HP,140,390,484,eternatus
+Attack,85,157,295,eternatus
+Defense,95,175,317,eternatus
+Sp. Atk,145,265,427,eternatus
+Sp. Def,95,175,317,eternatus
+Speed,130,238,394,eternatus
+HP,255,620,714,eternatus
+Attack,115,211,361,eternatus
+Defense,250,454,658,eternatus
+Sp. Atk,125,229,383,eternatus
+Sp. Def,250,454,658,eternatus
+Speed,130,238,394,eternatus
+HP,88,286,380,dragapult
+Attack,120,220,372,dragapult
+Defense,75,139,273,dragapult
+Sp. Atk,100,184,328,dragapult
+Sp. Def,75,139,273,dragapult
+Speed,142,260,421,dragapult
+Sp. Def,70,130,262,castform
+Speed,70,130,262,castform
+HP,70,250,344,castform
+Attack,70,130,262,castform
+Defense,70,130,262,castform
+Sp. Atk,70,130,262,castform
+Sp. Def,70,130,262,castform
+Speed,70,130,262,castform
+HP,70,250,344,castform
+Attack,70,130,262,castform
+Defense,70,130,262,castform
+Sp. Atk,70,130,262,castform
+Sp. Def,70,130,262,castform
+Speed,70,130,262,castform
+HP,50,210,304,cloyster
+Attack,95,175,317,cloyster
+Defense,180,328,504,cloyster
+Sp. Atk,85,157,295,cloyster
+Sp. Def,45,85,207,cloyster
+Speed,70,130,262,cloyster
+HP,38,186,280,vulpix
+Attack,41,78,199,vulpix
+Defense,40,76,196,vulpix
+Sp. Atk,50,94,218,vulpix
+Sp. Def,65,121,251,vulpix
+Speed,65,121,251,vulpix
+HP,38,186,280,vulpix
+Attack,41,78,199,vulpix
+Defense,40,76,196,vulpix
+Sp. Atk,50,94,218,vulpix
+HP,90,290,384,dewgong
+Attack,70,130,262,dewgong
+Defense,80,148,284,dewgong
+Sp. Atk,70,130,262,dewgong
+Sp. Def,95,175,317,dewgong
+Speed,70,130,262,dewgong
+HP,28,166,260,dreepy
+Attack,60,112,240,dreepy
+Defense,30,58,174,dreepy
+Sp. Atk,40,76,196,dreepy
+Sp. Def,30,58,174,dreepy
+Speed,82,152,289,dreepy
+HP,90,290,384,dracovish
+Attack,90,166,306,dracovish
+Defense,100,184,328,dracovish
+Sp. Atk,70,130,262,dracovish
+Sp. Def,80,148,284,dracovish
+Speed,75,139,273,dracovish
+HP,90,290,384,dracozolt
+Attack,100,184,328,dracozolt
+Defense,90,166,306,dracozolt
+Sp. Atk,80,148,284,dracozolt
+Sp. Def,70,130,262,dracozolt
+Speed,75,139,273,dracozolt
+HP,110,330,424,appletun
+Attack,85,157,295,appletun
+Defense,80,148,284,appletun
+Sp. Atk,100,184,328,appletun
+Sp. Def,80,148,284,appletun
+Speed,30,58,174,appletun
+HP,70,250,344,flapple
+Attack,110,202,350,flapple
+Defense,80,148,284,flapple
+Sp. Atk,95,175,317,flapple
+Sp. Def,60,112,240,flapple
+Speed,70,130,262,flapple
+HP,40,190,284,applin
+Attack,40,76,196,applin
+Defense,80,148,284,applin
+Sp. Atk,40,76,196,applin
+Sp. Def,40,76,196,applin
+Speed,20,40,152,applin
+HP,68,246,340,drakloak
+Attack,80,148,284,drakloak
+Defense,50,94,218,drakloak
+Sp. Atk,60,112,240,drakloak
+Sp. Def,50,94,218,drakloak
+Speed,102,188,333,drakloak
+HP,130,370,464,lapras
+Attack,85,157,295,lapras
+Defense,80,148,284,lapras
+Sp. Atk,85,157,295,lapras
+Sp. Def,95,175,317,lapras
+Speed,60,112,240,lapras
+Sp. Def,65,121,251,vulpix
+Speed,65,121,251,vulpix
+HP,223,556,650,guzzlord
+Attack,101,186,331,guzzlord
+Defense,53,99,225,guzzlord
+Sp. Atk,97,179,322,guzzlord
+Sp. Def,53,99,225,guzzlord
+Speed,43,81,203,guzzlord
+HP,75,260,354,kommo-o
+Attack,110,202,350,kommo-o
+Defense,125,229,383,kommo-o
+Sp. Atk,100,184,328,kommo-o
+Sp. Def,105,193,339,kommo-o
+Speed,85,157,295,kommo-o
+HP,55,220,314,hakamo-o
+Attack,75,139,273,hakamo-o
+Defense,90,166,306,hakamo-o
+Sp. Atk,65,121,251,hakamo-o
+Sp. Def,70,130,262,hakamo-o
+Speed,65,121,251,hakamo-o
+HP,60,230,324,turtonator
+Attack,78,144,280,turtonator
+Defense,135,247,405,turtonator
+Sp. Atk,91,168,309,turtonator
+Sp. Def,85,157,295,turtonator
+Speed,36,69,188,turtonator
+HP,45,200,294,jangmo-o
+Attack,55,103,229,jangmo-o
+Defense,65,121,251,jangmo-o
+Sp. Atk,45,85,207,jangmo-o
+Sp. Def,45,85,207,jangmo-o
+Speed,45,85,207,jangmo-o
+HP,108,326,420,zygarde
+Attack,100,184,328,zygarde
+Defense,121,222,375,zygarde
+Sp. Atk,81,150,287,zygarde
+Sp. Def,95,175,317,zygarde
+Speed,95,175,317,zygarde
+HP,54,218,312,zygarde
+Attack,100,184,328,zygarde
+Defense,71,132,265,zygarde
+Sp. Atk,61,114,243,zygarde
+Sp. Def,85,157,295,zygarde
+Speed,115,211,361,zygarde
+HP,216,542,636,zygarde
+Attack,100,184,328,zygarde
+Defense,121,222,375,zygarde
+Sp. Atk,91,168,309,zygarde
+HP,73,256,350,naganadel
+Attack,73,135,269,naganadel
+Defense,73,135,269,naganadel
+Sp. Atk,127,233,388,naganadel
+Sp. Def,73,135,269,naganadel
+Speed,121,222,375,naganadel
+Sp. Def,95,175,317,zygarde
+Speed,85,157,295,zygarde
+HP,82,274,368,tyrantrum
+Attack,121,222,375,tyrantrum
+Defense,119,218,370,tyrantrum
+Sp. Atk,69,128,260,tyrantrum
+Sp. Def,59,110,238,tyrantrum
+Speed,71,132,265,tyrantrum
+HP,58,226,320,tyrunt
+Attack,89,164,304,tyrunt
+Defense,77,143,278,tyrunt
+Sp. Atk,45,85,207,tyrunt
+Sp. Def,45,85,207,tyrunt
+Speed,48,90,214,tyrunt
+HP,90,290,384,goodra
+Attack,100,184,328,goodra
+Defense,70,130,262,goodra
+Sp. Atk,110,202,350,goodra
+Sp. Def,150,274,438,goodra
+Speed,80,148,284,goodra
+HP,45,200,294,goomy
+Attack,50,94,218,goomy
+Defense,35,67,185,goomy
+Sp. Atk,55,103,229,goomy
+Sp. Def,75,139,273,goomy
+Speed,40,76,196,goomy
+HP,125,360,454,kyurem
+HP,65,240,334,dragalge
+Attack,75,139,273,dragalge
+Defense,90,166,306,dragalge
+Sp. Atk,97,179,322,dragalge
+Sp. Def,123,225,379,dragalge
+Speed,44,83,205,dragalge
+HP,78,266,360,drampa
+Attack,60,112,240,drampa
+Defense,85,157,295,drampa
+Sp. Atk,135,247,405,drampa
+Sp. Def,91,168,309,drampa
+Speed,36,69,188,drampa
+HP,68,246,340,sliggoo
+Attack,75,139,273,sliggoo
+Defense,53,99,225,sliggoo
+Sp. Atk,83,153,291,sliggoo
+Sp. Def,113,207,357,sliggoo
+Speed,60,112,240,sliggoo
+Attack,130,238,394,kyurem
+Defense,90,166,306,kyurem
+Sp. Atk,130,238,394,kyurem
+Sp. Def,90,166,306,kyurem
+Speed,95,175,317,kyurem
+HP,125,360,454,kyurem
+Attack,170,310,482,kyurem
+Defense,100,184,328,kyurem
+Sp. Atk,120,220,372,kyurem
+Sp. Def,90,166,306,kyurem
+Speed,95,175,317,kyurem
+HP,125,360,454,kyurem
+Attack,120,220,372,kyurem
+Defense,90,166,306,kyurem
+Sp. Atk,170,310,482,kyurem
+Sp. Def,100,184,328,kyurem
+Speed,95,175,317,kyurem
+HP,100,310,404,reshiram
+Attack,120,220,372,reshiram
+Defense,100,184,328,reshiram
+Sp. Atk,150,274,438,reshiram
+Sp. Def,120,220,372,reshiram
+Speed,90,166,306,reshiram
+HP,92,294,388,hydreigon
+Attack,105,193,339,hydreigon
+Defense,90,166,306,hydreigon
+Sp. Atk,125,229,383,hydreigon
+Sp. Def,90,166,306,hydreigon
+Speed,98,180,324,hydreigon
+HP,72,254,348,zweilous
+Attack,85,157,295,zweilous
+Defense,70,130,262,zweilous
+Sp. Atk,65,121,251,zweilous
+Sp. Def,70,130,262,zweilous
+Speed,58,108,236,zweilous
+HP,50,210,304,bellsprout
+Attack,75,139,273,bellsprout
+Defense,35,67,185,bellsprout
+Sp. Atk,70,130,262,bellsprout
+Sp. Def,30,58,174,bellsprout
+Speed,40,76,196,bellsprout
+HP,60,230,324,gloom
+Attack,65,121,251,gloom
+Defense,70,130,262,gloom
+Sp. Atk,85,157,295,gloom
+Sp. Def,75,139,273,gloom
+Speed,40,76,196,gloom
+HP,65,240,334,weepinbell
+Attack,90,166,306,weepinbell
+Defense,50,94,218,weepinbell
+Sp. Atk,85,157,295,weepinbell
+Sp. Def,45,85,207,weepinbell
+Speed,55,103,229,weepinbell
+HP,45,200,294,oddish
+Attack,50,94,218,oddish
+Defense,55,103,229,oddish
+Sp. Atk,75,139,273,oddish
+Sp. Def,65,121,251,oddish
+Speed,30,58,174,oddish
+HP,100,310,404,zekrom
+Attack,150,274,438,zekrom
+Defense,120,220,372,zekrom
+Sp. Atk,120,220,372,zekrom
+Sp. Def,100,184,328,zekrom
+Speed,90,166,306,zekrom
+HP,61,232,326,nidorino
+Attack,72,134,267,nidorino
+Defense,57,107,234,nidorino
+Sp. Atk,55,103,229,nidorino
+Sp. Def,55,103,229,nidorino
+Speed,65,121,251,nidorino
+HP,75,260,354,vileplume
+Attack,80,148,284,vileplume
+Defense,85,157,295,vileplume
+Sp. Atk,110,202,350,vileplume
+Sp. Def,90,166,306,vileplume
+Speed,50,94,218,vileplume
+HP,46,202,296,nidoran-m
+Attack,57,107,234,nidoran-m
+Defense,40,76,196,nidoran-m
+Sp. Atk,40,76,196,nidoran-m
+Sp. Def,40,76,196,nidoran-m
+Speed,50,94,218,nidoran-m
+HP,55,220,314,nidoran-f
+Attack,47,89,212,nidoran-f
+Defense,52,98,223,nidoran-f
+Sp. Atk,40,76,196,nidoran-f
+Sp. Def,40,76,196,nidoran-f
+Speed,41,78,199,nidoran-f
+HP,70,250,344,nidorina
+Attack,62,116,245,nidorina
+Defense,67,125,256,nidorina
+Sp. Atk,55,103,229,nidorina
+Sp. Def,55,103,229,nidorina
+Speed,56,105,232,nidorina
+HP,80,270,364,venusaur
+Attack,82,152,289,venusaur
+Defense,83,153,291,venusaur
+Sp. Atk,100,184,328,venusaur
+Sp. Def,100,184,328,venusaur
+Speed,80,148,284,venusaur
+HP,80,270,364,venusaur
+Attack,100,184,328,venusaur
+Defense,123,225,379,venusaur
+Sp. Atk,122,224,377,venusaur
+Sp. Def,120,220,372,venusaur
+Speed,80,148,284,venusaur
+HP,35,180,274,ekans
+Attack,60,112,240,ekans
+Defense,44,83,205,ekans
+Sp. Atk,40,76,196,ekans
+Sp. Def,54,101,227,ekans
+Speed,55,103,229,ekans
+HP,60,230,324,arbok
+Attack,95,175,317,arbok
+Defense,69,128,260,arbok
+Sp. Atk,65,121,251,arbok
+Sp. Def,79,146,282,arbok
+Speed,80,148,284,arbok
+HP,60,230,324,ivysaur
+Attack,62,116,245,ivysaur
+Defense,63,117,247,ivysaur
+Sp. Atk,80,148,284,ivysaur
+Sp. Def,80,148,284,ivysaur
+Speed,60,112,240,ivysaur
+HP,49,208,302,pumpkaboo
+Attack,66,123,254,pumpkaboo
+Defense,70,130,262,pumpkaboo
+Sp. Atk,44,83,205,pumpkaboo
+Sp. Def,55,103,229,pumpkaboo
+Speed,51,96,221,pumpkaboo
+HP,45,200,294,bulbasaur
+Attack,49,92,216,bulbasaur
+Defense,49,92,216,bulbasaur
+Sp. Atk,65,121,251,bulbasaur
+Sp. Def,65,121,251,bulbasaur
+Speed,45,85,207,bulbasaur
+HP,85,280,374,trevenant
+Attack,110,202,350,trevenant
+Defense,76,141,276,trevenant
+Sp. Atk,65,121,251,trevenant
+Sp. Def,82,152,289,trevenant
+Speed,56,105,232,trevenant
+HP,44,198,292,pumpkaboo
+Attack,66,123,254,pumpkaboo
+Defense,70,130,262,pumpkaboo
+Sp. Atk,44,83,205,pumpkaboo
+Sp. Def,55,103,229,pumpkaboo
+Speed,56,105,232,pumpkaboo
+HP,54,218,312,pumpkaboo
+Attack,66,123,254,pumpkaboo
+Defense,70,130,262,pumpkaboo
+Sp. Atk,44,83,205,pumpkaboo
+Sp. Def,55,103,229,pumpkaboo
+Speed,46,87,210,pumpkaboo
+HP,59,228,322,pumpkaboo
+Attack,66,123,254,pumpkaboo
+Defense,70,130,262,pumpkaboo
+Sp. Atk,44,83,205,pumpkaboo
+Sp. Def,55,103,229,pumpkaboo
+Speed,41,78,199,pumpkaboo
+HP,60,230,324,chandelure
+Attack,55,103,229,chandelure
+Defense,90,166,306,chandelure
+Sp. Atk,145,265,427,chandelure
+Sp. Def,90,166,306,chandelure
+Speed,80,148,284,chandelure
+HP,60,230,324,lampent
+Attack,40,76,196,lampent
+Defense,60,112,240,lampent
+Sp. Atk,95,175,317,lampent
+Sp. Def,60,112,240,lampent
+Speed,55,103,229,lampent
+HP,89,288,382,golurk
+Attack,124,227,381,golurk
+Defense,80,148,284,golurk
+Sp. Atk,55,103,229,golurk
+Sp. Def,80,148,284,golurk
+Speed,55,103,229,golurk
+HP,43,196,290,phantump
+Attack,70,130,262,phantump
+Defense,48,90,214,phantump
+Sp. Atk,50,94,218,phantump
+Sp. Def,60,112,240,phantump
+Speed,38,72,192,phantump
+HP,59,228,322,golett
+Attack,74,137,271,golett
+Defense,50,94,218,golett
+Sp. Atk,35,67,185,golett
+Sp. Def,50,94,218,golett
+Speed,35,67,185,golett
+HP,50,210,304,litwick
+Attack,30,58,174,litwick
+Defense,55,103,229,litwick
+Sp. Atk,65,121,251,litwick
+Sp. Def,55,103,229,litwick
+Speed,20,40,152,litwick
+HP,55,220,314,frillish
+Attack,40,76,196,frillish
+Defense,50,94,218,frillish
+Sp. Atk,65,121,251,frillish
+Sp. Def,85,157,295,frillish
+Speed,40,76,196,frillish
+HP,58,226,320,cofagrigus
+Attack,50,94,218,cofagrigus
+Defense,145,265,427,cofagrigus
+Sp. Atk,95,175,317,cofagrigus
+Sp. Def,105,193,339,cofagrigus
+Speed,30,58,174,cofagrigus
+HP,100,310,404,jellicent
+Attack,60,112,240,jellicent
+Defense,70,130,262,jellicent
+Sp. Atk,85,157,295,jellicent
+Sp. Def,105,193,339,jellicent
+Speed,60,112,240,jellicent
+HP,70,250,344,froslass
+Attack,80,148,284,froslass
+Defense,70,130,262,froslass
+Sp. Atk,80,148,284,froslass
+Sp. Def,70,130,262,froslass
+Speed,110,202,350,froslass
+HP,38,186,280,yamask
+Attack,30,58,174,yamask
+Defense,85,157,295,yamask
+Sp. Atk,55,103,229,yamask
+Sp. Def,65,121,251,yamask
+Speed,30,58,174,yamask
+HP,38,186,280,yamask
+Attack,55,103,229,yamask
+Defense,85,157,295,yamask
+Sp. Atk,30,58,174,yamask
+Sp. Def,65,121,251,yamask
+Speed,30,58,174,yamask
+HP,60,230,324,zoroark
+Attack,105,193,339,zoroark
+Defense,60,112,240,zoroark
+Sp. Atk,120,220,372,zoroark
+Sp. Def,60,112,240,zoroark
+Speed,105,193,339,zoroark
+HP,40,190,284,zorua
+Attack,65,121,251,zorua
+Defense,40,76,196,zorua
+Sp. Atk,80,148,284,zorua
+Sp. Def,40,76,196,zorua
+Speed,65,121,251,zorua
+HP,60,230,324,mismagius
+Attack,60,112,240,mismagius
+Defense,60,112,240,mismagius
+Sp. Atk,105,193,339,mismagius
+Sp. Def,105,193,339,mismagius
+Speed,105,193,339,mismagius
+HP,20,150,244,duskull
+Attack,40,76,196,duskull
+Defense,90,166,306,duskull
+Sp. Atk,30,58,174,duskull
+Sp. Def,90,166,306,duskull
+Speed,25,49,163,duskull
+HP,64,238,332,banette
+Attack,115,211,361,banette
+Defense,65,121,251,banette
+Sp. Atk,83,153,291,banette
+Sp. Def,63,117,247,banette
+Speed,65,121,251,banette
+HP,64,238,332,banette
+Attack,165,301,471,banette
+Defense,75,139,273,banette
+Sp. Atk,93,171,313,banette
+Sp. Def,83,153,291,banette
+HP,60,230,324,misdreavus
+Attack,60,112,240,misdreavus
+Defense,60,112,240,misdreavus
+Sp. Atk,85,157,295,misdreavus
+Sp. Def,85,157,295,misdreavus
+Speed,85,157,295,misdreavus
+HP,45,200,294,dusknoir
+Attack,100,184,328,dusknoir
+Defense,135,247,405,dusknoir
+Sp. Atk,65,121,251,dusknoir
+Sp. Def,135,247,405,dusknoir
+Speed,45,85,207,dusknoir
+HP,44,198,292,shuppet
+Attack,75,139,273,shuppet
+Defense,35,67,185,shuppet
+Sp. Atk,63,117,247,shuppet
+Sp. Def,33,63,181,shuppet
+Speed,45,85,207,shuppet
+HP,40,190,284,dusclops
+Attack,70,130,262,dusclops
+Defense,130,238,394,dusclops
+Sp. Atk,60,112,240,dusclops
+Sp. Def,130,238,394,dusclops
+Speed,25,49,163,dusclops
+HP,60,230,324,gengar
+Attack,65,121,251,gengar
+Defense,60,112,240,gengar
+Sp. Atk,130,238,394,gengar
+Sp. Def,75,139,273,gengar
+Speed,110,202,350,gengar
+HP,60,230,324,gengar
+Attack,65,121,251,gengar
+Defense,80,148,284,gengar
+Sp. Atk,170,310,482,gengar
+HP,45,200,294,haunter
+Attack,50,94,218,haunter
+Defense,45,85,207,haunter
+Sp. Atk,115,211,361,haunter
+Sp. Def,55,103,229,haunter
+Speed,95,175,317,haunter
+Speed,75,139,273,banette
+Sp. Def,95,175,317,gengar
+Speed,130,238,394,gengar
+HP,50,210,304,spiritomb
+Attack,92,170,311,spiritomb
+Defense,108,198,346,spiritomb
+Sp. Atk,92,170,311,spiritomb
+Sp. Def,108,198,346,spiritomb
+Speed,35,67,185,spiritomb
+HP,70,250,344,drapion
+Attack,90,166,306,drapion
+Defense,110,202,350,drapion
+Sp. Atk,60,112,240,drapion
+Sp. Def,75,139,273,drapion
+Speed,95,175,317,drapion
+HP,70,250,344,weavile
+Attack,120,220,372,weavile
+Defense,65,121,251,weavile
+Sp. Atk,45,85,207,weavile
+Sp. Def,85,157,295,weavile
+Speed,125,229,383,weavile
+HP,30,170,264,gastly
+Attack,35,67,185,gastly
+Defense,30,58,174,gastly
+Sp. Atk,100,184,328,gastly
+Sp. Def,35,67,185,gastly
+Speed,80,148,284,gastly
+HP,70,250,344,darkrai
+Attack,90,166,306,darkrai
+Defense,90,166,306,darkrai
+Sp. Atk,135,247,405,darkrai
+Sp. Def,90,166,306,darkrai
+Speed,125,229,383,darkrai
+HP,103,316,410,skuntank
+Attack,93,171,313,skuntank
+Defense,67,125,256,skuntank
+Sp. Atk,71,132,265,skuntank
+Sp. Def,61,114,243,skuntank
+Speed,84,155,293,skuntank
+HP,63,236,330,stunky
+Attack,63,117,247,stunky
+Defense,47,89,212,stunky
+Sp. Atk,41,78,199,stunky
+Sp. Def,41,78,199,stunky
+Speed,74,137,271,stunky
+HP,65,240,334,absol
+Attack,130,238,394,absol
+Defense,60,112,240,absol
+Sp. Atk,75,139,273,absol
+Sp. Def,60,112,240,absol
+Speed,75,139,273,absol
+HP,65,240,334,absol
+Attack,150,274,438,absol
+Defense,60,112,240,absol
+Sp. Atk,115,211,361,absol
+Sp. Def,60,112,240,absol
+Speed,115,211,361,absol
+HP,63,236,330,crawdaunt
+Attack,120,220,372,crawdaunt
+Defense,85,157,295,crawdaunt
+Sp. Atk,90,166,306,crawdaunt
+Sp. Def,55,103,229,crawdaunt
+Speed,55,103,229,crawdaunt
+HP,70,250,344,cacturne
+Attack,115,211,361,cacturne
+Defense,60,112,240,cacturne
+Sp. Atk,115,211,361,cacturne
+Sp. Def,60,112,240,cacturne
+Speed,55,103,229,cacturne
+HP,70,250,344,sharpedo
+Attack,120,220,372,sharpedo
+Defense,40,76,196,sharpedo
+Sp. Atk,95,175,317,sharpedo
+Sp. Def,40,76,196,sharpedo
+Speed,95,175,317,sharpedo
+HP,70,250,344,sharpedo
+Attack,140,256,416,sharpedo
+Defense,70,130,262,sharpedo
+Sp. Atk,110,202,350,sharpedo
+HP,45,200,294,carvanha
+Attack,90,166,306,carvanha
+Defense,20,40,152,carvanha
+Sp. Atk,65,121,251,carvanha
+Sp. Def,20,40,152,carvanha
+Speed,65,121,251,carvanha
+HP,50,210,304,sableye
+Attack,75,139,273,sableye
+Defense,75,139,273,sableye
+Sp. Atk,65,121,251,sableye
+Sp. Def,65,121,251,sableye
+Speed,50,94,218,sableye
+HP,50,210,304,sableye
+Attack,85,157,295,sableye
+Defense,125,229,383,sableye
+Sp. Atk,85,157,295,sableye
+Sp. Def,115,211,361,sableye
+Speed,20,40,152,sableye
+Sp. Def,65,121,251,sharpedo
+Speed,105,193,339,sharpedo
+HP,45,200,294,houndour
+Attack,60,112,240,houndour
+Defense,30,58,174,houndour
+Sp. Atk,80,148,284,houndour
+Sp. Def,50,94,218,houndour
+Speed,65,121,251,houndour
+HP,90,290,384,shiftry
+Attack,100,184,328,shiftry
+Defense,60,112,240,shiftry
+Sp. Atk,90,166,306,shiftry
+Sp. Def,60,112,240,shiftry
+Speed,80,148,284,shiftry
+HP,70,250,344,nuzleaf
+Attack,70,130,262,nuzleaf
+Defense,40,76,196,nuzleaf
+Sp. Atk,60,112,240,nuzleaf
+Sp. Def,40,76,196,nuzleaf
+Speed,60,112,240,nuzleaf
+HP,38,186,280,zigzagoon
+Attack,30,58,174,zigzagoon
+HP,70,250,344,mightyena
+Attack,90,166,306,mightyena
+Defense,70,130,262,mightyena
+Sp. Atk,60,112,240,mightyena
+Sp. Def,60,112,240,mightyena
+Speed,70,130,262,mightyena
+HP,75,260,354,houndoom
+Attack,90,166,306,houndoom
+Defense,50,94,218,houndoom
+Sp. Atk,110,202,350,houndoom
+Sp. Def,80,148,284,houndoom
+Speed,95,175,317,houndoom
+HP,75,260,354,houndoom
+Attack,90,166,306,houndoom
+Defense,90,166,306,houndoom
+Sp. Atk,140,256,416,houndoom
+Sp. Def,90,166,306,houndoom
+HP,78,266,360,linoone
+Attack,70,130,262,linoone
+Defense,61,114,243,linoone
+Sp. Atk,50,94,218,linoone
+Sp. Def,61,114,243,linoone
+Speed,100,184,328,linoone
+HP,78,266,360,linoone
+Attack,70,130,262,linoone
+Defense,41,78,199,zigzagoon
+Sp. Atk,30,58,174,zigzagoon
+Sp. Def,41,78,199,zigzagoon
+Speed,60,112,240,zigzagoon
+HP,38,186,280,zigzagoon
+Attack,30,58,174,zigzagoon
+Defense,41,78,199,zigzagoon
+Sp. Atk,30,58,174,zigzagoon
+Sp. Def,41,78,199,zigzagoon
+Speed,60,112,240,zigzagoon
+HP,35,180,274,poochyena
+Attack,55,103,229,poochyena
+Defense,35,67,185,poochyena
+Sp. Atk,30,58,174,poochyena
+Sp. Def,30,58,174,poochyena
+Speed,35,67,185,poochyena
+Speed,115,211,361,houndoom
+Defense,61,114,243,linoone
+Sp. Atk,50,94,218,linoone
+Sp. Def,61,114,243,linoone
+Speed,100,184,328,linoone
+HP,95,300,394,umbreon
+Attack,65,121,251,umbreon
+Defense,110,202,350,umbreon
+Sp. Atk,60,112,240,umbreon
+Sp. Def,130,238,394,umbreon
+Speed,65,121,251,umbreon
+HP,55,220,314,sneasel
+Attack,95,175,317,sneasel
+Defense,55,103,229,sneasel
+Sp. Atk,35,67,185,sneasel
+Sp. Def,75,139,273,sneasel
+Speed,115,211,361,sneasel
+HP,65,240,334,persian
+Attack,70,130,262,persian
+Defense,60,112,240,persian
+Sp. Atk,65,121,251,persian
+Sp. Def,65,121,251,persian
+Speed,115,211,361,persian
+HP,65,240,334,persian
+Attack,60,112,240,persian
+Defense,60,112,240,persian
+Sp. Atk,75,139,273,persian
+HP,55,220,314,raticate
+Attack,81,150,287,raticate
+Defense,60,112,240,raticate
+Sp. Atk,50,94,218,raticate
+Sp. Def,70,130,262,raticate
+Speed,97,179,322,raticate
+HP,75,260,354,raticate
+Attack,71,132,265,raticate
+Defense,70,130,262,raticate
+Sp. Atk,40,76,196,raticate
+Sp. Def,65,121,251,persian
+Speed,115,211,361,persian
+Sp. Def,80,148,284,raticate
+Speed,77,143,278,raticate
+HP,105,320,414,muk
+Attack,105,193,339,muk
+Defense,75,139,273,muk
+Sp. Atk,65,121,251,muk
+Sp. Def,100,184,328,muk
+Speed,50,94,218,muk
+HP,105,320,414,muk
+HP,75,260,354,delphox
+Attack,69,128,260,delphox
+Defense,72,134,267,delphox
+Sp. Atk,114,209,359,delphox
+Sp. Def,100,184,328,delphox
+Speed,104,191,337,delphox
+HP,80,270,364,grimer
+Attack,80,148,284,grimer
+Defense,50,94,218,grimer
+Sp. Atk,40,76,196,grimer
+Sp. Def,50,94,218,grimer
+Speed,25,49,163,grimer
+HP,80,270,364,grimer
+Attack,80,148,284,grimer
+Defense,50,94,218,grimer
+Sp. Atk,40,76,196,grimer
+Sp. Def,50,94,218,grimer
+Speed,25,49,163,grimer
+HP,100,310,404,meloetta
+Attack,77,143,278,meloetta
+Defense,77,143,278,meloetta
+Sp. Atk,128,234,390,meloetta
+Sp. Def,128,234,390,meloetta
+Speed,90,166,306,meloetta
+HP,100,310,404,meloetta
+Attack,128,234,390,meloetta
+Defense,90,166,306,meloetta
+Sp. Atk,77,143,278,meloetta
+Sp. Def,77,143,278,meloetta
+Speed,128,234,390,meloetta
+Attack,105,193,339,muk
+Defense,75,139,273,muk
+Sp. Atk,65,121,251,muk
+Sp. Def,100,184,328,muk
+Speed,50,94,218,muk
+HP,45,200,294,solosis
+Attack,30,58,174,solosis
+Defense,40,76,196,solosis
+Sp. Atk,105,193,339,solosis
+Sp. Def,50,94,218,solosis
+Speed,20,40,152,solosis
+HP,75,260,354,beheeyem
+Attack,75,139,273,beheeyem
+Defense,75,139,273,beheeyem
+Sp. Atk,125,229,383,beheeyem
+Sp. Def,95,175,317,beheeyem
+Speed,40,76,196,beheeyem
+HP,30,170,264,rattata
+Attack,56,105,232,rattata
+Defense,35,67,185,rattata
+Sp. Atk,25,49,163,rattata
+Sp. Def,35,67,185,rattata
+Speed,72,134,267,rattata
+HP,30,170,264,rattata
+Attack,56,105,232,rattata
+Defense,35,67,185,rattata
+Sp. Atk,25,49,163,rattata
+Sp. Def,35,67,185,rattata
+Speed,72,134,267,rattata
+HP,55,220,314,elgyem
+Attack,55,103,229,elgyem
+Defense,55,103,229,elgyem
+Sp. Atk,85,157,295,elgyem
+Sp. Def,55,103,229,elgyem
+Speed,30,58,174,elgyem
+HP,65,240,334,duosion
+Attack,40,76,196,duosion
+Defense,50,94,218,duosion
+Sp. Atk,125,229,383,duosion
+Sp. Def,60,112,240,duosion
+Speed,30,58,174,duosion
+HP,110,330,424,reuniclus
+Attack,65,121,251,reuniclus
+Defense,75,139,273,reuniclus
+Sp. Atk,125,229,383,reuniclus
+Sp. Def,85,157,295,reuniclus
+Speed,30,58,174,reuniclus
+HP,60,230,324,gothorita
+Attack,45,85,207,gothorita
+Defense,70,130,262,gothorita
+Sp. Atk,75,139,273,gothorita
+Sp. Def,85,157,295,gothorita
+Speed,55,103,229,gothorita
+HP,70,250,344,gothitelle
+Attack,55,103,229,gothitelle
+Defense,95,175,317,gothitelle
+Sp. Atk,95,175,317,gothitelle
+Sp. Def,110,202,350,gothitelle
+Speed,65,121,251,gothitelle
+HP,76,262,356,munna
+Attack,25,49,163,munna
+Defense,45,85,207,munna
+Sp. Atk,67,125,256,munna
+Sp. Def,55,103,229,munna
+Speed,24,47,161,munna
+HP,120,350,444,cresselia
+Attack,70,130,262,cresselia
+Defense,120,220,372,cresselia
+Sp. Atk,75,139,273,cresselia
+Sp. Def,130,238,394,cresselia
+Speed,85,157,295,cresselia
+HP,100,310,404,victini
+Attack,100,184,328,victini
+Defense,100,184,328,victini
+Sp. Atk,100,184,328,victini
+Sp. Def,100,184,328,victini
+Speed,100,184,328,victini
+HP,45,200,294,gothita
+HP,116,342,436,musharna
+Attack,55,103,229,musharna
+Defense,85,157,295,musharna
+Sp. Atk,107,197,344,musharna
+Sp. Def,95,175,317,musharna
+Speed,29,56,172,musharna
+HP,105,320,414,darmanitan
+HP,75,260,354,azelf
+Attack,125,229,383,azelf
+Defense,70,130,262,azelf
+Sp. Atk,125,229,383,azelf
+Sp. Def,70,130,262,azelf
+Speed,115,211,361,azelf
+Attack,30,58,174,gothita
+Defense,50,94,218,gothita
+Sp. Atk,55,103,229,gothita
+Sp. Def,65,121,251,gothita
+Speed,45,85,207,gothita
+Attack,140,256,416,darmanitan
+Defense,55,103,229,darmanitan
+Sp. Atk,30,58,174,darmanitan
+Sp. Def,55,103,229,darmanitan
+Speed,95,175,317,darmanitan
+HP,105,320,414,darmanitan
+Attack,30,58,174,darmanitan
+Defense,105,193,339,darmanitan
+Sp. Atk,140,256,416,darmanitan
+Sp. Def,105,193,339,darmanitan
+Speed,55,103,229,darmanitan
+HP,105,320,414,darmanitan
+Attack,140,256,416,darmanitan
+Defense,55,103,229,darmanitan
+Sp. Atk,30,58,174,darmanitan
+Sp. Def,55,103,229,darmanitan
+Speed,95,175,317,darmanitan
+HP,105,320,414,darmanitan
+Attack,160,292,460,darmanitan
+Defense,55,103,229,darmanitan
+Sp. Atk,30,58,174,darmanitan
+Sp. Def,55,103,229,darmanitan
+Speed,135,247,405,darmanitan
+HP,68,246,340,gallade
+HP,45,200,294,chingling
+Attack,30,58,174,chingling
+Defense,50,94,218,chingling
+Sp. Atk,65,121,251,chingling
+Sp. Def,50,94,218,chingling
+Speed,45,85,207,chingling
+HP,50,210,304,deoxys
+HP,80,270,364,mesprit
+Attack,105,193,339,mesprit
+Defense,105,193,339,mesprit
+Sp. Atk,105,193,339,mesprit
+Sp. Def,105,193,339,mesprit
+Speed,80,148,284,mesprit
+HP,75,260,354,uxie
+Attack,75,139,273,uxie
+Defense,130,238,394,uxie
+Sp. Atk,75,139,273,uxie
+Sp. Def,130,238,394,uxie
+Speed,95,175,317,uxie
+HP,95,300,394,wynaut
+Attack,23,45,159,wynaut
+Defense,48,90,214,wynaut
+Sp. Atk,23,45,159,wynaut
+Sp. Def,48,90,214,wynaut
+Speed,23,45,159,wynaut
+Attack,125,229,383,gallade
+Defense,65,121,251,gallade
+Sp. Atk,65,121,251,gallade
+Sp. Def,115,211,361,gallade
+Speed,80,148,284,gallade
+HP,68,246,340,gallade
+Attack,165,301,471,gallade
+Defense,95,175,317,gallade
+Sp. Atk,65,121,251,gallade
+Sp. Def,115,211,361,gallade
+Speed,110,202,350,gallade
+Attack,150,274,438,deoxys
+Defense,50,94,218,deoxys
+Sp. Atk,150,274,438,deoxys
+Sp. Def,50,94,218,deoxys
+Speed,150,274,438,deoxys
+HP,50,210,304,deoxys
+Attack,180,328,504,deoxys
+Defense,20,40,152,deoxys
+Sp. Atk,180,328,504,deoxys
+Sp. Def,20,40,152,deoxys
+Speed,150,274,438,deoxys
+HP,50,210,304,deoxys
+Attack,70,130,262,deoxys
+Defense,160,292,460,deoxys
+Sp. Atk,70,130,262,deoxys
+Sp. Def,160,292,460,deoxys
+Speed,90,166,306,deoxys
+HP,50,210,304,deoxys
+Attack,95,175,317,deoxys
+Defense,90,166,306,deoxys
+Sp. Atk,95,175,317,deoxys
+Sp. Def,90,166,306,deoxys
+Speed,180,328,504,deoxys
+HP,75,260,354,chimecho
+Attack,50,94,218,chimecho
+Defense,80,148,284,chimecho
+Sp. Atk,95,175,317,chimecho
+Sp. Def,90,166,306,chimecho
+Speed,65,121,251,chimecho
+HP,80,270,364,grumpig
+Attack,45,85,207,grumpig
+Defense,65,121,251,grumpig
+Sp. Atk,90,166,306,grumpig
+Sp. Def,110,202,350,grumpig
+Speed,80,148,284,grumpig
+HP,60,230,324,claydol
+HP,45,200,294,smoochum
+HP,60,230,324,spoink
+Attack,25,49,163,spoink
+Defense,35,67,185,spoink
+Sp. Atk,70,130,262,spoink
+Sp. Def,80,148,284,spoink
+Speed,60,112,240,spoink
+HP,30,170,264,meditite
+Attack,40,76,196,meditite
+Defense,55,103,229,meditite
+Sp. Atk,40,76,196,meditite
+Sp. Def,55,103,229,meditite
+Speed,60,112,240,meditite
+HP,100,310,404,celebi
+Attack,100,184,328,celebi
+Defense,100,184,328,celebi
+Sp. Atk,100,184,328,celebi
+Sp. Def,100,184,328,celebi
+Speed,100,184,328,celebi
+HP,40,190,284,baltoy
+Attack,40,76,196,baltoy
+Defense,55,103,229,baltoy
+Sp. Atk,40,76,196,baltoy
+Sp. Def,70,130,262,baltoy
+Speed,55,103,229,baltoy
+Attack,70,130,262,claydol
+Defense,105,193,339,claydol
+Sp. Atk,70,130,262,claydol
+Sp. Def,120,220,372,claydol
+Speed,75,139,273,claydol
+Attack,30,58,174,smoochum
+Defense,15,31,141,smoochum
+Sp. Atk,85,157,295,smoochum
+Sp. Def,65,121,251,smoochum
+Speed,65,121,251,smoochum
+HP,70,250,344,girafarig
+Attack,80,148,284,girafarig
+Defense,65,121,251,girafarig
+Sp. Atk,90,166,306,girafarig
+Sp. Def,65,121,251,girafarig
+Speed,85,157,295,girafarig
+HP,190,490,584,wobbuffet
+Attack,33,63,181,wobbuffet
+Defense,58,108,236,wobbuffet
+Sp. Atk,33,63,181,wobbuffet
+Sp. Def,58,108,236,wobbuffet
+Speed,33,63,181,wobbuffet
+HP,60,230,324,medicham
+HP,48,206,300,unown
+Attack,72,134,267,unown
+Defense,48,90,214,unown
+Sp. Atk,72,134,267,unown
+Sp. Def,48,90,214,unown
+Speed,48,90,214,unown
+HP,95,300,394,slowking
+HP,65,240,334,espeon
+Attack,65,121,251,espeon
+Defense,60,112,240,espeon
+Sp. Atk,130,238,394,espeon
+Sp. Def,95,175,317,espeon
+Speed,110,202,350,espeon
+HP,100,310,404,mew
+Attack,60,112,240,medicham
+Defense,75,139,273,medicham
+Sp. Atk,60,112,240,medicham
+Sp. Def,75,139,273,medicham
+Speed,80,148,284,medicham
+HP,60,230,324,medicham
+Attack,100,184,328,medicham
+Defense,85,157,295,medicham
+Sp. Atk,80,148,284,medicham
+Sp. Def,85,157,295,medicham
+Speed,100,184,328,medicham
+Attack,75,139,273,slowking
+Defense,80,148,284,slowking
+Sp. Atk,100,184,328,slowking
+Sp. Def,110,202,350,slowking
+Speed,30,58,174,slowking
+HP,95,300,394,slowking
+Attack,65,121,251,slowking
+Defense,80,148,284,slowking
+Sp. Atk,110,202,350,slowking
+Sp. Def,110,202,350,slowking
+Speed,30,58,174,slowking
+Attack,100,184,328,mew
+Defense,100,184,328,mew
+Sp. Atk,100,184,328,mew
+Sp. Def,100,184,328,mew
+Speed,100,184,328,mew
+HP,65,240,334,jynx
+Attack,50,94,218,jynx
+Defense,35,67,185,jynx
+Sp. Atk,115,211,361,jynx
+Sp. Def,95,175,317,jynx
+HP,60,230,324,starmie
+Attack,75,139,273,starmie
+Defense,85,157,295,starmie
+Sp. Atk,100,184,328,starmie
+Sp. Def,85,157,295,starmie
+Speed,115,211,361,starmie
+HP,60,230,324,exeggcute
+Attack,40,76,196,exeggcute
+Defense,80,148,284,exeggcute
+Sp. Atk,60,112,240,exeggcute
+Sp. Def,45,85,207,exeggcute
+Speed,40,76,196,exeggcute
+HP,106,322,416,mewtwo
+Attack,110,202,350,mewtwo
+Defense,90,166,306,mewtwo
+Sp. Atk,154,281,447,mewtwo
+Sp. Def,90,166,306,mewtwo
+Speed,130,238,394,mewtwo
+HP,106,322,416,mewtwo
+Speed,95,175,317,jynx
+Attack,190,346,526,mewtwo
+Defense,100,184,328,mewtwo
+Sp. Atk,154,281,447,mewtwo
+Sp. Def,100,184,328,mewtwo
+Speed,130,238,394,mewtwo
+HP,106,322,416,mewtwo
+Attack,150,274,438,mewtwo
+Defense,70,130,262,mewtwo
+Sp. Atk,194,353,535,mewtwo
+Sp. Def,120,220,372,mewtwo
+Speed,140,256,416,mewtwo
+HP,70,250,344,camerupt
+Attack,100,184,328,camerupt
+Defense,70,130,262,camerupt
+Sp. Atk,105,193,339,camerupt
+Sp. Def,75,139,273,camerupt
+Speed,40,76,196,camerupt
+HP,70,250,344,camerupt
+Attack,120,220,372,camerupt
+Defense,100,184,328,camerupt
+Sp. Atk,145,265,427,camerupt
+Sp. Def,105,193,339,camerupt
+Speed,20,40,152,camerupt
+HP,100,310,404,swampert
+HP,70,250,344,marshtomp
+Attack,85,157,295,marshtomp
+Defense,70,130,262,marshtomp
+Sp. Atk,60,112,240,marshtomp
+Sp. Def,70,130,262,marshtomp
+Speed,50,94,218,marshtomp
+HP,85,280,374,hypno
+Attack,73,135,269,hypno
+Defense,70,130,262,hypno
+Sp. Atk,73,135,269,hypno
+Sp. Def,115,211,361,hypno
+Speed,67,125,256,hypno
+HP,45,200,294,trapinch
+Attack,100,184,328,trapinch
+Defense,45,85,207,trapinch
+Sp. Atk,45,85,207,trapinch
+Sp. Def,45,85,207,trapinch
+Speed,10,22,130,trapinch
+HP,60,230,324,drowzee
+Attack,48,90,214,drowzee
+Defense,45,85,207,drowzee
+Sp. Atk,43,81,203,drowzee
+Sp. Def,90,166,306,drowzee
+Speed,42,80,201,drowzee
+Attack,110,202,350,swampert
+Defense,90,166,306,swampert
+Sp. Atk,85,157,295,swampert
+Sp. Def,90,166,306,swampert
+Speed,60,112,240,swampert
+HP,100,310,404,swampert
+Attack,150,274,438,swampert
+Defense,110,202,350,swampert
+Sp. Atk,95,175,317,swampert
+Sp. Def,110,202,350,swampert
+Speed,70,130,262,swampert
+HP,50,210,304,barboach
+Attack,48,90,214,barboach
+Defense,43,81,203,barboach
+Sp. Atk,46,87,210,barboach
+Sp. Def,41,78,199,barboach
+Speed,60,112,240,barboach
+HP,60,230,324,numel
+Attack,60,112,240,numel
+Defense,40,76,196,numel
+Sp. Atk,65,121,251,numel
+Sp. Def,45,85,207,numel
+Speed,35,67,185,numel
+HP,100,310,404,piloswine
+Attack,100,184,328,piloswine
+Defense,80,148,284,piloswine
+Sp. Atk,60,112,240,piloswine
+Sp. Def,60,112,240,piloswine
+Speed,50,94,218,piloswine
+HP,50,210,304,swinub
+Attack,50,94,218,swinub
+Defense,40,76,196,swinub
+Sp. Atk,30,58,174,swinub
+Sp. Def,30,58,174,swinub
+Speed,50,94,218,swinub
+HP,90,290,384,donphan
+Attack,120,220,372,donphan
+Defense,120,220,372,donphan
+Sp. Atk,60,112,240,donphan
+Sp. Def,60,112,240,donphan
+Speed,50,94,218,donphan
+HP,95,300,394,quagsire
+Attack,85,157,295,quagsire
+Defense,85,157,295,quagsire
+Sp. Atk,65,121,251,quagsire
+Sp. Def,65,121,251,quagsire
+Speed,35,67,185,quagsire
+HP,90,290,384,phanpy
+Attack,60,112,240,phanpy
+Defense,60,112,240,phanpy
+Sp. Atk,40,76,196,phanpy
+Sp. Def,40,76,196,phanpy
+Speed,40,76,196,phanpy
+HP,60,230,324,marowak
+Attack,80,148,284,marowak
+Defense,110,202,350,marowak
+Sp. Atk,50,94,218,marowak
+HP,55,220,314,wooper
+Attack,45,85,207,wooper
+Defense,45,85,207,wooper
+Sp. Atk,25,49,163,wooper
+Sp. Def,25,49,163,wooper
+Speed,15,31,141,wooper
+HP,50,210,304,cubone
+Attack,50,94,218,cubone
+Defense,95,175,317,cubone
+Sp. Atk,40,76,196,cubone
+Sp. Def,50,94,218,cubone
+Speed,35,67,185,cubone
+Sp. Def,80,148,284,marowak
+Speed,45,85,207,marowak
+HP,60,230,324,marowak
+Attack,80,148,284,marowak
+Defense,110,202,350,marowak
+Sp. Atk,50,94,218,marowak
+Sp. Def,80,148,284,marowak
+Speed,45,85,207,marowak
+HP,100,310,404,relicanth
+Attack,90,166,306,relicanth
+Defense,130,238,394,relicanth
+Sp. Atk,45,85,207,relicanth
+Sp. Def,65,121,251,relicanth
+Speed,55,103,229,relicanth
+HP,90,290,384,nidoqueen
+Attack,92,170,311,nidoqueen
+Defense,87,161,300,nidoqueen
+Sp. Atk,75,139,273,nidoqueen
+Sp. Def,85,157,295,nidoqueen
+Speed,76,141,276,nidoqueen
+HP,86,282,376,cradily
+Attack,81,150,287,cradily
+Defense,97,179,322,cradily
+Sp. Atk,81,150,287,cradily
+Sp. Def,107,197,344,cradily
+Speed,43,81,203,cradily
+HP,66,242,336,lileep
+Attack,41,78,199,lileep
+Defense,77,143,278,lileep
+Sp. Atk,61,114,243,lileep
+Sp. Def,87,161,300,lileep
+Speed,23,45,159,lileep
+HP,80,270,364,regirock
+Attack,100,184,328,regirock
+Defense,200,364,548,regirock
+Sp. Atk,50,94,218,regirock
+Sp. Def,100,184,328,regirock
+Speed,50,94,218,regirock
+HP,100,310,404,tyranitar
+Attack,134,245,403,tyranitar
+Defense,110,202,350,tyranitar
+Sp. Atk,95,175,317,tyranitar
+Sp. Def,100,184,328,tyranitar
+Speed,61,114,243,tyranitar
+HP,81,272,366,nidoking
+Attack,102,188,333,nidoking
+Defense,77,143,278,nidoking
+Sp. Atk,85,157,295,nidoking
+Sp. Def,75,139,273,nidoking
+Speed,85,157,295,nidoking
+HP,90,290,384,lunatone
+Attack,55,103,229,lunatone
+Defense,65,121,251,lunatone
+Sp. Atk,95,175,317,lunatone
+Sp. Def,85,157,295,lunatone
+Speed,70,130,262,lunatone
+HP,90,290,384,solrock
+Attack,95,175,317,solrock
+Defense,85,157,295,solrock
+Sp. Atk,55,103,229,solrock
+Sp. Def,65,121,251,solrock
+Speed,70,130,262,solrock
+HP,100,310,404,tyranitar
+Attack,164,299,469,tyranitar
+Defense,150,274,438,tyranitar
+Sp. Atk,95,175,317,tyranitar
+Sp. Def,120,220,372,tyranitar
+Speed,71,132,265,tyranitar
+HP,65,240,334,corsola
+Attack,55,103,229,corsola
+Defense,95,175,317,corsola
+Sp. Atk,65,121,251,corsola
+Sp. Def,95,175,317,corsola
+Speed,35,67,185,corsola
+HP,50,210,304,larvitar
+Attack,64,119,249,larvitar
+Defense,50,94,218,larvitar
+Sp. Atk,45,85,207,larvitar
+Sp. Def,50,94,218,larvitar
+Speed,41,78,199,larvitar
+HP,70,250,344,pupitar
+Attack,84,155,293,pupitar
+Defense,70,130,262,pupitar
+Sp. Atk,65,121,251,pupitar
+Sp. Def,70,130,262,pupitar
+Speed,51,96,221,pupitar
+HP,60,230,324,corsola
+Attack,55,103,229,corsola
+Defense,100,184,328,corsola
+Sp. Atk,65,121,251,corsola
+Sp. Def,100,184,328,corsola
+Speed,30,58,174,corsola
+HP,30,170,264,nosepass
+Attack,45,85,207,nosepass
+Defense,135,247,405,nosepass
+Sp. Atk,45,85,207,nosepass
+Sp. Def,90,166,306,nosepass
+Speed,30,58,174,nosepass
+HP,30,170,264,kabuto
+Attack,80,148,284,kabuto
+Defense,90,166,306,kabuto
+Sp. Atk,55,103,229,kabuto
+Sp. Def,45,85,207,kabuto
+Speed,55,103,229,kabuto
+HP,70,250,344,sudowoodo
+Attack,100,184,328,sudowoodo
+Defense,115,211,361,sudowoodo
+Sp. Atk,30,58,174,sudowoodo
+Sp. Def,65,121,251,sudowoodo
+Speed,30,58,174,sudowoodo
+HP,60,230,324,kabutops
+Attack,115,211,361,kabutops
+Defense,105,193,339,kabutops
+Sp. Atk,65,121,251,kabutops
+Sp. Def,70,130,262,kabutops
+Speed,80,148,284,kabutops
+HP,70,250,344,omastar
+Attack,60,112,240,omastar
+Defense,125,229,383,omastar
+Sp. Atk,115,211,361,omastar
+Sp. Def,70,130,262,omastar
+Speed,55,103,229,omastar
+HP,60,230,324,magcargo
+Attack,50,94,218,magcargo
+Defense,120,220,372,magcargo
+Sp. Atk,90,166,306,magcargo
+Sp. Def,80,148,284,magcargo
+Speed,30,58,174,magcargo
+HP,35,180,274,omanyte
+Attack,40,76,196,omanyte
+Defense,100,184,328,omanyte
+Sp. Atk,90,166,306,omanyte
+Sp. Def,55,103,229,omanyte
+Speed,35,67,185,omanyte
+HP,80,270,364,rhyhorn
+Attack,85,157,295,rhyhorn
+Defense,95,175,317,rhyhorn
+Sp. Atk,30,58,174,rhyhorn
+Sp. Def,30,58,174,rhyhorn
+Speed,25,49,163,rhyhorn
+HP,105,320,414,rhydon
+Attack,130,238,394,rhydon
+Defense,120,220,372,rhydon
+Sp. Atk,45,85,207,rhydon
+Sp. Def,45,85,207,rhydon
+Speed,40,76,196,rhydon
+HP,80,270,364,golem
+Attack,120,220,372,golem
+Defense,130,238,394,golem
+Sp. Atk,55,103,229,golem
+Sp. Def,65,121,251,golem
+Speed,45,85,207,golem
+HP,80,270,364,golem
+Attack,120,220,372,golem
+Defense,130,238,394,golem
+Sp. Atk,55,103,229,golem
+Sp. Def,65,121,251,golem
+Speed,45,85,207,golem
+HP,40,190,284,geodude
+Attack,80,148,284,geodude
+Defense,100,184,328,geodude
+Sp. Atk,30,58,174,geodude
+Sp. Def,30,58,174,geodude
+Speed,20,40,152,geodude
+HP,40,190,284,geodude
+Attack,80,148,284,geodude
+Defense,100,184,328,geodude
+Sp. Atk,30,58,174,geodude
+Sp. Def,30,58,174,geodude
+Speed,20,40,152,geodude
+HP,35,180,274,onix
+Attack,45,85,207,onix
+Defense,160,292,460,onix
+Sp. Atk,30,58,174,onix
+Sp. Def,45,85,207,onix
+Speed,70,130,262,onix
+HP,55,220,314,graveler
+Attack,95,175,317,graveler
+Defense,115,211,361,graveler
+Sp. Atk,45,85,207,graveler
+Sp. Def,45,85,207,graveler
+Speed,35,67,185,graveler
+HP,55,220,314,graveler
+Attack,95,175,317,graveler
+Defense,115,211,361,graveler
+Sp. Atk,45,85,207,graveler
+Sp. Def,45,85,207,graveler
+Speed,35,67,185,graveler
+HP,68,246,340,corvisquire
+Attack,67,125,256,corvisquire
+Defense,55,103,229,corvisquire
+Sp. Atk,43,81,203,corvisquire
+Sp. Def,55,103,229,corvisquire
+Speed,77,143,278,corvisquire
+HP,55,220,314,growlithe
+Attack,70,130,262,growlithe
+Defense,45,85,207,growlithe
+Sp. Atk,70,130,262,growlithe
+Sp. Def,50,94,218,growlithe
+Speed,60,112,240,growlithe
+HP,70,250,344,cramorant
+Attack,85,157,295,cramorant
+Defense,55,103,229,cramorant
+Sp. Atk,85,157,295,cramorant
+Sp. Def,95,175,317,cramorant
+Speed,85,157,295,cramorant
+HP,75,260,354,oricorio
+Attack,70,130,262,oricorio
+Defense,70,130,262,oricorio
+Sp. Atk,98,180,324,oricorio
+Sp. Def,70,130,262,oricorio
+Speed,93,171,313,oricorio
+HP,75,260,354,oricorio
+Attack,70,130,262,oricorio
+Defense,70,130,262,oricorio
+Sp. Atk,98,180,324,oricorio
+Sp. Def,70,130,262,oricorio
+Speed,93,171,313,oricorio
+HP,75,260,354,oricorio
+Attack,70,130,262,oricorio
+Defense,70,130,262,oricorio
+Sp. Atk,98,180,324,oricorio
+Sp. Def,70,130,262,oricorio
+Speed,93,171,313,oricorio
+HP,75,260,354,oricorio
+Attack,70,130,262,oricorio
+HP,68,246,340,rowlet
+Attack,55,103,229,rowlet
+Defense,55,103,229,rowlet
+Sp. Atk,50,94,218,rowlet
+Sp. Def,50,94,218,rowlet
+Speed,42,80,201,rowlet
+HP,80,270,364,toucannon
+Attack,120,220,372,toucannon
+Defense,75,139,273,toucannon
+Sp. Atk,75,139,273,toucannon
+Sp. Def,75,139,273,toucannon
+Speed,60,112,240,toucannon
+HP,60,230,324,minior
+Attack,60,112,240,minior
+Defense,100,184,328,minior
+Sp. Atk,60,112,240,minior
+Sp. Def,100,184,328,minior
+Speed,60,112,240,minior
+HP,60,230,324,minior
+Attack,100,184,328,minior
+Defense,60,112,240,minior
+Sp. Atk,100,184,328,minior
+Sp. Def,60,112,240,minior
+Speed,120,220,372,minior
+HP,78,266,360,dartrix
+Attack,75,139,273,dartrix
+Defense,75,139,273,dartrix
+Sp. Atk,70,130,262,dartrix
+Sp. Def,70,130,262,dartrix
+Speed,52,98,223,dartrix
+Defense,70,130,262,oricorio
+Sp. Atk,98,180,324,oricorio
+Sp. Def,70,130,262,oricorio
+Speed,93,171,313,oricorio
+HP,85,280,374,noivern
+Attack,70,130,262,noivern
+Defense,80,148,284,noivern
+Sp. Atk,97,179,322,noivern
+Sp. Def,80,148,284,noivern
+Speed,123,225,379,noivern
+HP,55,220,314,trumbeak
+Attack,85,157,295,trumbeak
+Defense,50,94,218,trumbeak
+Sp. Atk,40,76,196,trumbeak
+Sp. Def,50,94,218,trumbeak
+Speed,75,139,273,trumbeak
+HP,126,362,456,yveltal
+Attack,131,240,397,yveltal
+Defense,95,175,317,yveltal
+Sp. Atk,131,240,397,yveltal
+Sp. Def,98,180,324,yveltal
+Speed,99,182,326,yveltal
+HP,35,180,274,pikipek
+Attack,75,139,273,pikipek
+Defense,30,58,174,pikipek
+Sp. Atk,30,58,174,pikipek
+Sp. Def,30,58,174,pikipek
+Speed,65,121,251,pikipek
+HP,38,186,280,rookidee
+Attack,47,89,212,rookidee
+Defense,35,67,185,rookidee
+Sp. Atk,33,63,181,rookidee
+Sp. Def,35,67,185,rookidee
+Speed,57,107,234,rookidee
+HP,45,200,294,fletchling
+Attack,50,94,218,fletchling
+Defense,43,81,203,fletchling
+Sp. Atk,40,76,196,fletchling
+Sp. Def,38,72,192,fletchling
+Speed,62,116,245,fletchling
+HP,79,268,362,thundurus
+Attack,115,211,361,thundurus
+Defense,70,130,262,thundurus
+Sp. Atk,125,229,383,thundurus
+Sp. Def,80,148,284,thundurus
+Speed,111,204,353,thundurus
+HP,79,268,362,thundurus
+Attack,105,193,339,thundurus
+Defense,70,130,262,thundurus
+Sp. Atk,145,265,427,thundurus
+Sp. Def,80,148,284,thundurus
+Speed,101,186,331,thundurus
+HP,79,268,362,tornadus
+Attack,115,211,361,tornadus
+Defense,70,130,262,tornadus
+Sp. Atk,125,229,383,tornadus
+Sp. Def,80,148,284,tornadus
+Speed,111,204,353,tornadus
+HP,79,268,362,tornadus
+Attack,100,184,328,tornadus
+Defense,80,148,284,tornadus
+Sp. Atk,110,202,350,tornadus
+Sp. Def,90,166,306,tornadus
+Speed,121,222,375,tornadus
+HP,78,266,360,talonflame
+Attack,81,150,287,talonflame
+Defense,71,132,265,talonflame
+Sp. Atk,74,137,271,talonflame
+Sp. Def,69,128,260,talonflame
+Speed,126,231,386,talonflame
+HP,40,190,284,noibat
+Attack,30,58,174,noibat
+Defense,35,67,185,noibat
+Sp. Atk,45,85,207,noibat
+Sp. Def,40,76,196,noibat
+Speed,55,103,229,noibat
+HP,78,266,360,hawlucha
+Attack,92,170,311,hawlucha
+Defense,75,139,273,hawlucha
+Sp. Atk,74,137,271,hawlucha
+Sp. Def,63,117,247,hawlucha
+Speed,118,216,368,hawlucha
+HP,62,234,328,fletchinder
+Attack,73,135,269,fletchinder
+Defense,55,103,229,fletchinder
+Sp. Atk,56,105,232,fletchinder
+Sp. Def,52,98,223,fletchinder
+Speed,84,155,293,fletchinder
+HP,89,288,382,landorus
+Attack,125,229,383,landorus
+Defense,90,166,306,landorus
+Sp. Atk,115,211,361,landorus
+Sp. Def,80,148,284,landorus
+Speed,101,186,331,landorus
+HP,89,288,382,landorus
+Attack,145,265,427,landorus
+Defense,90,166,306,landorus
+Sp. Atk,105,193,339,landorus
+Sp. Def,80,148,284,landorus
+Speed,91,168,309,landorus
+HP,55,220,314,emolga
+Attack,75,139,273,emolga
+Defense,60,112,240,emolga
+Sp. Atk,75,139,273,emolga
+Sp. Def,60,112,240,emolga
+Speed,103,189,335,emolga
+HP,70,250,344,vullaby
+Attack,55,103,229,vullaby
+Defense,75,139,273,vullaby
+Sp. Atk,45,85,207,vullaby
+Sp. Def,65,121,251,vullaby
+Speed,60,112,240,vullaby
+HP,75,260,354,swanna
+Attack,87,161,300,swanna
+Defense,63,117,247,swanna
+Sp. Atk,87,161,300,swanna
+Sp. Def,63,117,247,swanna
+Speed,98,180,324,swanna
+HP,52,214,308,deino
+Attack,65,121,251,deino
+Defense,50,94,218,deino
+Sp. Atk,45,85,207,deino
+Sp. Def,50,94,218,deino
+Speed,38,72,192,deino
+HP,70,250,344,rufflet
+Attack,83,153,291,rufflet
+Defense,50,94,218,rufflet
+Sp. Atk,37,71,190,rufflet
+Sp. Def,50,94,218,rufflet
+Speed,60,112,240,rufflet
+HP,110,330,424,mandibuzz
+Attack,65,121,251,mandibuzz
+Defense,105,193,339,mandibuzz
+Sp. Atk,55,103,229,mandibuzz
+Sp. Def,95,175,317,mandibuzz
+Speed,80,148,284,mandibuzz
+HP,77,264,358,druddigon
+Attack,120,220,372,druddigon
+Defense,90,166,306,druddigon
+Sp. Atk,60,112,240,druddigon
+Sp. Def,90,166,306,druddigon
+Speed,48,90,214,druddigon
+HP,46,202,296,axew
+Attack,87,161,300,axew
+Defense,60,112,240,axew
+Sp. Atk,30,58,174,axew
+Sp. Def,40,76,196,axew
+Speed,57,107,234,axew
+HP,100,310,404,braviary
+Attack,123,225,379,braviary
+Defense,75,139,273,braviary
+Sp. Atk,57,107,234,braviary
+Sp. Def,75,139,273,braviary
+Speed,80,148,284,braviary
+HP,62,234,328,ducklett
+Attack,44,83,205,ducklett
+Defense,50,94,218,ducklett
+Sp. Atk,44,83,205,ducklett
+Sp. Def,50,94,218,ducklett
+Speed,55,103,229,ducklett
+HP,75,260,354,archeops
+Attack,140,256,416,archeops
+Defense,65,121,251,archeops
+Sp. Atk,112,206,355,archeops
+Sp. Def,65,121,251,archeops
+Speed,110,202,350,archeops
+HP,76,262,356,haxorus
+Attack,147,269,432,haxorus
+Defense,90,166,306,haxorus
+Sp. Atk,60,112,240,haxorus
+Sp. Def,70,130,262,haxorus
+Speed,97,179,322,haxorus
+HP,66,242,336,fraxure
+Attack,117,215,366,fraxure
+Defense,70,130,262,fraxure
+Sp. Atk,40,76,196,fraxure
+Sp. Def,50,94,218,fraxure
+Speed,67,125,256,fraxure
+HP,90,290,384,palkia
+Attack,120,220,372,palkia
+Defense,100,184,328,palkia
+Sp. Atk,150,274,438,palkia
+Sp. Def,120,220,372,palkia
+Speed,100,184,328,palkia
+HP,68,246,340,gabite
+Attack,90,166,306,gabite
+Defense,65,121,251,gabite
+Sp. Atk,50,94,218,gabite
+Sp. Def,55,103,229,gabite
+Speed,82,152,289,gabite
+HP,150,410,504,giratina
+Attack,100,184,328,giratina
+Defense,120,220,372,giratina
+Sp. Atk,100,184,328,giratina
+Sp. Def,120,220,372,giratina
+Speed,90,166,306,giratina
+HP,150,410,504,giratina
+Attack,120,220,372,giratina
+Defense,100,184,328,giratina
+Sp. Atk,120,220,372,giratina
+Sp. Def,100,184,328,giratina
+Speed,90,166,306,giratina
+HP,108,326,420,garchomp
+Attack,130,238,394,garchomp
+Defense,95,175,317,garchomp
+Sp. Atk,80,148,284,garchomp
+Sp. Def,85,157,295,garchomp
+Speed,102,188,333,garchomp
+HP,108,326,420,garchomp
+Attack,170,310,482,garchomp
+Defense,115,211,361,garchomp
+Sp. Atk,120,220,372,garchomp
+Sp. Def,95,175,317,garchomp
+Speed,92,170,311,garchomp
+HP,80,270,364,latias
+Attack,80,148,284,latias
+Defense,90,166,306,latias
+Sp. Atk,110,202,350,latias
+Sp. Def,130,238,394,latias
+Speed,110,202,350,latias
+HP,80,270,364,latias
+Attack,100,184,328,latias
+Defense,120,220,372,latias
+Sp. Atk,140,256,416,latias
+Sp. Def,150,274,438,latias
+Speed,110,202,350,latias
+HP,80,270,364,latios
+Attack,90,166,306,latios
+Defense,80,148,284,latios
+Sp. Atk,130,238,394,latios
+Sp. Def,110,202,350,latios
+Speed,110,202,350,latios
+HP,80,270,364,latios
+Attack,130,238,394,latios
+Defense,100,184,328,latios
+Sp. Atk,160,292,460,latios
+Sp. Def,120,220,372,latios
+Speed,110,202,350,latios
+HP,58,226,320,gible
+Attack,70,130,262,gible
+Defense,45,85,207,gible
+Sp. Atk,40,76,196,gible
+Sp. Def,45,85,207,gible
+Speed,42,80,201,gible
+HP,45,200,294,bagon
+Attack,75,139,273,bagon
+Defense,60,112,240,bagon
+Sp. Atk,40,76,196,bagon
+Sp. Def,30,58,174,bagon
+Speed,50,94,218,bagon
+HP,65,240,334,shelgon
+Attack,95,175,317,shelgon
+Defense,100,184,328,shelgon
+Sp. Atk,60,112,240,shelgon
+Sp. Def,50,94,218,shelgon
+Speed,50,94,218,shelgon
+HP,80,270,364,flygon
+Attack,100,184,328,flygon
+Defense,80,148,284,flygon
+Sp. Atk,80,148,284,flygon
+Sp. Def,80,148,284,flygon
+Speed,100,184,328,flygon
+HP,70,250,344,sceptile
+Attack,85,157,295,sceptile
+Defense,65,121,251,sceptile
+Sp. Atk,105,193,339,sceptile
+Sp. Def,85,157,295,sceptile
+Speed,120,220,372,sceptile
+HP,70,250,344,sceptile
+Attack,110,202,350,sceptile
+Defense,75,139,273,sceptile
+Sp. Atk,145,265,427,sceptile
+Sp. Def,85,157,295,sceptile
+Speed,145,265,427,sceptile
+HP,50,210,304,vibrava
+Attack,70,130,262,vibrava
+Defense,50,94,218,vibrava
+Sp. Atk,50,94,218,vibrava
+Sp. Def,50,94,218,vibrava
+Speed,70,130,262,vibrava
+HP,75,260,354,kingdra
+Attack,95,175,317,kingdra
+Defense,95,175,317,kingdra
+Sp. Atk,95,175,317,kingdra
+Sp. Def,95,175,317,kingdra
+Speed,85,157,295,kingdra
+HP,90,290,384,ampharos
+Attack,75,139,273,ampharos
+Defense,85,157,295,ampharos
+Sp. Atk,115,211,361,ampharos
+Sp. Def,90,166,306,ampharos
+Speed,55,103,229,ampharos
+HP,90,290,384,ampharos
+Attack,95,175,317,ampharos
+Defense,105,193,339,ampharos
+Sp. Atk,165,301,471,ampharos
+Sp. Def,110,202,350,ampharos
+Speed,45,85,207,ampharos
+HP,95,300,394,exeggutor
+HP,61,232,326,dragonair
+Attack,84,155,293,dragonair
+Defense,65,121,251,dragonair
+Sp. Atk,70,130,262,dragonair
+Sp. Def,70,130,262,dragonair
+Speed,70,130,262,dragonair
+Attack,95,175,317,exeggutor
+Defense,85,157,295,exeggutor
+Sp. Atk,125,229,383,exeggutor
+Sp. Def,75,139,273,exeggutor
+Speed,55,103,229,exeggutor
+HP,95,300,394,exeggutor
+Attack,105,193,339,exeggutor
+Defense,85,157,295,exeggutor
+Sp. Atk,125,229,383,exeggutor
+Sp. Def,75,139,273,exeggutor
+Speed,45,85,207,exeggutor
+HP,70,250,344,duraludon
+Attack,95,175,317,duraludon
+Defense,115,211,361,duraludon
+Sp. Atk,120,220,372,duraludon
+Sp. Def,50,94,218,duraludon
+Speed,85,157,295,duraludon
+HP,41,192,286,dratini
+Attack,64,119,249,dratini
+Defense,45,85,207,dratini
+Sp. Atk,50,94,218,dratini
+Sp. Def,50,94,218,dratini
+Speed,50,94,218,dratini
+HP,40,190,284,kadabra
+Attack,35,67,185,kadabra
+Defense,30,58,174,kadabra
+Sp. Atk,120,220,372,kadabra
+Sp. Def,70,130,262,kadabra
+Speed,105,193,339,kadabra
+HP,60,230,324,raichu
+HP,55,220,314,alakazam
+Attack,50,94,218,alakazam
+Defense,45,85,207,alakazam
+Sp. Atk,135,247,405,alakazam
+Sp. Def,95,175,317,alakazam
+Speed,120,220,372,alakazam
+HP,55,220,314,alakazam
+Attack,50,94,218,alakazam
+Defense,65,121,251,alakazam
+Sp. Atk,175,319,493,alakazam
+Sp. Def,105,193,339,alakazam
+Attack,90,166,306,raichu
+Defense,55,103,229,raichu
+Sp. Atk,90,166,306,raichu
+Sp. Def,80,148,284,raichu
+Speed,110,202,350,raichu
+HP,60,230,324,raichu
+Attack,85,157,295,raichu
+Defense,50,94,218,raichu
+Sp. Atk,95,175,317,raichu
+Sp. Def,85,157,295,raichu
+Speed,110,202,350,raichu
+Speed,150,274,438,alakazam
+HP,25,160,254,abra
+Attack,20,40,152,abra
+Defense,15,31,141,abra
+Sp. Atk,105,193,339,abra
+Sp. Def,55,103,229,abra
+Speed,90,166,306,abra
+HP,92,294,388,zamazenta
+Attack,130,238,394,zamazenta
+Defense,145,265,427,zamazenta
+Sp. Atk,80,148,284,zamazenta
+Sp. Def,145,265,427,zamazenta
+Speed,128,234,390,zamazenta
+HP,92,294,388,zamazenta
+Attack,130,238,394,zamazenta
+Defense,115,211,361,zamazenta
+Sp. Atk,80,148,284,zamazenta
+Sp. Def,115,211,361,zamazenta
+Speed,138,252,412,zamazenta
+HP,122,354,448,copperajah
+Attack,130,238,394,copperajah
+Defense,69,128,260,copperajah
+Sp. Atk,80,148,284,copperajah
+Sp. Def,69,128,260,copperajah
+Speed,30,58,174,copperajah
+HP,97,304,398,necrozma
+Attack,107,197,344,necrozma
+Defense,101,186,331,necrozma
+Sp. Atk,127,233,388,necrozma
+Sp. Def,89,164,304,necrozma
+Speed,79,146,282,necrozma
+HP,97,304,398,necrozma
+Attack,157,287,454,necrozma
+Defense,127,233,388,necrozma
+Sp. Atk,113,207,357,necrozma
+Sp. Def,109,200,348,necrozma
+Speed,77,143,278,necrozma
+HP,72,254,348,cufant
+Attack,80,148,284,cufant
+Defense,49,92,216,cufant
+Sp. Atk,40,76,196,cufant
+Sp. Def,49,92,216,cufant
+Speed,40,76,196,cufant
+HP,135,380,474,melmetal
+Attack,143,261,423,melmetal
+Defense,143,261,423,melmetal
+Sp. Atk,80,148,284,melmetal
+Sp. Def,65,121,251,melmetal
+Speed,34,65,183,melmetal
+HP,98,306,400,corviknight
+Attack,87,161,300,corviknight
+Defense,105,193,339,corviknight
+Sp. Atk,53,99,225,corviknight
+Sp. Def,85,157,295,corviknight
+Speed,67,125,256,corviknight
+HP,70,250,344,perrserker
+Attack,110,202,350,perrserker
+Defense,100,184,328,perrserker
+Sp. Atk,50,94,218,perrserker
+Sp. Def,60,112,240,perrserker
+Speed,50,94,218,perrserker
+HP,46,202,296,meltan
+Attack,65,121,251,meltan
+Defense,65,121,251,meltan
+Sp. Atk,55,103,229,meltan
+Sp. Def,35,67,185,meltan
+Speed,34,65,183,meltan
+HP,97,304,398,necrozma
+Attack,113,207,357,necrozma
+Defense,109,200,348,necrozma
+Sp. Atk,157,287,454,necrozma
+Sp. Def,127,233,388,necrozma
+Speed,77,143,278,necrozma
+HP,97,304,398,necrozma
+Attack,167,305,476,necrozma
+Defense,97,179,322,necrozma
+Sp. Atk,167,305,476,necrozma
+Sp. Def,97,179,322,necrozma
+Speed,129,236,392,necrozma
+HP,61,232,326,stakataka
+Attack,131,240,397,stakataka
+Defense,211,384,573,stakataka
+Sp. Atk,53,99,225,stakataka
+Sp. Def,101,186,331,stakataka
+Speed,13,27,137,stakataka
+HP,59,228,322,kartana
+Attack,181,330,507,kartana
+Defense,131,240,397,kartana
+Sp. Atk,59,110,238,kartana
+Sp. Def,31,60,177,kartana
+Speed,109,200,348,kartana
+HP,97,304,398,celesteela
+Attack,101,186,331,celesteela
+Defense,103,189,335,celesteela
+Sp. Atk,107,197,344,celesteela
+Sp. Def,101,186,331,celesteela
+Speed,61,114,243,celesteela
+HP,59,228,322,doublade
+Attack,110,202,350,doublade
+Defense,150,274,438,doublade
+Sp. Atk,45,85,207,doublade
+Sp. Def,49,92,216,doublade
+Speed,35,67,185,doublade
+HP,45,200,294,honedge
+Attack,80,148,284,honedge
+Defense,100,184,328,honedge
+Sp. Atk,35,67,185,honedge
+Sp. Def,37,71,190,honedge
+Speed,28,54,170,honedge
+HP,60,230,324,aegislash
+Attack,50,94,218,aegislash
+Defense,140,256,416,aegislash
+Sp. Atk,50,94,218,aegislash
+Sp. Def,140,256,416,aegislash
+Speed,60,112,240,aegislash
+HP,60,230,324,aegislash
+Attack,140,256,416,aegislash
+Defense,50,94,218,aegislash
+Sp. Atk,140,256,416,aegislash
+Sp. Def,50,94,218,aegislash
+Speed,60,112,240,aegislash
+HP,65,240,334,togedemaru
+Attack,98,180,324,togedemaru
+Defense,63,117,247,togedemaru
+Sp. Atk,40,76,196,togedemaru
+Sp. Def,73,135,269,togedemaru
+Speed,96,177,320,togedemaru
+HP,137,384,478,solgaleo
+Attack,137,251,410,solgaleo
+Defense,107,197,344,solgaleo
+Sp. Atk,113,207,357,solgaleo
+Sp. Def,89,164,304,solgaleo
+Speed,97,179,322,solgaleo
+HP,65,240,334,bisharp
+Attack,125,229,383,bisharp
+Defense,100,184,328,bisharp
+Sp. Atk,60,112,240,bisharp
+Sp. Def,70,130,262,bisharp
+Speed,70,130,262,bisharp
+HP,91,292,386,cobalion
+Attack,90,166,306,cobalion
+Defense,129,236,392,cobalion
+Sp. Atk,90,166,306,cobalion
+Sp. Def,72,134,267,cobalion
+Speed,108,198,346,cobalion
+HP,62,234,328,tranquill
+HP,50,210,304,pidove
+Attack,55,103,229,pidove
+Defense,50,94,218,pidove
+Sp. Atk,36,69,188,pidove
+Sp. Def,30,58,174,pidove
+HP,100,310,404,shaymin
+Attack,77,143,278,tranquill
+Defense,62,116,245,tranquill
+Sp. Atk,50,94,218,tranquill
+Sp. Def,42,80,201,tranquill
+Speed,65,121,251,tranquill
+HP,55,220,314,archen
+Attack,112,206,355,archen
+Defense,45,85,207,archen
+Sp. Atk,74,137,271,archen
+Sp. Def,45,85,207,archen
+Speed,70,130,262,archen
+Speed,43,81,203,pidove
+Attack,100,184,328,shaymin
+Defense,100,184,328,shaymin
+Sp. Atk,100,184,328,shaymin
+Sp. Def,100,184,328,shaymin
+Speed,100,184,328,shaymin
+HP,100,310,404,shaymin
+Attack,103,189,335,shaymin
+Defense,75,139,273,shaymin
+Sp. Atk,120,220,372,shaymin
+Sp. Def,75,139,273,shaymin
+Speed,127,233,388,shaymin
+HP,65,240,334,woobat
+Attack,45,85,207,woobat
+Defense,43,81,203,woobat
+Sp. Atk,55,103,229,woobat
+Sp. Def,43,81,203,woobat
+Speed,72,134,267,woobat
+HP,72,254,348,sigilyph
+Attack,58,108,236,sigilyph
+Defense,80,148,284,sigilyph
+Sp. Atk,103,189,335,sigilyph
+Sp. Def,80,148,284,sigilyph
+Speed,97,179,322,sigilyph
+HP,80,270,364,unfezant
+Attack,115,211,361,unfezant
+Defense,80,148,284,unfezant
+Sp. Atk,65,121,251,unfezant
+Sp. Def,55,103,229,unfezant
+Speed,93,171,313,unfezant
+HP,67,244,338,swoobat
+Attack,57,107,234,swoobat
+Defense,55,103,229,swoobat
+Sp. Atk,77,143,278,swoobat
+Sp. Def,55,103,229,swoobat
+Speed,114,209,359,swoobat
+HP,150,410,504,drifblim
+Attack,80,148,284,drifblim
+Defense,44,83,205,drifblim
+Sp. Atk,90,166,306,drifblim
+Sp. Def,54,101,227,drifblim
+Speed,80,148,284,drifblim
+HP,50,210,304,rotom
+Attack,50,94,218,rotom
+Defense,77,143,278,rotom
+Sp. Atk,95,175,317,rotom
+Sp. Def,77,143,278,rotom
+Speed,91,168,309,rotom
+HP,50,210,304,rotom
+Attack,65,121,251,rotom
+Defense,107,197,344,rotom
+Sp. Atk,105,193,339,rotom
+Sp. Def,107,197,344,rotom
+Speed,86,159,298,rotom
+HP,50,210,304,rotom
+Attack,65,121,251,rotom
+Defense,107,197,344,rotom
+Sp. Atk,105,193,339,rotom
+HP,75,260,354,gliscor
+Attack,95,175,317,gliscor
+Defense,125,229,383,gliscor
+Sp. Atk,45,85,207,gliscor
+Sp. Def,75,139,273,gliscor
+Speed,95,175,317,gliscor
+HP,76,262,356,chatot
+Attack,65,121,251,chatot
+Defense,45,85,207,chatot
+Sp. Atk,92,170,311,chatot
+Sp. Def,42,80,201,chatot
+Speed,91,168,309,chatot
+HP,90,290,384,drifloon
+Attack,50,94,218,drifloon
+Defense,34,65,183,drifloon
+Sp. Atk,60,112,240,drifloon
+Sp. Def,44,83,205,drifloon
+Speed,70,130,262,drifloon
+HP,85,280,374,staraptor
+Attack,120,220,372,staraptor
+Defense,70,130,262,staraptor
+Sp. Atk,50,94,218,staraptor
+Sp. Def,60,112,240,staraptor
+Speed,100,184,328,staraptor
+HP,100,310,404,honchkrow
+Attack,125,229,383,honchkrow
+Defense,52,98,223,honchkrow
+Sp. Atk,105,193,339,honchkrow
+Sp. Def,52,98,223,honchkrow
+Speed,71,132,265,honchkrow
+HP,55,220,314,staravia
+Attack,75,139,273,staravia
+Defense,50,94,218,staravia
+Sp. Atk,40,76,196,staravia
+Sp. Def,40,76,196,staravia
+Speed,80,148,284,staravia
+Sp. Def,107,197,344,rotom
+Speed,86,159,298,rotom
+HP,50,210,304,rotom
+Attack,65,121,251,rotom
+Defense,107,197,344,rotom
+Sp. Atk,105,193,339,rotom
+Sp. Def,107,197,344,rotom
+Speed,86,159,298,rotom
+HP,50,210,304,rotom
+Attack,65,121,251,rotom
+Defense,107,197,344,rotom
+Sp. Atk,105,193,339,rotom
+Sp. Def,107,197,344,rotom
+Speed,86,159,298,rotom
+HP,50,210,304,rotom
+Attack,65,121,251,rotom
+Defense,107,197,344,rotom
+Sp. Atk,105,193,339,rotom
+Sp. Def,107,197,344,rotom
+Speed,86,159,298,rotom
+HP,40,190,284,starly
+Attack,55,103,229,starly
+Defense,30,58,174,starly
+Sp. Atk,30,58,174,starly
+Sp. Def,30,58,174,starly
+Speed,60,112,240,starly
+HP,45,200,294,mantyke
+Attack,20,40,152,mantyke
+Defense,50,94,218,mantyke
+Sp. Atk,60,112,240,mantyke
+Sp. Def,120,220,372,mantyke
+Speed,50,94,218,mantyke
+HP,95,300,394,salamence
+Attack,135,247,405,salamence
+Defense,80,148,284,salamence
+Sp. Atk,110,202,350,salamence
+Sp. Def,80,148,284,salamence
+Speed,100,184,328,salamence
+HP,95,300,394,salamence
+Attack,145,265,427,salamence
+Defense,130,238,394,salamence
+Sp. Atk,120,220,372,salamence
+Sp. Def,90,166,306,salamence
+Speed,120,220,372,salamence
+HP,105,320,414,rayquaza
+Attack,150,274,438,rayquaza
+Defense,90,166,306,rayquaza
+Sp. Atk,150,274,438,rayquaza
+Sp. Def,90,166,306,rayquaza
+Speed,95,175,317,rayquaza
+HP,105,320,414,rayquaza
+Attack,180,328,504,rayquaza
+Defense,100,184,328,rayquaza
+Sp. Atk,180,328,504,rayquaza
+Sp. Def,100,184,328,rayquaza
+Speed,115,211,361,rayquaza
+HP,99,308,402,tropius
+Attack,68,126,258,tropius
+Defense,83,153,291,tropius
+Sp. Atk,72,134,267,tropius
+Sp. Def,87,161,300,tropius
+Speed,51,96,221,tropius
+HP,45,200,294,swablu
+Attack,40,76,196,swablu
+Defense,60,112,240,swablu
+Sp. Atk,40,76,196,swablu
+Sp. Def,75,139,273,swablu
+Speed,50,94,218,swablu
+HP,60,230,324,pelipper
+Attack,50,94,218,pelipper
+Defense,100,184,328,pelipper
+Sp. Atk,95,175,317,pelipper
+Sp. Def,70,130,262,pelipper
+Speed,65,121,251,pelipper
+HP,40,190,284,wingull
+Attack,30,58,174,wingull
+Defense,30,58,174,wingull
+Sp. Atk,55,103,229,wingull
+Sp. Def,30,58,174,wingull
+Speed,85,157,295,wingull
+HP,60,230,324,swellow
+Attack,85,157,295,swellow
+Defense,60,112,240,swellow
+Sp. Atk,75,139,273,swellow
+Sp. Def,50,94,218,swellow
+Speed,125,229,383,swellow
+HP,106,322,416,lugia
+Attack,90,166,306,lugia
+Defense,130,238,394,lugia
+Sp. Atk,90,166,306,lugia
+Sp. Def,154,281,447,lugia
+Speed,110,202,350,lugia
+HP,106,322,416,ho-oh
+Attack,130,238,394,ho-oh
+Defense,90,166,306,ho-oh
+Sp. Atk,110,202,350,ho-oh
+Sp. Def,154,281,447,ho-oh
+Speed,90,166,306,ho-oh
+HP,60,230,324,murkrow
+Attack,85,157,295,murkrow
+Defense,42,80,201,murkrow
+Sp. Atk,85,157,295,murkrow
+Sp. Def,42,80,201,murkrow
+Speed,91,168,309,murkrow
+HP,85,280,374,mantine
+HP,45,200,294,delibird
+Attack,55,103,229,delibird
+Defense,45,85,207,delibird
+Sp. Atk,65,121,251,delibird
+Sp. Def,45,85,207,delibird
+Speed,75,139,273,delibird
+HP,40,190,284,taillow
+Attack,55,103,229,taillow
+Defense,30,58,174,taillow
+Sp. Atk,30,58,174,taillow
+Sp. Def,30,58,174,taillow
+Speed,85,157,295,taillow
+Attack,40,76,196,mantine
+Defense,70,130,262,mantine
+Sp. Atk,80,148,284,mantine
+Sp. Def,140,256,416,mantine
+Speed,70,130,262,mantine
+HP,55,220,314,skiploom
+Attack,45,85,207,skiploom
+Defense,50,94,218,skiploom
+Sp. Atk,45,85,207,skiploom
+Sp. Def,65,121,251,skiploom
+Speed,80,148,284,skiploom
+HP,75,260,354,jumpluff
+Attack,55,103,229,jumpluff
+Defense,70,130,262,jumpluff
+Sp. Atk,55,103,229,jumpluff
+Sp. Def,95,175,317,jumpluff
+Speed,110,202,350,jumpluff
+HP,65,240,334,gligar
+Attack,75,139,273,gligar
+Defense,105,193,339,gligar
+Sp. Atk,35,67,185,gligar
+Sp. Def,65,121,251,gligar
+Speed,85,157,295,gligar
+HP,85,280,374,crobat
+Attack,90,166,306,crobat
+Defense,80,148,284,crobat
+Sp. Atk,70,130,262,crobat
+Sp. Def,80,148,284,crobat
+Speed,130,238,394,crobat
+HP,35,180,274,hoppip
+Attack,35,67,185,hoppip
+Defense,40,76,196,hoppip
+Sp. Atk,35,67,185,hoppip
+Sp. Def,55,103,229,hoppip
+Speed,50,94,218,hoppip
+HP,65,240,334,xatu
+Attack,75,139,273,xatu
+Defense,70,130,262,xatu
+Sp. Atk,95,175,317,xatu
+Sp. Def,70,130,262,xatu
+Speed,95,175,317,xatu
+HP,100,310,404,noctowl
+Attack,50,94,218,noctowl
+Defense,50,94,218,noctowl
+Sp. Atk,86,159,298,noctowl
+Sp. Def,96,177,320,noctowl
+Speed,70,130,262,noctowl
+HP,60,230,324,hoothoot
+Attack,30,58,174,hoothoot
+Defense,30,58,174,hoothoot
+Sp. Atk,36,69,188,hoothoot
+Sp. Def,56,105,232,hoothoot
+Speed,50,94,218,hoothoot
+HP,91,292,386,dragonite
+Attack,134,245,403,dragonite
+Defense,95,175,317,dragonite
+Sp. Atk,100,184,328,dragonite
+Sp. Def,100,184,328,dragonite
+Speed,80,148,284,dragonite
+HP,40,190,284,natu
+Attack,50,94,218,natu
+Defense,45,85,207,natu
+Sp. Atk,70,130,262,natu
+Sp. Def,45,85,207,natu
+Speed,70,130,262,natu
+HP,90,290,384,moltres
+Attack,100,184,328,moltres
+Defense,90,166,306,moltres
+Sp. Atk,125,229,383,moltres
+Sp. Def,85,157,295,moltres
+Speed,90,166,306,moltres
+HP,90,290,384,moltres
+Attack,85,157,295,moltres
+Defense,90,166,306,moltres
+Sp. Atk,100,184,328,moltres
+Sp. Def,125,229,383,moltres
+Speed,90,166,306,moltres
+HP,90,290,384,zapdos
+Attack,90,166,306,zapdos
+Defense,85,157,295,zapdos
+Sp. Atk,125,229,383,zapdos
+Sp. Def,90,166,306,zapdos
+Speed,100,184,328,zapdos
+HP,90,290,384,zapdos
+Attack,125,229,383,zapdos
+Defense,90,166,306,zapdos
+Sp. Atk,85,157,295,zapdos
+Sp. Def,90,166,306,zapdos
+Speed,100,184,328,zapdos
+HP,95,300,394,gyarados
+Attack,125,229,383,gyarados
+Defense,79,146,282,gyarados
+Sp. Atk,60,112,240,gyarados
+Sp. Def,100,184,328,gyarados
+Speed,81,150,287,gyarados
+HP,95,300,394,gyarados
+Attack,155,283,449,gyarados
+Defense,109,200,348,gyarados
+Sp. Atk,70,130,262,gyarados
+Sp. Def,130,238,394,gyarados
+Speed,81,150,287,gyarados
+HP,90,290,384,articuno
+Attack,85,157,295,articuno
+Defense,100,184,328,articuno
+Sp. Atk,95,175,317,articuno
+Sp. Def,125,229,383,articuno
+Speed,85,157,295,articuno
+HP,90,290,384,articuno
+Attack,85,157,295,articuno
+Defense,85,157,295,articuno
+Sp. Atk,125,229,383,articuno
+Sp. Def,100,184,328,articuno
+Speed,95,175,317,articuno
+HP,60,230,324,dodrio
+Attack,110,202,350,dodrio
+Defense,70,130,262,dodrio
+Sp. Atk,60,112,240,dodrio
+Sp. Def,60,112,240,dodrio
+Speed,110,202,350,dodrio
+HP,80,270,364,aerodactyl
+Attack,105,193,339,aerodactyl
+Defense,65,121,251,aerodactyl
+Sp. Atk,60,112,240,aerodactyl
+Sp. Def,75,139,273,aerodactyl
+Speed,130,238,394,aerodactyl
+HP,80,270,364,aerodactyl
+Attack,135,247,405,aerodactyl
+Defense,85,157,295,aerodactyl
+Sp. Atk,70,130,262,aerodactyl
+Sp. Def,95,175,317,aerodactyl
+Speed,150,274,438,aerodactyl
+HP,75,260,354,golbat
+Attack,80,148,284,golbat
+Defense,70,130,262,golbat
+Sp. Atk,65,121,251,golbat
+Sp. Def,75,139,273,golbat
+Speed,90,166,306,golbat
+HP,52,214,308,farfetchd
+Attack,90,166,306,farfetchd
+Defense,55,103,229,farfetchd
+Sp. Atk,58,108,236,farfetchd
+Sp. Def,62,116,245,farfetchd
+Speed,60,112,240,farfetchd
+HP,52,214,308,farfetchd
+Attack,95,175,317,farfetchd
+Defense,55,103,229,farfetchd
+Sp. Atk,58,108,236,farfetchd
+Sp. Def,62,116,245,farfetchd
+Speed,55,103,229,farfetchd
+HP,70,250,344,frosmoth
+Attack,65,121,251,frosmoth
+Defense,60,112,240,frosmoth
+Sp. Atk,125,229,383,frosmoth
+Sp. Def,90,166,306,frosmoth
+Speed,65,121,251,frosmoth
+HP,30,170,264,snom
+Attack,25,49,163,snom
+Defense,35,67,185,snom
+Sp. Atk,45,85,207,snom
+Sp. Def,30,58,174,snom
+Speed,20,40,152,snom
+HP,60,230,324,orbeetle
+Attack,45,85,207,orbeetle
+Defense,110,202,350,orbeetle
+Sp. Atk,80,148,284,orbeetle
+Sp. Def,120,220,372,orbeetle
+Speed,90,166,306,orbeetle
+HP,100,310,404,centiskorch
+Attack,115,211,361,centiskorch
+Defense,65,121,251,centiskorch
+Sp. Atk,90,166,306,centiskorch
+Sp. Def,90,166,306,centiskorch
+Speed,65,121,251,centiskorch
+HP,50,210,304,sizzlipede
+Attack,65,121,251,sizzlipede
+Defense,45,85,207,sizzlipede
+Sp. Atk,50,94,218,sizzlipede
+Sp. Def,50,94,218,sizzlipede
+Speed,45,85,207,sizzlipede
+HP,35,180,274,doduo
+Attack,85,157,295,doduo
+Defense,45,85,207,doduo
+Sp. Atk,35,67,185,doduo
+Sp. Def,35,67,185,doduo
+Speed,75,139,273,doduo
+HP,71,252,346,pheromosa
+Attack,137,251,410,pheromosa
+Defense,37,71,190,pheromosa
+Sp. Atk,137,251,410,pheromosa
+Sp. Def,37,71,190,pheromosa
+Speed,151,276,441,pheromosa
+HP,50,210,304,dottler
+Attack,35,67,185,dottler
+Defense,80,148,284,dottler
+Sp. Atk,50,94,218,dottler
+Sp. Def,90,166,306,dottler
+Speed,30,58,174,dottler
+HP,25,160,254,blipbug
+Attack,20,40,152,blipbug
+Defense,20,40,152,blipbug
+Sp. Atk,25,49,163,blipbug
+Sp. Def,45,85,207,blipbug
+Speed,45,85,207,blipbug
+HP,107,324,418,buzzwole
+Attack,139,254,414,buzzwole
+Defense,139,254,414,buzzwole
+Sp. Atk,53,99,225,buzzwole
+Sp. Def,53,99,225,buzzwole
+Speed,79,146,282,buzzwole
+HP,75,260,354,golisopod
+Attack,125,229,383,golisopod
+Defense,140,256,416,golisopod
+Sp. Atk,60,112,240,golisopod
+Sp. Def,90,166,306,golisopod
+Speed,40,76,196,golisopod
+HP,25,160,254,wimpod
+Attack,35,67,185,wimpod
+Defense,40,76,196,wimpod
+Sp. Atk,20,40,152,wimpod
+Sp. Def,30,58,174,wimpod
+Speed,80,148,284,wimpod
+HP,68,246,340,araquanid
+Attack,70,130,262,araquanid
+Defense,92,170,311,araquanid
+Sp. Atk,50,94,218,araquanid
+Sp. Def,132,242,399,araquanid
+Speed,42,80,201,araquanid
+HP,38,186,280,dewpider
+Attack,40,76,196,dewpider
+Defense,52,98,223,dewpider
+Sp. Atk,40,76,196,dewpider
+Sp. Def,72,134,267,dewpider
+Speed,27,53,168,dewpider
+HP,77,264,358,vikavolt
+Attack,70,130,262,vikavolt
+Defense,90,166,306,vikavolt
+Sp. Atk,145,265,427,vikavolt
+Sp. Def,75,139,273,vikavolt
+Speed,43,81,203,vikavolt
+HP,57,224,318,charjabug
+Attack,82,152,289,charjabug
+Defense,95,175,317,charjabug
+Sp. Atk,55,103,229,charjabug
+Sp. Def,75,139,273,charjabug
+Speed,36,69,188,charjabug
+HP,47,204,298,grubbin
+Attack,62,116,245,grubbin
+Defense,45,85,207,grubbin
+Sp. Atk,55,103,229,grubbin
+Sp. Def,45,85,207,grubbin
+Speed,46,87,210,grubbin
+HP,80,270,364,vivillon
+Attack,52,98,223,vivillon
+Defense,50,94,218,vivillon
+Sp. Atk,90,166,306,vivillon
+Sp. Def,50,94,218,vivillon
+Speed,89,164,304,vivillon
+HP,45,200,294,spewpa
+Attack,22,44,157,spewpa
+Defense,60,112,240,spewpa
+Sp. Atk,27,53,168,spewpa
+Sp. Def,30,58,174,spewpa
+Speed,29,56,172,spewpa
+HP,71,252,346,genesect
+Attack,120,220,372,genesect
+Defense,95,175,317,genesect
+Sp. Atk,120,220,372,genesect
+Sp. Def,95,175,317,genesect
+Speed,99,182,326,genesect
+HP,58,226,320,durant
+Attack,109,200,348,durant
+Defense,112,206,355,durant
+Sp. Atk,48,90,214,durant
+Sp. Def,48,90,214,durant
+Speed,109,200,348,durant
+HP,85,280,374,volcarona
+Attack,60,112,240,volcarona
+Defense,65,121,251,volcarona
+Sp. Atk,135,247,405,volcarona
+Sp. Def,105,193,339,volcarona
+Speed,100,184,328,volcarona
+HP,38,186,280,scatterbug
+Attack,35,67,185,scatterbug
+Defense,40,76,196,scatterbug
+Sp. Atk,27,53,168,scatterbug
+Sp. Def,25,49,163,scatterbug
+Speed,35,67,185,scatterbug
+HP,55,220,314,larvesta
+Attack,85,157,295,larvesta
+Defense,55,103,229,larvesta
+Sp. Atk,50,94,218,larvesta
+Sp. Def,55,103,229,larvesta
+Speed,60,112,240,larvesta
+HP,50,210,304,karrablast
+Attack,75,139,273,karrablast
+Defense,45,85,207,karrablast
+Sp. Atk,40,76,196,karrablast
+Sp. Def,45,85,207,karrablast
+Speed,60,112,240,karrablast
+HP,70,250,344,galvantula
+Attack,77,143,278,galvantula
+Defense,60,112,240,galvantula
+Sp. Atk,97,179,322,galvantula
+Sp. Def,60,112,240,galvantula
+Speed,108,198,346,galvantula
+HP,50,210,304,shelmet
+Attack,40,76,196,shelmet
+Defense,85,157,295,shelmet
+Sp. Atk,40,76,196,shelmet
+Sp. Def,65,121,251,shelmet
+Speed,25,49,163,shelmet
+HP,80,270,364,accelgor
+Attack,70,130,262,accelgor
+Defense,40,76,196,accelgor
+Sp. Atk,100,184,328,accelgor
+Sp. Def,60,112,240,accelgor
+Speed,145,265,427,accelgor
+HP,60,230,324,scolipede
+Attack,100,184,328,scolipede
+Defense,89,164,304,scolipede
+Sp. Atk,55,103,229,scolipede
+Sp. Def,69,128,260,scolipede
+Speed,112,206,355,scolipede
+HP,50,210,304,joltik
+Attack,47,89,212,joltik
+Defense,50,94,218,joltik
+Sp. Atk,57,107,234,joltik
+Sp. Def,50,94,218,joltik
+Speed,65,121,251,joltik
+HP,50,210,304,dwebble
+Attack,65,121,251,dwebble
+Defense,85,157,295,dwebble
+Sp. Atk,35,67,185,dwebble
+Sp. Def,35,67,185,dwebble
+Speed,55,103,229,dwebble
+HP,70,250,344,crustle
+Attack,105,193,339,crustle
+Defense,125,229,383,crustle
+Sp. Atk,65,121,251,crustle
+Sp. Def,75,139,273,crustle
+Speed,45,85,207,crustle
+HP,40,190,284,whirlipede
+Attack,55,103,229,whirlipede
+Defense,99,182,326,whirlipede
+Sp. Atk,40,76,196,whirlipede
+Sp. Def,79,146,282,whirlipede
+Speed,47,89,212,whirlipede
+HP,45,200,294,sewaddle
+Attack,53,99,225,sewaddle
+Defense,70,130,262,sewaddle
+Sp. Atk,40,76,196,sewaddle
+Sp. Def,60,112,240,sewaddle
+Speed,42,80,201,sewaddle
+HP,75,260,354,leavanny
+Attack,103,189,335,leavanny
+Defense,80,148,284,leavanny
+Sp. Atk,70,130,262,leavanny
+Sp. Def,80,148,284,leavanny
+Speed,92,170,311,leavanny
+HP,86,282,376,yanmega
+Attack,76,141,276,yanmega
+Defense,86,159,298,yanmega
+Sp. Atk,116,213,364,yanmega
+Sp. Def,56,105,232,yanmega
+Speed,95,175,317,yanmega
+HP,55,220,314,swadloon
+Attack,63,117,247,swadloon
+Defense,90,166,306,swadloon
+Sp. Atk,50,94,218,swadloon
+Sp. Def,80,148,284,swadloon
+Speed,42,80,201,swadloon
+HP,40,190,284,skorupi
+Attack,50,94,218,skorupi
+Defense,90,166,306,skorupi
+Sp. Atk,30,58,174,skorupi
+Sp. Def,55,103,229,skorupi
+Speed,65,121,251,skorupi
+HP,70,250,344,vespiquen
+Attack,80,148,284,vespiquen
+Defense,102,188,333,vespiquen
+Sp. Atk,80,148,284,vespiquen
+Sp. Def,102,188,333,vespiquen
+Speed,40,76,196,vespiquen
+HP,30,170,264,venipede
+Attack,45,85,207,venipede
+Defense,59,110,238,venipede
+Sp. Atk,30,58,174,venipede
+Sp. Def,39,74,194,venipede
+Speed,57,107,234,venipede
+HP,70,250,344,mothim
+Attack,94,173,315,mothim
+Defense,50,94,218,mothim
+Sp. Atk,94,173,315,mothim
+Sp. Def,50,94,218,mothim
+Speed,66,123,254,mothim
+HP,40,190,284,burmy
+Attack,29,56,172,burmy
+Defense,45,85,207,burmy
+Sp. Atk,29,56,172,burmy
+Sp. Def,45,85,207,burmy
+Speed,36,69,188,burmy
+HP,30,170,264,combee
+Attack,30,58,174,combee
+Defense,42,80,201,combee
+Sp. Atk,30,58,174,combee
+Sp. Def,42,80,201,combee
+Speed,70,130,262,combee
+HP,75,260,354,armaldo
+Attack,125,229,383,armaldo
+Defense,100,184,328,armaldo
+Sp. Atk,70,130,262,armaldo
+Sp. Def,80,148,284,armaldo
+Speed,45,85,207,armaldo
+HP,45,200,294,anorith
+Attack,95,175,317,anorith
+Defense,50,94,218,anorith
+Sp. Atk,40,76,196,anorith
+Sp. Def,50,94,218,anorith
+Speed,75,139,273,anorith
+HP,37,184,278,kricketot
+Attack,25,49,163,kricketot
+Defense,41,78,199,kricketot
+Sp. Atk,25,49,163,kricketot
+Sp. Def,41,78,199,kricketot
+Speed,25,49,163,kricketot
+HP,65,240,334,illumise
+Attack,47,89,212,illumise
+Defense,75,139,273,illumise
+Sp. Atk,73,135,269,illumise
+Sp. Def,85,157,295,illumise
+Speed,85,157,295,illumise
+HP,77,264,358,kricketune
+Attack,85,157,295,kricketune
+Defense,51,96,221,kricketune
+Sp. Atk,55,103,229,kricketune
+Sp. Def,51,96,221,kricketune
+Speed,65,121,251,kricketune
+HP,60,230,324,klang
+Attack,80,148,284,klang
+Defense,95,175,317,klang
+Sp. Atk,70,130,262,klang
+Sp. Def,85,157,295,klang
+Speed,50,94,218,klang
+HP,109,328,422,stunfisk
+Attack,66,123,254,stunfisk
+Defense,84,155,293,stunfisk
+Sp. Atk,81,150,287,stunfisk
+Sp. Def,99,182,326,stunfisk
+Speed,32,62,179,stunfisk
+HP,109,328,422,stunfisk
+Attack,81,150,287,stunfisk
+Defense,99,182,326,stunfisk
+Sp. Atk,66,123,254,stunfisk
+Sp. Def,84,155,293,stunfisk
+Speed,32,62,179,stunfisk
+HP,40,190,284,klink
+Attack,55,103,229,klink
+Defense,70,130,262,klink
+Sp. Atk,45,85,207,klink
+Sp. Def,60,112,240,klink
+Speed,30,58,174,klink
+HP,74,258,352,ferrothorn
+Attack,94,173,315,ferrothorn
+Defense,131,240,397,ferrothorn
+Sp. Atk,54,101,227,ferrothorn
+Sp. Def,116,213,364,ferrothorn
+Speed,20,40,152,ferrothorn
+HP,110,330,424,excadrill
+Attack,135,247,405,excadrill
+Defense,60,112,240,excadrill
+Sp. Atk,50,94,218,excadrill
+Sp. Def,65,121,251,excadrill
+Speed,88,162,302,excadrill
+HP,44,198,292,ferroseed
+Attack,50,94,218,ferroseed
+Defense,91,168,309,ferroseed
+Sp. Atk,24,47,161,ferroseed
+Sp. Def,86,159,298,ferroseed
+Speed,10,22,130,ferroseed
+HP,60,230,324,klinklang
+Attack,100,184,328,klinklang
+Defense,115,211,361,klinklang
+Sp. Atk,70,130,262,klinklang
+Sp. Def,85,157,295,klinklang
+Speed,90,166,306,klinklang
+HP,70,250,344,escavalier
+Attack,135,247,405,escavalier
+Defense,105,193,339,escavalier
+Sp. Atk,60,112,240,escavalier
+Sp. Def,105,193,339,escavalier
+Speed,20,40,152,escavalier
+HP,91,292,386,heatran
+Attack,90,166,306,heatran
+Defense,106,195,342,heatran
+Sp. Atk,130,238,394,heatran
+Sp. Def,106,195,342,heatran
+Speed,77,143,278,heatran
+HP,60,230,324,probopass
+Attack,55,103,229,probopass
+Defense,145,265,427,probopass
+Sp. Atk,75,139,273,probopass
+HP,70,250,344,magnezone
+Attack,70,130,262,magnezone
+Defense,115,211,361,magnezone
+Sp. Atk,130,238,394,magnezone
+Sp. Def,90,166,306,magnezone
+Speed,60,112,240,magnezone
+HP,70,250,344,lucario
+Attack,110,202,350,lucario
+Defense,70,130,262,lucario
+Sp. Atk,115,211,361,lucario
+Sp. Def,70,130,262,lucario
+Speed,90,166,306,lucario
+HP,70,250,344,lucario
+Attack,145,265,427,lucario
+Defense,88,162,302,lucario
+Sp. Atk,140,256,416,lucario
+HP,67,244,338,bronzong
+Attack,89,164,304,bronzong
+Defense,116,213,364,bronzong
+Sp. Atk,79,146,282,bronzong
+Sp. Def,116,213,364,bronzong
+Speed,33,63,181,bronzong
+HP,57,224,318,bronzor
+Attack,24,47,161,bronzor
+Defense,86,159,298,bronzor
+Sp. Atk,24,47,161,bronzor
+Sp. Def,86,159,298,bronzor
+Speed,23,45,159,bronzor
+HP,60,230,324,wormadam
+HP,100,310,404,dialga
+Attack,120,220,372,dialga
+Defense,120,220,372,dialga
+Sp. Atk,150,274,438,dialga
+Sp. Def,100,184,328,dialga
+Speed,90,166,306,dialga
+Sp. Def,150,274,438,probopass
+Speed,40,76,196,probopass
+Sp. Def,70,130,262,lucario
+Speed,112,206,355,lucario
+Attack,59,110,238,wormadam
+Defense,85,157,295,wormadam
+Sp. Atk,79,146,282,wormadam
+Sp. Def,105,193,339,wormadam
+Speed,36,69,188,wormadam
+HP,60,230,324,wormadam
+Attack,79,146,282,wormadam
+Defense,105,193,339,wormadam
+Sp. Atk,59,110,238,wormadam
+Sp. Def,85,157,295,wormadam
+Speed,36,69,188,wormadam
+HP,60,230,324,wormadam
+Attack,69,128,260,wormadam
+Defense,95,175,317,wormadam
+Sp. Atk,69,128,260,wormadam
+Sp. Def,95,175,317,wormadam
+Speed,36,69,188,wormadam
+HP,30,170,264,shieldon
+Attack,42,80,201,shieldon
+Defense,118,216,368,shieldon
+Sp. Atk,42,80,201,shieldon
+Sp. Def,88,162,302,shieldon
+Speed,30,58,174,shieldon
+HP,84,278,372,empoleon
+Attack,86,159,298,empoleon
+Defense,88,162,302,empoleon
+Sp. Atk,111,204,353,empoleon
+Sp. Def,101,186,331,empoleon
+Speed,60,112,240,empoleon
+HP,100,310,404,jirachi
+Attack,100,184,328,jirachi
+Defense,100,184,328,jirachi
+Sp. Atk,100,184,328,jirachi
+Sp. Def,100,184,328,jirachi
+Speed,100,184,328,jirachi
+HP,80,270,364,metagross
+Attack,135,247,405,metagross
+Defense,130,238,394,metagross
+Sp. Atk,95,175,317,metagross
+Sp. Def,90,166,306,metagross
+Speed,70,130,262,metagross
+HP,80,270,364,metagross
+Attack,145,265,427,metagross
+Defense,150,274,438,metagross
+Sp. Atk,105,193,339,metagross
+Sp. Def,110,202,350,metagross
+Speed,110,202,350,metagross
+HP,60,230,324,metang
+Attack,75,139,273,metang
+Defense,100,184,328,metang
+Sp. Atk,55,103,229,metang
+Sp. Def,80,148,284,metang
+Speed,50,94,218,metang
+HP,40,190,284,beldum
+Attack,55,103,229,beldum
+Defense,80,148,284,beldum
+Sp. Atk,35,67,185,beldum
+Sp. Def,60,112,240,beldum
+Speed,30,58,174,beldum
+HP,60,230,324,bastiodon
+Attack,52,98,223,bastiodon
+Defense,168,306,478,bastiodon
+Sp. Atk,47,89,212,bastiodon
+Sp. Def,138,252,412,bastiodon
+Speed,30,58,174,bastiodon
+HP,80,270,364,registeel
+Attack,75,139,273,registeel
+Defense,150,274,438,registeel
+Sp. Atk,75,139,273,registeel
+Sp. Def,150,274,438,registeel
+Speed,50,94,218,registeel
+HP,70,250,344,aggron
+Attack,110,202,350,aggron
+Defense,180,328,504,aggron
+Sp. Atk,60,112,240,aggron
+Sp. Def,60,112,240,aggron
+Speed,50,94,218,aggron
+HP,70,250,344,aggron
+HP,60,230,324,lairon
+Attack,90,166,306,lairon
+Defense,140,256,416,lairon
+Sp. Atk,50,94,218,lairon
+Sp. Def,50,94,218,lairon
+Speed,40,76,196,lairon
+HP,65,240,334,skarmory
+Attack,80,148,284,skarmory
+Defense,140,256,416,skarmory
+Sp. Atk,40,76,196,skarmory
+Sp. Def,70,130,262,skarmory
+Speed,70,130,262,skarmory
+HP,75,260,354,steelix
+Attack,85,157,295,steelix
+Defense,200,364,548,steelix
+Sp. Atk,55,103,229,steelix
+Sp. Def,65,121,251,steelix
+Speed,30,58,174,steelix
+HP,75,260,354,steelix
+Attack,125,229,383,steelix
+Defense,230,418,614,steelix
+Attack,140,256,416,aggron
+Defense,230,418,614,aggron
+Sp. Atk,60,112,240,aggron
+Sp. Def,80,148,284,aggron
+Speed,50,94,218,aggron
+HP,50,210,304,magneton
+Attack,60,112,240,magneton
+Defense,95,175,317,magneton
+Sp. Atk,120,220,372,magneton
+Sp. Def,70,130,262,magneton
+Speed,70,130,262,magneton
+Sp. Atk,55,103,229,steelix
+Sp. Def,95,175,317,steelix
+Speed,30,58,174,steelix
+HP,50,210,304,aron
+Attack,70,130,262,aron
+Defense,100,184,328,aron
+Sp. Atk,40,76,196,aron
+Sp. Def,40,76,196,aron
+Speed,30,58,174,aron
+HP,25,160,254,magnemite
+Attack,35,67,185,magnemite
+Defense,70,130,262,magnemite
+Sp. Atk,95,175,317,magnemite
+Sp. Def,55,103,229,magnemite
+Speed,45,85,207,magnemite
+HP,10,130,224,diglett
+Attack,55,103,229,diglett
+Defense,25,49,163,diglett
+Sp. Atk,35,67,185,diglett
+Sp. Def,45,85,207,diglett
+Speed,95,175,317,diglett
+HP,10,130,224,diglett
+Attack,55,103,229,diglett
+Defense,30,58,174,diglett
+Sp. Atk,35,67,185,diglett
+Sp. Def,45,85,207,diglett
+Speed,90,166,306,diglett
+HP,40,190,284,zubat
+Attack,45,85,207,zubat
+Defense,35,67,185,zubat
+Sp. Atk,30,58,174,zubat
+Sp. Def,40,76,196,zubat
+Speed,55,103,229,zubat
+HP,35,180,274,dugtrio
+Attack,100,184,328,dugtrio
+Defense,50,94,218,dugtrio
+Sp. Atk,50,94,218,dugtrio
+Sp. Def,70,130,262,dugtrio
+Speed,120,220,372,dugtrio
+HP,35,180,274,dugtrio
+Attack,100,184,328,dugtrio
+Defense,60,112,240,dugtrio
+Sp. Atk,50,94,218,dugtrio
+Sp. Def,70,130,262,dugtrio
+HP,65,240,334,fearow
+Attack,90,166,306,fearow
+Defense,65,121,251,fearow
+Sp. Atk,61,114,243,fearow
+Sp. Def,61,114,243,fearow
+Speed,100,184,328,fearow
+HP,50,210,304,sandshrew
+Attack,75,139,273,sandshrew
+Defense,85,157,295,sandshrew
+Sp. Atk,20,40,152,sandshrew
+Sp. Def,30,58,174,sandshrew
+Speed,40,76,196,sandshrew
+HP,50,210,304,sandshrew
+Attack,75,139,273,sandshrew
+Defense,90,166,306,sandshrew
+Sp. Atk,10,22,130,sandshrew
+HP,40,190,284,meowth
+Attack,45,85,207,meowth
+HP,75,260,354,sandslash
+Attack,100,184,328,sandslash
+Defense,110,202,350,sandslash
+Sp. Atk,45,85,207,sandslash
+Sp. Def,55,103,229,sandslash
+Speed,65,121,251,sandslash
+HP,75,260,354,sandslash
+HP,40,190,284,spearow
+Attack,60,112,240,spearow
+Defense,30,58,174,spearow
+Sp. Atk,31,60,177,spearow
+Sp. Def,31,60,177,spearow
+Speed,70,130,262,spearow
+Speed,110,202,350,dugtrio
+Sp. Def,35,67,185,sandshrew
+Speed,40,76,196,sandshrew
+Defense,35,67,185,meowth
+Sp. Atk,40,76,196,meowth
+Sp. Def,40,76,196,meowth
+Speed,90,166,306,meowth
+HP,40,190,284,meowth
+Attack,35,67,185,meowth
+Defense,35,67,185,meowth
+Sp. Atk,50,94,218,meowth
+Sp. Def,40,76,196,meowth
+Speed,90,166,306,meowth
+HP,50,210,304,meowth
+Attack,65,121,251,meowth
+Defense,55,103,229,meowth
+Sp. Atk,40,76,196,meowth
+Sp. Def,40,76,196,meowth
+Speed,40,76,196,meowth
+Attack,100,184,328,sandslash
+Defense,120,220,372,sandslash
+Sp. Atk,25,49,163,sandslash
+Sp. Def,65,121,251,sandslash
+Speed,65,121,251,sandslash
+HP,78,266,360,charizard
+HP,63,236,330,pidgeotto
+Attack,60,112,240,pidgeotto
+Defense,55,103,229,pidgeotto
+Sp. Atk,50,94,218,pidgeotto
+Sp. Def,50,94,218,pidgeotto
+Speed,71,132,265,pidgeotto
+HP,83,276,370,pidgeot
+Attack,80,148,284,pidgeot
+Defense,75,139,273,pidgeot
+Sp. Atk,70,130,262,pidgeot
+Sp. Def,70,130,262,pidgeot
+Speed,101,186,331,pidgeot
+HP,83,276,370,pidgeot
+Attack,80,148,284,pidgeot
+Defense,80,148,284,pidgeot
+Sp. Atk,135,247,405,pidgeot
+Sp. Def,80,148,284,pidgeot
+Speed,121,222,375,pidgeot
+HP,1,1,1,shedinja
+Attack,90,166,306,shedinja
+Defense,45,85,207,shedinja
+Sp. Atk,30,58,174,shedinja
+Sp. Def,30,58,174,shedinja
+Speed,40,76,196,shedinja
+HP,40,190,284,pidgey
+Attack,45,85,207,pidgey
+Defense,40,76,196,pidgey
+Sp. Atk,35,67,185,pidgey
+Sp. Def,35,67,185,pidgey
+Speed,56,105,232,pidgey
+Attack,84,155,293,charizard
+Defense,78,144,280,charizard
+Sp. Atk,109,200,348,charizard
+Sp. Def,85,157,295,charizard
+Speed,100,184,328,charizard
+HP,78,266,360,charizard
+Attack,130,238,394,charizard
+Defense,111,204,353,charizard
+Sp. Atk,130,238,394,charizard
+Sp. Def,85,157,295,charizard
+Speed,100,184,328,charizard
+HP,78,266,360,charizard
+Attack,104,191,337,charizard
+Defense,78,144,280,charizard
+Sp. Atk,159,290,458,charizard
+Sp. Def,115,211,361,charizard
+Speed,100,184,328,charizard
+HP,31,172,266,nincada
+Attack,45,85,207,nincada
+Defense,90,166,306,nincada
+Sp. Atk,30,58,174,nincada
+Sp. Def,30,58,174,nincada
+Speed,40,76,196,nincada
+HP,65,240,334,volbeat
+Attack,73,135,269,volbeat
+Defense,75,139,273,volbeat
+Sp. Atk,47,89,212,volbeat
+Sp. Def,85,157,295,volbeat
+Speed,85,157,295,volbeat
+HP,61,232,326,ninjask
+Attack,90,166,306,ninjask
+Defense,45,85,207,ninjask
+Sp. Atk,50,94,218,ninjask
+Sp. Def,50,94,218,ninjask
+Speed,160,292,460,ninjask
+HP,45,200,294,wurmple
+Attack,45,85,207,wurmple
+Defense,35,67,185,wurmple
+Sp. Atk,20,40,152,wurmple
+Sp. Def,30,58,174,wurmple
+Speed,20,40,152,wurmple
+HP,70,250,344,masquerain
+Attack,60,112,240,masquerain
+Defense,62,116,245,masquerain
+HP,40,190,284,surskit
+Attack,30,58,174,surskit
+Defense,32,62,179,surskit
+Sp. Atk,50,94,218,surskit
+HP,50,210,304,cascoon
+Attack,35,67,185,cascoon
+Defense,55,103,229,cascoon
+Sp. Atk,25,49,163,cascoon
+Sp. Def,25,49,163,cascoon
+Speed,15,31,141,cascoon
+HP,60,230,324,dustox
+Attack,50,94,218,dustox
+Defense,70,130,262,dustox
+Sp. Atk,50,94,218,dustox
+Sp. Def,90,166,306,dustox
+Speed,65,121,251,dustox
+HP,60,230,324,beautifly
+Attack,70,130,262,beautifly
+Defense,50,94,218,beautifly
+Sp. Atk,100,184,328,beautifly
+Sp. Def,50,94,218,beautifly
+Speed,65,121,251,beautifly
+Sp. Atk,100,184,328,masquerain
+Sp. Def,82,152,289,masquerain
+Speed,80,148,284,masquerain
+Sp. Def,52,98,223,surskit
+Speed,65,121,251,surskit
+HP,80,270,364,heracross
+HP,50,210,304,silcoon
+Attack,35,67,185,silcoon
+Defense,55,103,229,silcoon
+Sp. Atk,25,49,163,silcoon
+Sp. Def,25,49,163,silcoon
+Speed,15,31,141,silcoon
+HP,20,150,244,shuckle
+Attack,10,22,130,shuckle
+Defense,230,418,614,shuckle
+Sp. Atk,10,22,130,shuckle
+Sp. Def,230,418,614,shuckle
+Speed,5,13,119,shuckle
+HP,70,250,344,scizor
+Attack,130,238,394,scizor
+Defense,100,184,328,scizor
+Sp. Atk,55,103,229,scizor
+Sp. Def,80,148,284,scizor
+Speed,65,121,251,scizor
+HP,70,250,344,scizor
+Attack,150,274,438,scizor
+Defense,140,256,416,scizor
+Sp. Atk,65,121,251,scizor
+Sp. Def,100,184,328,scizor
+Speed,75,139,273,scizor
+Attack,125,229,383,heracross
+Defense,75,139,273,heracross
+Sp. Atk,40,76,196,heracross
+Sp. Def,95,175,317,heracross
+Speed,85,157,295,heracross
+HP,80,270,364,heracross
+Attack,185,337,515,heracross
+Defense,115,211,361,heracross
+Sp. Atk,40,76,196,heracross
+Sp. Def,105,193,339,heracross
+Speed,75,139,273,heracross
+HP,65,240,334,yanma
+Attack,65,121,251,yanma
+Defense,45,85,207,yanma
+Sp. Atk,75,139,273,yanma
+Sp. Def,45,85,207,yanma
+Speed,95,175,317,yanma
+HP,70,250,344,ariados
+Attack,90,166,306,ariados
+Defense,70,130,262,ariados
+Sp. Atk,60,112,240,ariados
+Sp. Def,70,130,262,ariados
+Speed,40,76,196,ariados
+HP,50,210,304,pineco
+Attack,65,121,251,pineco
+Defense,90,166,306,pineco
+Sp. Atk,35,67,185,pineco
+Sp. Def,35,67,185,pineco
+Speed,15,31,141,pineco
+HP,75,260,354,forretress
+Attack,90,166,306,forretress
+Defense,140,256,416,forretress
+Sp. Atk,60,112,240,forretress
+Sp. Def,60,112,240,forretress
+Speed,40,76,196,forretress
+HP,60,230,324,parasect
+Attack,95,175,317,parasect
+Defense,80,148,284,parasect
+Sp. Atk,60,112,240,parasect
+Sp. Def,80,148,284,parasect
+Speed,30,58,174,parasect
+HP,40,190,284,spinarak
+Attack,60,112,240,spinarak
+Defense,40,76,196,spinarak
+Sp. Atk,40,76,196,spinarak
+Sp. Def,40,76,196,spinarak
+Speed,30,58,174,spinarak
+HP,55,220,314,ledian
+Attack,35,67,185,ledian
+Defense,50,94,218,ledian
+Sp. Atk,55,103,229,ledian
+Sp. Def,110,202,350,ledian
+Speed,85,157,295,ledian
+HP,70,250,344,scyther
+Attack,110,202,350,scyther
+Defense,80,148,284,scyther
+Sp. Atk,55,103,229,scyther
+Sp. Def,80,148,284,scyther
+Speed,105,193,339,scyther
+HP,40,190,284,ledyba
+Attack,20,40,152,ledyba
+Defense,30,58,174,ledyba
+Sp. Atk,40,76,196,ledyba
+Sp. Def,80,148,284,ledyba
+Speed,55,103,229,ledyba
+HP,65,240,334,pinsir
+Attack,125,229,383,pinsir
+Defense,100,184,328,pinsir
+Sp. Atk,55,103,229,pinsir
+Sp. Def,70,130,262,pinsir
+Speed,85,157,295,pinsir
+HP,65,240,334,pinsir
+Attack,155,283,449,pinsir
+Defense,120,220,372,pinsir
+Sp. Atk,65,121,251,pinsir
+Sp. Def,90,166,306,pinsir
+Speed,105,193,339,pinsir
+HP,35,180,274,paras
+Attack,70,130,262,paras
+Defense,55,103,229,paras
+Sp. Atk,45,85,207,paras
+Sp. Def,55,103,229,paras
+Speed,25,49,163,paras
+HP,65,240,334,beedrill
+Attack,90,166,306,beedrill
+Defense,40,76,196,beedrill
+Sp. Atk,45,85,207,beedrill
+Sp. Def,80,148,284,beedrill
+Speed,75,139,273,beedrill
+HP,65,240,334,beedrill
+Attack,150,274,438,beedrill
+Defense,40,76,196,beedrill
+Sp. Atk,15,31,141,beedrill
+Sp. Def,80,148,284,beedrill
+Speed,145,265,427,beedrill
+HP,45,200,294,kakuna
+Attack,25,49,163,kakuna
+Defense,50,94,218,kakuna
+Sp. Atk,25,49,163,kakuna
+Sp. Def,25,49,163,kakuna
+Speed,35,67,185,kakuna
+HP,40,190,284,weedle
+Attack,35,67,185,weedle
+Defense,30,58,174,weedle
+Sp. Atk,20,40,152,weedle
+Sp. Def,20,40,152,weedle
+Speed,50,94,218,weedle
+HP,60,230,324,butterfree
+Attack,45,85,207,butterfree
+Defense,50,94,218,butterfree
+Sp. Atk,90,166,306,butterfree
+Sp. Def,80,148,284,butterfree
+Speed,70,130,262,butterfree
+HP,70,250,344,venomoth
+Attack,65,121,251,venomoth
+Defense,60,112,240,venomoth
+Sp. Atk,90,166,306,venomoth
+Sp. Def,75,139,273,venomoth
+Speed,90,166,306,venomoth
+HP,60,230,324,venonat
+Attack,55,103,229,venonat
+Defense,50,94,218,venonat
+Sp. Atk,40,76,196,venonat
+Sp. Def,55,103,229,venonat
+Speed,45,85,207,venonat
+HP,45,200,294,caterpie
+Attack,30,58,174,caterpie
+Defense,35,67,185,caterpie
+Sp. Atk,20,40,152,caterpie
+Sp. Def,20,40,152,caterpie
+Speed,45,85,207,caterpie
+HP,92,294,388,zacian
+Attack,170,310,482,zacian
+Defense,115,211,361,zacian
+Sp. Atk,80,148,284,zacian
+Sp. Def,115,211,361,zacian
+Speed,148,270,434,zacian
+HP,92,294,388,zacian
+Attack,130,238,394,zacian
+Defense,115,211,361,zacian
+Sp. Atk,80,148,284,zacian
+Sp. Def,115,211,361,zacian
+Speed,138,252,412,zacian
+HP,65,240,334,alcremie
+Attack,60,112,240,alcremie
+Defense,75,139,273,alcremie
+Sp. Atk,110,202,350,alcremie
+Sp. Def,121,222,375,alcremie
+Speed,64,119,249,alcremie
+HP,95,300,394,grimmsnarl
+Attack,120,220,372,grimmsnarl
+Defense,65,121,251,grimmsnarl
+Sp. Atk,95,175,317,grimmsnarl
+Sp. Def,75,139,273,grimmsnarl
+Speed,60,112,240,grimmsnarl
+HP,65,240,334,morgrem
+Attack,60,112,240,morgrem
+Defense,45,85,207,morgrem
+Sp. Atk,75,139,273,morgrem
+Sp. Def,55,103,229,morgrem
+Speed,70,130,262,morgrem
+HP,50,210,304,metapod
+Attack,20,40,152,metapod
+Defense,55,103,229,metapod
+Sp. Atk,25,49,163,metapod
+Sp. Def,25,49,163,metapod
+Speed,30,58,174,metapod
+HP,45,200,294,impidimp
+Attack,45,85,207,impidimp
+Defense,30,58,174,impidimp
+Sp. Atk,55,103,229,impidimp
+Sp. Def,40,76,196,impidimp
+Speed,50,94,218,impidimp
+HP,70,250,344,tapu-fini
+Attack,75,139,273,tapu-fini
+Defense,115,211,361,tapu-fini
+Sp. Atk,95,175,317,tapu-fini
+Sp. Def,130,238,394,tapu-fini
+Speed,85,157,295,tapu-fini
+HP,70,250,344,tapu-bulu
+Attack,130,238,394,tapu-bulu
+Defense,115,211,361,tapu-bulu
+Sp. Atk,85,157,295,tapu-bulu
+Sp. Def,95,175,317,tapu-bulu
+Speed,75,139,273,tapu-bulu
+HP,45,200,294,milcery
+Attack,40,76,196,milcery
+Defense,40,76,196,milcery
+Sp. Atk,50,94,218,milcery
+Sp. Def,61,114,243,milcery
+Speed,34,65,183,milcery
+HP,57,224,318,hatterene
+Attack,90,166,306,hatterene
+Defense,95,175,317,hatterene
+Sp. Atk,136,249,408,hatterene
+Sp. Def,103,189,335,hatterene
+Speed,29,56,172,hatterene
+HP,70,250,344,tapu-koko
+Attack,115,211,361,tapu-koko
+Defense,85,157,295,tapu-koko
+Sp. Atk,95,175,317,tapu-koko
+Sp. Def,75,139,273,tapu-koko
+Speed,130,238,394,tapu-koko
+HP,70,250,344,tapu-lele
+Attack,85,157,295,tapu-lele
+Defense,75,139,273,tapu-lele
+Sp. Atk,130,238,394,tapu-lele
+Sp. Def,115,211,361,tapu-lele
+Speed,95,175,317,tapu-lele
+HP,80,270,364,primarina
+Attack,74,137,271,primarina
+Defense,74,137,271,primarina
+Sp. Atk,126,231,386,primarina
+Sp. Def,116,213,364,primarina
+Speed,60,112,240,primarina
+HP,57,224,318,klefki
+Attack,80,148,284,klefki
+Defense,91,168,309,klefki
+Sp. Atk,80,148,284,klefki
+Sp. Def,87,161,300,klefki
+Speed,75,139,273,klefki
+HP,80,270,364,magearna
+Attack,95,175,317,magearna
+Defense,115,211,361,magearna
+Sp. Atk,130,238,394,magearna
+Sp. Def,115,211,361,magearna
+Speed,65,121,251,magearna
+HP,67,244,338,dedenne
+Attack,58,108,236,dedenne
+Defense,57,107,234,dedenne
+Sp. Atk,81,150,287,dedenne
+Sp. Def,67,125,256,dedenne
+Speed,101,186,331,dedenne
+HP,126,362,456,xerneas
+Attack,131,240,397,xerneas
+Defense,95,175,317,xerneas
+Sp. Atk,131,240,397,xerneas
+Sp. Def,98,180,324,xerneas
+Speed,99,182,326,xerneas
+HP,50,210,304,carbink
+Attack,50,94,218,carbink
+Defense,150,274,438,carbink
+Sp. Atk,50,94,218,carbink
+Sp. Def,150,274,438,carbink
+Speed,50,94,218,carbink
+HP,95,300,394,sylveon
+Attack,65,121,251,sylveon
+Defense,65,121,251,sylveon
+Sp. Atk,110,202,350,sylveon
+Sp. Def,130,238,394,sylveon
+Speed,60,112,240,sylveon
+HP,50,210,304,diancie
+Attack,100,184,328,diancie
+Defense,150,274,438,diancie
+Sp. Atk,100,184,328,diancie
+Sp. Def,150,274,438,diancie
+Speed,50,94,218,diancie
+HP,50,210,304,diancie
+Attack,160,292,460,diancie
+Defense,110,202,350,diancie
+Sp. Atk,160,292,460,diancie
+Sp. Def,110,202,350,diancie
+Speed,110,202,350,diancie
+HP,62,234,328,swirlix
+Attack,48,90,214,swirlix
+Defense,66,123,254,swirlix
+Sp. Atk,59,110,238,swirlix
+Sp. Def,57,107,234,swirlix
+Speed,49,92,216,swirlix
+HP,101,312,406,aromatisse
+Attack,72,134,267,aromatisse
+Defense,72,134,267,aromatisse
+Sp. Atk,99,182,326,aromatisse
+Sp. Def,89,164,304,aromatisse
+Speed,29,56,172,aromatisse
+HP,54,218,312,floette
+Attack,45,85,207,floette
+Defense,47,89,212,floette
+Sp. Atk,75,139,273,floette
+Sp. Def,98,180,324,floette
+Speed,52,98,223,floette
+HP,78,266,360,florges
+Attack,65,121,251,florges
+Defense,68,126,258,florges
+Sp. Atk,112,206,355,florges
+Sp. Def,154,281,447,florges
+Speed,75,139,273,florges
+HP,44,198,292,flabebe
+Attack,38,72,192,flabebe
+Defense,39,74,194,flabebe
+Sp. Atk,61,114,243,flabebe
+Sp. Def,79,146,282,flabebe
+Speed,42,80,201,flabebe
+HP,78,266,360,spritzee
+Attack,52,98,223,spritzee
+Defense,60,112,240,spritzee
+Sp. Atk,63,117,247,spritzee
+Sp. Def,65,121,251,spritzee
+Speed,23,45,159,spritzee
+HP,60,230,324,whimsicott
+Attack,67,125,256,whimsicott
+Defense,85,157,295,whimsicott
+Sp. Atk,77,143,278,whimsicott
+Sp. Def,75,139,273,whimsicott
+Speed,116,213,364,whimsicott
+HP,82,274,368,slurpuff
+Attack,80,148,284,slurpuff
+Defense,86,159,298,slurpuff
+Sp. Atk,85,157,295,slurpuff
+Sp. Def,75,139,273,slurpuff
+Speed,72,134,267,slurpuff
+HP,40,190,284,cottonee
+Attack,27,53,168,cottonee
+Defense,60,112,240,cottonee
+Sp. Atk,37,71,190,cottonee
+Sp. Def,50,94,218,cottonee
+Speed,66,123,254,cottonee
+HP,50,210,304,azurill
+Attack,20,40,152,azurill
+Defense,40,76,196,azurill
+Sp. Atk,20,40,152,azurill
+Sp. Def,40,76,196,azurill
+Speed,20,40,152,azurill
+HP,85,280,374,togekiss
+Attack,50,94,218,togekiss
+Defense,95,175,317,togekiss
+Sp. Atk,120,220,372,togekiss
+Sp. Def,115,211,361,togekiss
+Speed,80,148,284,togekiss
+HP,50,210,304,mawile
+Attack,85,157,295,mawile
+Defense,85,157,295,mawile
+Sp. Atk,55,103,229,mawile
+Sp. Def,55,103,229,mawile
+Speed,50,94,218,mawile
+HP,50,210,304,mawile
+Attack,105,193,339,mawile
+Defense,125,229,383,mawile
+Sp. Atk,55,103,229,mawile
+Sp. Def,95,175,317,mawile
+Speed,50,94,218,mawile
+HP,75,260,354,altaria
+Attack,70,130,262,altaria
+Defense,90,166,306,altaria
+Sp. Atk,70,130,262,altaria
+Sp. Def,105,193,339,altaria
+Speed,80,148,284,altaria
+HP,75,260,354,altaria
+Attack,110,202,350,altaria
+Defense,110,202,350,altaria
+Sp. Atk,110,202,350,altaria
+Sp. Def,105,193,339,altaria
+Speed,80,148,284,altaria
+HP,103,316,410,audino
+Attack,60,112,240,audino
+Defense,86,159,298,audino
+Sp. Atk,60,112,240,audino
+Sp. Def,86,159,298,audino
+Speed,50,94,218,audino
+HP,103,316,410,audino
+HP,68,246,340,gardevoir
+Attack,65,121,251,gardevoir
+Defense,65,121,251,gardevoir
+Sp. Atk,125,229,383,gardevoir
+Sp. Def,115,211,361,gardevoir
+Speed,80,148,284,gardevoir
+HP,68,246,340,gardevoir
+Attack,85,157,295,gardevoir
+Defense,65,121,251,gardevoir
+Sp. Atk,165,301,471,gardevoir
+Sp. Def,135,247,405,gardevoir
+Speed,100,184,328,gardevoir
+Attack,60,112,240,audino
+Defense,126,231,386,audino
+Sp. Atk,80,148,284,audino
+Sp. Def,126,231,386,audino
+Speed,50,94,218,audino
+HP,20,150,244,mime-jr
+Attack,25,49,163,mime-jr
+Defense,45,85,207,mime-jr
+Sp. Atk,70,130,262,mime-jr
+Sp. Def,90,166,306,mime-jr
+Speed,60,112,240,mime-jr
+HP,90,290,384,granbull
+Attack,120,220,372,granbull
+Defense,75,139,273,granbull
+Sp. Atk,60,112,240,granbull
+Sp. Def,60,112,240,granbull
+Speed,45,85,207,granbull
+HP,28,166,260,ralts
+Attack,25,49,163,ralts
+Defense,25,49,163,ralts
+Sp. Atk,45,85,207,ralts
+Sp. Def,35,67,185,ralts
+Speed,40,76,196,ralts
+HP,100,310,404,azumarill
+Attack,50,94,218,azumarill
+Defense,80,148,284,azumarill
+Sp. Atk,60,112,240,azumarill
+Sp. Def,80,148,284,azumarill
+Speed,50,94,218,azumarill
+HP,38,186,280,kirlia
+Attack,35,67,185,kirlia
+Defense,35,67,185,kirlia
+Sp. Atk,65,121,251,kirlia
+Sp. Def,55,103,229,kirlia
+Speed,50,94,218,kirlia
+HP,60,230,324,snubbull
+Attack,80,148,284,snubbull
+Defense,50,94,218,snubbull
+Sp. Atk,40,76,196,snubbull
+Sp. Def,40,76,196,snubbull
+Speed,30,58,174,snubbull
+HP,55,220,314,togetic
+Attack,40,76,196,togetic
+Defense,85,157,295,togetic
+Sp. Atk,80,148,284,togetic
+Sp. Def,105,193,339,togetic
+Speed,40,76,196,togetic
+HP,70,250,344,marill
+Attack,20,40,152,marill
+Defense,50,94,218,marill
+Sp. Atk,20,40,152,marill
+Sp. Def,50,94,218,marill
+Speed,40,76,196,marill
+HP,35,180,274,togepi
+Attack,20,40,152,togepi
+Defense,65,121,251,togepi
+Sp. Atk,40,76,196,togepi
+Sp. Def,65,121,251,togepi
+Speed,20,40,152,togepi
+HP,90,290,384,igglybuff
+Attack,30,58,174,igglybuff
+Defense,15,31,141,igglybuff
+Sp. Atk,40,76,196,igglybuff
+Sp. Def,20,40,152,igglybuff
+Speed,15,31,141,igglybuff
